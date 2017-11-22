@@ -287,5 +287,6 @@ Run/**
 !Run/Data
 !Run/Data/**
 Run/Data/mycharms**
+Run/Data/Images
 !Run/credits.txt
 *.exe
