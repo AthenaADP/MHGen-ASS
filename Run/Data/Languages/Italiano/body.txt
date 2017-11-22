@@ -1,0 +1,673 @@
+﻿Pettorina di cuoio
+Pettorina di cotta
+Cotta Bherna
+Cotta caccia
+Pettorina caccia
+Giacca Mafumofu
+Dogi Yukumo
+Scialle Loc Lac
+Cotta cacciatore
+Pettorina cacciatore
+Cotta d'osso
+Pettorina d'osso
+Piastra del caos
+Brigantina del caos
+Cotta Jaggi
+Pettorina Jaggi
+Cotta Maccao
+Pettorina Maccao
+Cotta Velociprey
+Pettorina Velociprey
+Cotta Giaprey
+Pettorina Giaprey
+Cotta Genprey
+Pettorina Genprey
+Cotta Vespoid
+Pettorina Vespoid
+Cotta Hornetaur
+Pettorina Hornetaur
+Abito Bnahabra
+Pettorina Bnahabra
+Pettorale Mosswine
+Cotta Rhenoplos
+Pettorina Rhenoplos
+Cotta Bulldrome
+Pettorina Bulldrome
+Cotta Arzuros
+Pettorina Arzuros
+Cotta Cephalos
+Pettorina Cephalos
+Giacca ardita
+Cotta in lega
+Pettorina in lega
+Cotta da battaglia
+Pettor. da battaglia
+Cotta lingotto
+Pettorina lingotto
+Cotta Hi-Metal
+Pettorina Hi-Metal
+Giacca Melahoa
+Stelo Melahoa
+Copertura Makluva
+Squama Makluva
+Abito Bistrò
+Giacca Bistrò
+Petto Necrologio
+Pleura Necrologio
+Petto farfalla
+Pleura farfalla
+Muscolo puzza morte
+Cuore puzza morte
+Cotta ghianda
+Pettorina ghianda
+Gabbia tor. Mosgharl
+Corazza Mosgharl
+Gabbia tor. Edel
+Corazza Edel
+Torace Skalda
+Pleura Skalda
+Torace Spio
+Pleura Spio
+Cotta Droth
+Pettorina Droth
+Corazza Uroktor
+Pettorina Uroktor
+Abito Moofah
+Giacca Moofah
+Corpo Velociprey
+Abito Velociprey
+Corpo Genprey
+Abito Genprey
+Corpo Ioprey
+Capo Ioprey
+Abito Remobra
+Capo Remobra
+Cotta Ioprey
+Pettorina Ioprey
+Cotta Kut-Ku
+Pettorina Kut-Ku
+Cotta Lagombi
+Pettorina Lagombi
+Cotta Gypceros
+Pettorina Gypceros
+Cotta Tetsucabra
+Pettorina Tetsucabra
+Cotta Hermitaur
+Pettorina Hermitaur
+Cotta Volvidon
+Pettorina Volvidon
+Cotta Ludroth
+Pettorina Ludroth
+Cotta Malfestio
+Pettorina Malfestio
+Cotta Khezu
+Pettorina Khezu
+Cotta Rathian
+Pettorina Rathian
+Cotta Nibelsnarf
+Pettorina Nibelsnarf
+Cotta Blango
+Pettorina Blango
+Cotta Ceanataur
+Pettorina Ceanataur
+Cotta Najarala
+Pettorina Najarala
+Cotta Nargacuga
+Pettorina Nargacuga
+Abito sapiente
+Pettorina sapiente
+Cotta Vaik
+Pettorina Vaik
+Torace Aelucanth
+Pleura Aelucanth
+Torace Rhopessa
+Pleura Rhopessa
+Cotta Artian
+Pettorina Artian
+Cotta Garuga
+Pettorina Garuga
+Cotta Uragaan
+Pettorina Uragaan
+Cotta Rathalos
+Pettorina Rathalos
+Cotta Lagiacrus
+Pettorina Lagiacrus
+Cotta Zinogre
+Pettorina Zinogre
+Cotta Mizutsune
+Pettorina Mizutsune
+Cotta Astalos
+Pettorina Astalos
+Cotta Gammoth
+Pettorina Gammoth
+Cotta Glavenus
+Pettorina Glavenus
+Cotta Gore Magala
+Pettor. Gore Magala
+Cotta Regios
+Pettorina Regios
+Cotta Tigrex
+Pettorina Tigrex
+Giacca Kirin
+Cappa Kirin
+Cotta Brachydios
+Pettorina Brachydios
+Cotta dell'arco
+Pettorina dell'arco
+Cotta storge
+Pettorina storge
+Cista Kushala
+Morso Kushala
+Protezioni Mizuha
+Tunica stravagante
+Cotta Kaiser
+Pettorina Kaiser
+Sterno scheletrico
+Sterno decomposto
+Cuoio nero
+Pelle nera
+Cotta cintura nera
+Pettor. cintura nera
+Bolero bardo
+Pettorina bardo
+Abito damigella
+Pettorina french maid
+Abito aiutante
+Pettorina guaritrice
+Giacca Dianthus
+Giacca Campanile
+Accappatoio da bagno
+Abito Gourmiao
+Pettorina Gourmiao
+Cotta di cuoio S
+Pettorina di cuoio S
+Armatura di cotta S
+Pettorina di cotta S
+Cotta Bherna S
+Pettorina Bherna S
+Cotta caccia S
+Pettorina caccia S
+Abito Mafumofu S
+Giacca Mafumofu S
+Dogi Yukumo cielo
+Dogi Yukumo terra
+Scialle Loc Lac S
+Cotta cacciatore S
+Pettor. cacciatore S
+Cotta cacciatore R
+Pettor. cacciatore R
+Cotta d'osso S
+Pettorina d'osso S
+Arcicorazza del caos
+Arcibrig. del caos
+Giacca Melahoa S
+Stelo Melahoa S
+Giacca Melahoa U
+Stelo Melahoa U
+Copertura Makluva S
+Squama Makluva S
+Copertura Makluva U
+Squama Makluva U
+Abito Bistrò S
+Giacca Bistrò S
+Cotta ghianda S
+Pettorina ghianda S
+Gabbia t. Mosgharl S
+Corazza Mosgharl S
+Gabbia tor. Edel S
+Corazza Edel S
+Abito Moofah S
+Giacca Moofah S
+Mantello Slagtoth
+Scialle Slagtoth
+Corpo Velociprey S
+Abito Velociprey S
+Corpo Genprey S
+Abito Genprey S
+Corpo Ioprey S
+Capo Ioprey S
+Abito Remobra S
+Capo Remobra S
+Pettorale Mosswine S
+Cotta Rhenoplos S
+Pettor. Rhenoplos S
+Cotta Jaggi S
+Pettorina Jaggi S
+Cotta Droth S
+Pettorina Droth S
+Corazza Uroktor S
+Pettorina Uroktor S
+Cotta Maccao S
+Pettorina Maccao S
+Cotta Velociprey S
+Pettor. Velociprey S
+Cotta Giaprey S
+Pettorina Giaprey S
+Cotta Genprey S
+Pettorina Genprey S
+Cotta Genprey EX
+Pettorina Genprey EX
+Cotta Ioprey S
+Pettorina Ioprey S
+Cotta Ioprey EX
+Pettorina Ioprey EX
+Cotta Vespoid S
+Pettorina Vespoid S
+Cotta Vespoid EX
+Pettorina Vespoid EX
+Cotta Hornet S
+Pettorina Hornet S
+Cotta Hornet EX
+Pettorina Hornet EX
+Cotta Hornet R
+Pettorina Hornet R
+Abito Bnahabra S
+Pettorina Bnahabra S
+Cotta Bulldrome S
+Pettorina Bulldrome S
+Cotta Arzuros S
+Pettorina Arzuros S
+Cotta Cephalos S
+Pettorina Cephalos S
+Cotta Cephalos EX
+Pettorina Cephalos EX
+Cotta Kut-Ku S
+Pettorina Kut-Ku S
+Cotta Kecha Wacha
+Pettor. Kecha Wacha
+Cotta Lagombi S
+Pettorina Lagombi S
+Cotta Gypceros S
+Pettorina Gypceros S
+Cotta Gypceros R
+Pettorina Gypceros R
+Cotta Tetsucabra S
+Pettor. Tetsucabra S
+Cotta Hermitaur S
+Pettor. Hermitaur S
+Cotta Hermitaur EX
+Pettor. Hermitaur EX
+Cotta Hermitaur R
+Pettor. Hermitaur R
+Cotta Volvidon S
+Pettorina Volvidon S
+Cotta Ludroth S
+Pettorina Ludroth S
+Cotta Ludroth R
+Pettorina Ludroth R
+Abito sapienza
+Giacca sapienza
+Cotta in lega S
+Pettorina in lega S
+Cotta in lega R
+Pettorina in lega R
+Cotta da battaglia S
+Pettor. da battaglia S
+Cotta lingotto S
+Pettorina lingotto S
+Cotta lingotto R
+Pettorina lingotto R
+Cotta Hi-Metal S
+Pettorina Hi-Metal S
+Cotta Hi-Metal U
+Pettorina Hi-Metal U
+Cotta aragosta
+Pettorina aragosta
+Petto Necrologio S
+Pleura Necrologio S
+Petto Farfalla S
+Pleura farfalla S
+Musc. puzza morte S
+Cuore puzza morte S
+Musc. puzza morte R
+Cuore puzza morte R
+Cotta Vaik S
+Pettorina Vaik S
+Torace Aelucanth S
+Pleura Aelucanth S
+Torace Rhopessa S
+Pleura Rhopessa S
+Abito pasticciere
+Divisa pasticciere
+Torace Skalda S
+Pleura Skalda S
+Torace Spio S
+Pleura Spio S
+Cotta Malfestio S
+Pettorina Malfestio S
+Cotta Zamtrios
+Pettorina Zamtrios
+Cotta Khezu S
+Pettorina Khezu S
+Cotta Khezu R
+Pettorina Khezu R
+Cotta Rathian S
+Pettorina Rathian S
+Cotta Rathian EX
+Pettorina Rathian EX
+Cotta Rathian R
+Pettorina Rathian R
+Cotta Nibelsnarf S
+Pettor. Nibelsnarf S
+Cotta Plesioth
+Pettorina Plesioth
+Cotta Blango S
+Pettorina Blango S
+Cotta Blango EX
+Pettorina Blango EX
+Cotta Lavasioth
+Pettorina Lavasioth
+Cotta Lavasioth EX
+Pettor. Lavasioth EX
+Cotta Ceanataur S
+Pettorina Ceanataur S
+Cotta Ceanataur EX
+Pettor. Ceanataur EX
+Cotta Ceanataur R
+Pettorina Ceanataur R
+Cotta Najarala S
+Pettorina Najarala S
+Cotta Narga S
+Pettor. Narga S
+Cotta Garuga S
+Pettorina Garuga S
+Cotta Uragaan S
+Pettorina Uragaan S
+Cotta cintura nera S
+Pett. cintura nera S
+Abito guardiano
+Pettorina guardiano
+Abito guardiano U
+Pettorina guardiano U
+Blusa Gilda
+Pettorina Gilda
+Abito marinaretta
+Pettor. marinaretta
+Accappatoio lusso
+Giacca stella Kita
+Giacca oceano Umi
+Cotta ardita S
+Pettorina ardita S
+Cotta Dober
+Pettorina Dober
+Cotta di Damasco
+Pettorina di Damasco
+Cotta di Damasco R
+Pettor. di Damasco R
+Cotta Artian S
+Pettorina Artian S
+Cotta Artian R
+Pettorina Artian R
+Cotta Seltas
+Pettorina Seltas
+Cotta Rathalos S
+Pettorina Rathalos S
+Cotta Rathalos EX
+Pettor. Rathalos EX
+Cotta Rathalos R
+Pettorina Rathalos R
+Cotta Lagiacrus S
+Pettor. Lagiacrus S
+Cotta Lagiacrus R
+Pettor. Lagiacrus R
+Cotta Zinogre S
+Pettorina Zinogre S
+Cotta Zinogre EX
+Pettorina Zinogre EX
+Cotta Mizutsune S
+Pettorina Mizutsune S
+Cotta Astalos S
+Pettorina Astalos S
+Cotta Gammoth S
+Pettorina Gammoth S
+Cotta Glavenus S
+Pettorina Glavenus S
+Cotta Agnaktor
+Pettorina Agnaktor
+Cotta Gore Magala S
+Pett. Gore Magala S
+Cotta Gore Magala EX
+Pett. Gore Magala EX
+Cotta Gore Magala R
+Pett. Gore Magala R
+Cotta Regios S
+Pettorina Regios S
+Cotta Duramboros
+Pettorina Duramboros
+Cotta Tigrex S
+Pettorina Tigrex S
+Cotta Tigrex EX
+Pettorina Tigrex EX
+Cotta Tigrex R
+Pettorina Tigrex R
+Giacca Kirin S
+Cappa Kirin S
+Giacca Kirin R
+Cappa Kirin R
+Cotta Brachydios S
+Pettor. Brachydios S
+Cotta Brachydios EX
+Pettor. Brachydios EX
+Haori d'oro
+Costume burattinaio
+Cotta Vangis
+Pettorina Vangis
+Abito cavaliere
+Pettorina cavaliere
+Abito damigella S
+Pettorina french maid S
+Abito paladino blu
+Pett. paladino blu
+Abito paladino blu
+Pett. paladino blu
+Abito paladino ros.
+Pett. paladino ros.
+Abito paladino ros.
+Pett. paladino ros.
+Abito aiutante S
+Pettorina guaritrice S
+Abito aiutante U
+Pettorina guaritrice U
+Bolero bardo S
+Pettorina bardo S
+Collana Chakra
+Foggia Dianthus
+Foggia Campanile
+Cotta Grancaccia
+Pettorina Grancaccia
+Cotta sorellanza
+Pettorina sorellanza
+Abito falco
+Giacca falco
+Abito Gourmiao S
+Pettorina Gourmiao S
+Abito sapiente S
+Pettorina sapiente S
+Rubasca ranger
+Rubasca arciere
+Abito Shinobi aria
+Abito Shinobi terra
+Abito Shinobi cielo
+Abito Shinobi mare
+Cotta antica
+Pettorina antica
+Cotta del maestro
+Pettorina del maestro
+Cuoio nero S
+Pelle nera S
+Doate Toka
+Doate Mitsuaoi
+Cotta Rathian EX S
+Pettor. Rathian EX S
+Cotta Rathalos EX S
+Pettor. Rathalos EX S
+Cotta Tigrex EX S
+Pettor. Tigrex EX S
+Cotta dell'arco S
+Pettor. dell'arco S
+Cotta storge S
+Pettorina storge S
+Cotta dell'arco EX
+Pettor. dell'arco EX
+Cotta storge EX
+Pettorina storge EX
+Cotta dell'arco R
+Pettor. dell'arco R
+Cotta storge R
+Pettorina storge R
+Cista Kushala S
+Morso Kushala S
+Cista Kushala EX
+Morso Kushala EX
+Cista Kushala R
+Morso Kushala R
+Protezioni Mizuha S
+Tunica stravagante S
+Protezioni Mizuha EX
+Tunica stravagante EX
+Cotta Kaiser S
+Pettorina Kaiser S
+Cotta Kaiser EX
+Pettorina Kaiser EX
+Cotta sole argentato
+Pett. sole argentato
+Cotta sole arg. EX
+Pett. sole arg. EX
+Cotta sole arg. R
+Pett. sole arg. R
+Cotta luna dorata
+Pettor. luna dorata
+Cotta luna dorata EX
+Pettor. luna dor. EX
+Haori ira divina
+Veste psichica
+Cotta vorace
+Pettorina vorace
+Cotta vorace R
+Pettorina vorace R
+Egida Akantor
+Corazza Akantor
+Egida Akantor R
+Corazza Akantor R
+Egida Ukanlos
+Corazza Ukanlos
+Tunica tempesta
+Tunica celeste
+Tunica fantempesta R
+Tunica alumceleste R
+Sterno arcischel. R
+Sterno arcidecomp. R
+Abito astrale
+Pettorina astrale
+Cotta Escadora
+Pettorina Escadora
+Cotta Escadora R
+Pettorina Escadora R
+Cotta strana
+Pettorina strana
+Cotta Sanguis LV1
+Pettorina Sanguis LV1
+Cotta Sanguis LV6
+Pettorina Sanguis LV6
+Cotta Nix LV1
+Pettorina Nix LV1
+Cotta Nix LV6
+Pettorina Nix LV6
+Cotta Marmor LV1
+Pettorina Marmor LV1
+Cotta Marmor LV6
+Pettorina Marmor LV6
+Cotta Imperatrix LV1
+Pettorina Imperatrix LV1
+Cotta Imperatrix LV6
+Pettorina Imperatrix LV6
+Cotta Vis LV1
+Pettorina Vis LV1
+Cotta Vis LV6
+Pettorina Vis LV6
+Cotta Ventus LV1
+Pettorina Ventus LV1
+Cotta Ventus LV6
+Pettorina Ventus LV6
+Cotta Adamas LV1
+Pettorina Adamas LV1
+Cotta Adamas LV6
+Pettorina Adamas LV6
+Cotta Caecus LV1
+Pettorina Caecus LV1
+Cotta Caecus LV6
+Pettorina Caecus LV6
+Cotta Rex LV1
+Pettorina Rex LV1
+Cotta Rex LV6
+Pettorina Rex LV6
+Cotta Fulgur LV1
+Pettorina Fulgur LV1
+Cotta Fulgur LV6
+Pettorina Fulgur LV6
+Cotta Furor LV1
+Pettorina Furor LV1
+Cotta Furor LV6
+Pettorina Furor LV6
+Cotta Ignis LV1
+Pettorina Ignis LV1
+Cotta Ignis LV6
+Pettorina Ignis LV6
+Gudetama Body Tights
+Gudetama Body Suit
+Corazza promettente
+Corazza eccelsa
+Tunica lucida
+Tunica da sogno
+Gudetama Body Tights S
+Gudetama Body Suit S
+Giacca Gammoth X
+Maglia Gammoth X
+Giacca Mizutsune X
+Maglia Mizutsune X
+Giacca dino X
+Maglia dino X
+Giacca Astalos X
+Maglia Astalos X
+Giacca Bouya
+Bomber Bouya
+Giacca motociclista
+Cuoio motociclista
+Giacca centauro
+Cuoio centauro
+Tenuta Captain J
+Giacca pirata J
+Abito notte di stelle
+Pett. notte di stelle
+Giubbotto Dynaqlo
+Giacchetta Dynaqlo
+Tenuta Buccaneer J
+Giacca Buccaneer J
+Abito Blue Star
+Giacca Blue Star
+Armatura Termotuta
+Barriera Termotuta
+Corpo Tuta Zero
+Capo Tuta Zero
+Arcicor. promettente
+Arcicor. eccelsa
+Arcitunica lucida
+Arcitunica da sogno
+Cotta delle stelle
+Pettor. delle stelle
+Tunica dell'eroe
+Veste dell'eroe
+Corpo campione
+Corpo energumeno
+Cotta rabbia
+Pettorina rabbia
+Cotta Anat
+Pettorina Anat
+Cotta Zodias
+Pettorina Zodias
+Veste onnipotente
+Tenuta onnipotente
+Abito Hiryu cielo
+Abito Hiryu terra
+Abito Lord supremo
+Pettorina Lord supremo

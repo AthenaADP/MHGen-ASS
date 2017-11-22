@@ -1,0 +1,676 @@
+﻿Cubrecabeza de cuero
+Cubrecabeza de malla
+Turbante de Bherna
+Casco de caza
+Gorra de caza
+Capucha Mafumofu
+Kasa Yukumo
+Casco de cazador
+Gorro de cazador
+Casco de hueso
+Gorro de hueso
+Seta del caos
+Diadema del caos
+Casco de Jaggi
+Gorro de Jaggi
+Casco de Maccao
+Gorra de Maccao
+Casco de Velociprey
+Gorro de Velociprey
+Casco de Giaprey
+Gorro de Giaprey
+Casco de Genprey
+Gorro de Genprey
+Casco de Vespoid
+Gorro de Vespoid
+Casco de Hornetaur
+Gorro de Hornetaur
+Sombrero de Bnahabra
+Tocado de Bnahabra
+Casco de Konchu
+Gorro de Konchu
+Máscara Mosswine
+Casco de Rhenoplos
+Gorro de Rhenoplos
+Casco de Bulldrome
+Gorro de Bulldrome
+Máscara de Bullfango
+Casco de Arzuros
+Gorro de Arzuros
+Casco de Cephalos
+Gorro de Cephalos
+Cubrecabeza valeroso
+Casco de aleación
+Gorro de aleación
+Casco de combate
+Gorro de combate
+Casco de lingote
+Gorro de lingote
+Casco de megametal
+Gorro de megametal
+Sombrero Melahoa
+Flor Melahoa
+Capucha Makluva
+Agallas Makluva
+Sombrero de chef
+Gorro de chef
+Vértice de obituario
+Clípeo de obituario
+Vértice de mariposa
+Clípeo de mariposa
+Cerebro pestilente
+Alma pestilente
+Casco de bellota
+Gorra de bellota
+Visera de Mosgharl
+Ala de Mosgharl
+Visera de Edel
+Flor de Edel
+Vértice de Skalda
+Clípeo de Skalda
+Vértice de Spio
+Clípeo de Spio
+Máscara Larinoth
+Máscara de Gargwa
+Cabeza de Moofah
+Peluca de Moofah
+Felyne falso
+Cabeza Velociprey
+Máscara Velociprey
+Cabeza de Genprey
+Máscara de Genprey
+Cabeza de Ioprey
+Máscara de Ioprey
+Cubrecabeza Remobra
+Máscara de Remobra
+Casco de Ioprey
+Gorro de Ioprey
+Casco de Kut-Ku
+Gorro de Kut-Ku
+Casco de Lagombi
+Gorro de Lagombi
+Casco de Gypceros
+Gorro de Gypceros
+Casco de Tetsucabra
+Gorro de Tetsucabra
+Casco de Hermitaur
+Gorro de Hermitaur
+Casco de Volvidon
+Gorro de Volvidon
+Casco de Ludroth
+Gorro de Ludroth
+Casco de Malfestio
+Gorra de Malfestio
+Casco de Khezu
+Gorro de Khezu
+Casco de Rathian
+Gorro de Rathian
+Casco de Nibelsnarf
+Gorro de Nibelsnarf
+Casco de Blango
+Gorro de Blango
+Casco de Ceanataur
+Gorro de Ceanataur
+Casco de Najarala
+Gorro de Najarala
+Casco de Nargacuga
+Gorro de Nargacuga
+Capucha de erudito
+Gorra de erudito
+Casco de Vaik
+Gorra de Vaik
+Rostro cadavérico
+Máscara de calavera
+Vértice de Aelucanth
+Clípeo Aelucanth
+Vértice de Rhopessa
+Clípeo de Rhopessa
+Casco de Garuga
+Gorro de Garuga
+Máscara de Garuga
+Casco de Uragaan
+Gorro de Uragaan
+Casco de Rathalos
+Gorro de Rathalos
+Casco de Lagiacrus
+Gorro de Lagiacrus
+Casco de Zinogre
+Gorro de Zinogre
+Casco de Mizutsune
+Máscara Mizutsune
+Casco de Astalos
+Gorro de Astalos
+Casco de Gammoth
+Gorro de Gammoth
+Casco de Glavenus
+Gorro de Glavenus
+Casco de Gore
+Gorro de Gore
+Casco de Regios
+Gorro de Regios
+Casco de Tigrex
+Gorro de Tigrex
+Cuerno de Kirin
+Cresta de Kirin
+Casco de Brachydios
+Gorro de Brachydios
+Casco de arco
+Gorro de arco
+Casco de amor filial
+Gorro de amor filial
+Fulgor de Kushala
+Gruñido de Kushala
+Gorro de Mizuha
+Gorro extravagante
+Corona de Káiser
+Máscara de Káiser
+Cráneo óseo
+Cráneo roto
+Cabeza negra
+Cara negra
+Casco cinturón negro
+Gorro cinturón negro
+Pluma bardo gremio
+Sombrero bardo gremio
+Sombrero sirvienta
+Gafas de criada
+Capucha de ayudante
+Gafas de sanador
+Capucha Dianthus
+Capucha campanilla
+Toalla de baño
+Sombrero Gourmiáu
+Gorro de Gourmiáu
+Casco de cuero S
+Gorro de cuero S
+Casco de malla S
+Gorro de malla S
+Turbante Bherna S
+Gorra de Bherna S
+Casco de caza S
+Gorra de caza S
+Capucha Mafumofu S
+Gorra Mafumofu S
+Kasa cielo Yukumo
+Kasa tierra Yukumo
+Casco de cazador S
+Gorro de cazador S
+Casco cazador R
+Gorro cazador R
+Casco de hueso S
+Gorro de hueso S
+Archipastel caos
+Archidiadema caos
+Sombrero Melahoa S
+Flor Melahoa S
+Sombrero Melahoa U
+Flor Melahoa U
+Capucha Makluva S
+Agallas Makluva S
+Capucha Makluva U
+Agallas Makluva U
+Sombrero de chef S
+Gorro de chef S
+Casco de bellota S
+Gorra de bellota S
+Visera Mosgharl S
+Ala de Mosgharl S
+Visera de Edel S
+Flor de Edel S
+Cabeza de Moofah S
+Peluca de Moofah S
+Capucha de Slagtoth
+Caperuza de Slagtoth
+Máscara Larinoth S
+Máscara Gargwa S
+Felyne falso S
+Cabeza Velociprey S
+Máscara Velociprey S
+Cabeza Genprey S
+Máscara Genprey S
+Cabeza Ioprey S
+Máscara Ioprey S
+Cubrecabez. Remobra S
+Máscara de Remobra S
+Máscara Mosswine S
+Casco de Rhenoplos S
+Gorro de Rhenoplos S
+Casco de Jaggi S
+Gorro de Jaggi S
+Casco de Maccao S
+Gorra de Maccao S
+Casco Velociprey S
+Gorro Velociprey S
+Casco de Giaprey S
+Gorro de Giaprey S
+Casco de Genprey S
+Gorro de Genprey S
+Casco Genprey EX
+Gorro Genprey EX
+Casco de Ioprey S
+Gorro de Ioprey S
+Casco de Ioprey EX
+Gorro de Ioprey EX
+Casco de Vespoid S
+Gorro de Vespoid S
+Casco Vespoid EX
+Gorro Vespoid EX
+Casco Hornetaur S
+Gorro Hornetaur S
+Casco Hornetaur EX
+Gorro Hornetaur EX
+Casco Hornetaur R
+Gorro Hornetaur R
+Sombrero Bnahabra S
+Tocado de Bnahabra S
+Casco de Konchu S
+Gorro de Konchu S
+Casco Bulldrome S
+Gorro Bulldrome S
+Másc. Bulldrome S
+Casco de Arzuros S
+Gorro de Arzuros S
+Casco de Cephalos S
+Gorro de Cephalos S
+Casco Cephalos EX
+Gorro Cephalos EX
+Casco de Kut-Ku S
+Gorro de Kut-Ku S
+Casco de Kecha
+Gorro de Kecha
+Casco de Lagombi S
+Gorro de Lagombi S
+Casco de Gypceros S
+Gorro de Gypceros S
+Casco de Gypceros R
+Gorro de Gypceros R
+Casco Tetsucabra S
+Gorro Tetsucabra S
+Casco de Hermitaur S
+Gorro de Hermitaur S
+Casco Hermitaur EX
+Gorro Hermitaur EX
+Casco Hermitaur R
+Gorro de Hermitaur R
+Casco de Volvidon S
+Gorro de Volvidon S
+Casco de Ludroth S
+Gorro de Ludroth S
+Casco de Lud. Real
+Gorro de Lud. Real
+Capucha académica
+Gorro académico
+Casco de aleación S
+Gorro de aleación S
+Casco de aleación R
+Gorro de aleación R
+Casco de combate S
+Gorro de combate S
+Casco de lingote S
+Gorro de lingote S
+Casco de lingote R
+Gorro de lingote R
+Casco de megametal S
+Gorro de megametal S
+Casco de megametal U
+Gorro de megametal U
+Casco de langosta
+Gorro de langosta
+Vértice obituario S
+Clípeo obituario S
+Vértice mariposa S
+Clípeo de mariposa S
+Cerebro pestilente S
+Alma pestilente S
+Cerebro pestilente R
+Alma pestilente R
+Casco de Vaik S
+Gorra de Vaik S
+Vértice Aelucanth S
+Clípeo Aelucanth S
+Vértice Rhopessa S
+Clípeo Rhopessa S
+Sombrero de pastelero
+Gorro de pastelero
+Vértice Skalda S
+Clípeo de Skalda S
+Vértice de Spio S
+Clípeo de Spio S
+Casco Malfestio S
+Gorra Malfestio S
+Casco de Zamtrios
+Gorro de Zamtrios
+Casco de Khezu S
+Gorro de Khezu S
+Casco de Khezu R
+Gorro de Khezu R
+Casco de Rathian S
+Gorro de Rathian S
+Casco de Rathian EX
+Gorro de Rathian EX
+Casco de Rathian R
+Gorro de Rathian R
+Casco Nibelsnarf S
+Gorro Nibelsnarf S
+Casco de Plesioth
+Gorro de Plesioth
+Casco de Blango S
+Gorro de Blango S
+Casco de Blango EX
+Gorro Blango EX
+Casco de Lava
+Gorro de Lava
+Casco de Lava EX
+Gorro de Lava EX
+Casco de Ceanataur S
+Gorro de Ceanataur S
+Casco Ceanataur EX
+Gorro Ceanataur EX
+Casco de Ceanataur R
+Gorro de Ceanataur R
+Casco de Najarala S
+Gorro de Najarala S
+Casco Nargacuga S
+Gorro Nargacuga S
+Casco de Garuga S
+Gorro de Garuga S
+Máscara Garuga S
+Casco de Uragaan S
+Gorro de Uragaan S
+Casco cint. negro S
+Gorro cint. negro S
+Casco de guardián
+Máscara de guardián
+Casco de guardián U
+Máscara de guardián U
+Birrete de colegiala
+Gorro de colegiala
+Sombrero de marinero
+Gorro de marinero
+Toalla baño lujosa
+Tocado estelar Kita
+Tocado de océano Umi
+Anteojos astutos
+Casco valeroso S
+Gorro valeroso S
+Casco de Dober
+Gorro de Dober
+Casco de Damasco
+Gorro de Damasco
+Casco de Damasco R
+Gorro de Damasco R
+Rostro cadavérico S
+Máscara calavera S
+Casco Artiano S
+Gorro Artiano S
+Casco Artiano R
+Gorro Artiano R
+Casco de Seltas
+Gorro de Seltas
+Casco de Rathalos S
+Gorro de Rathalos S
+Casco de Rathalos EX
+Gorro de Rathalos EX
+Casco de Rathalos R
+Gorro Rathalos R
+Casco de Lagiacrus S
+Gorro de Lagiacrus S
+Casco Lagiacrus R
+Gorro Lagiacrus R
+Casco de Zinogre S
+Gorro de Zinogre S
+Casco Zinogre EX
+Gorro Zinogre EX
+Casco Mizutsune S
+Máscara Mizutsune S
+Casco de Astalos S
+Gorro de Astalos S
+Casco de Gammoth S
+Gorro de Gammoth S
+Casco Glavenus S
+Gorro Glavenus S
+Casco de Agnaktor
+Gorro de Agnaktor
+Casco de Gore S
+Gorro de Gore S
+Casco Gore EX
+Gorro Gore EX
+Casco de Gore R
+Gorro de Gore R
+Casco de Regios S
+Gorro de Regios S
+Casco de Duramboros
+Gorro de Duramboros
+Casco de Tigrex S
+Gorro de Tigrex S
+Casco de Tigrex EX
+Gorro de Tigrex EX
+Casco de Tigrex R
+Gorro de Tigrex R
+Cuerno de Kirin S
+Cresta de Kirin S
+Cuerno de Kirin R
+Cresta de Kirin R
+Casco Brachydios S
+Gorro Brachydios S
+Casco Brachydios EX
+Gorro Brachydios EX
+Tocado dorado
+Máscara titiritero
+Casco de Vangis
+Gorro de Vangis
+Pluma caball. gremio
+Máscara cab. gremio
+Sombrero sirvienta S
+Gafas de criada S
+Tricornio gremio az.
+Máscara gremio azul
+Tricornio gremio az.
+Piercing gremio azul
+Tricorn. gremio rojo
+Máscara gremio roja
+Tricorn. gremio rojo
+Piercing gremio rojo
+Capucha ayudante S
+Gafas de sanador S
+Capucha de ayudante U
+Boina de sanador U
+Pluma bardo grem. S
+Sombr. bardo grem. S
+Piercing Chakra
+Capuchón Dianthus
+Capuchón campanilla
+Cubrecabeza de élite
+Máscara de élite
+Cubrecabeza fraternal
+Máscara fraternal
+Sombrero de halcón
+Gorro de halcón
+Sombrero Gourmiáu S
+Gorro Gourmiáu S
+Cinta Felyne
+Capucha de erudito S
+Gorra de erudito S
+Cubrecabeza soldado
+Turbante de arquero
+Másc. celes. Shinobi
+Másc. tierra Shinobi
+Másc. cielo Shinobi
+Másc. mar Shinobi
+Casco antiguo
+Gorro antiguo
+Maxipendientes maestro
+Pendientes maestro
+Cabeza negra S
+Cara negra S
+Toka Kabuto
+Mitsuaoi Kabuto
+Casco Rathian EX S
+Gorro Rathian EX S
+Casco Rathalos EX S
+Gorro Rathalos EX S
+Casco Tigrex EX S
+Gorro Tigrex EX S
+Casco de arco S
+Gorro de arco S
+Casco amor filial S
+Gorro amor filial S
+Casco de arco EX
+Gorro de arco EX
+Casco amor filial EX
+Gorro amor filial EX
+Casco de arco R
+Gorro de arco R
+Casco amor filial R
+Gorro amor filial R
+Fulgor Kushala S
+Gruñido Kushala S
+Fulgor de Kushala EX
+Gruñido Kushala EX
+Fulgor Kushala R
+Gruñido Kushala R
+Gorro Mizuha S
+Gorro extravag. S
+Gorro Mizuha EX
+Gorro extravag. EX
+Corona de Káiser S
+Máscara de Káiser S
+Corona de Káiser EX
+Máscara de Káiser EX
+Casco sol de plata
+Gorro sol de plata
+Casco sol de plata EX
+Gorro sol de plata EX
+Casco sol de plata R
+Gorro sol de plata R
+Casco luna dorada
+Gorro luna dorada
+Casco luna dorada EX
+Gorro luna dorada EX
+Tocado de ira divina
+Máscara rompementes
+Casco voraz
+Gorro voraz
+Casco voraz R
+Gorro voraz R
+Máscara de Akantor
+Colmillos de Akantor
+Máscara Akantor R
+Colmillos Akantor R
+Máscara de Ukanlos
+Colmillo de Ukanlos
+Corona de tempestad
+Corona de firmamento
+Corona tempestad R
+Corona firmamento R
+Cráneo óseo R
+Cráneo roto R
+Casco astral
+Máscara astral
+Sabiduría Escadora
+Sapiencia Escadora
+Sabiduría Escadora R
+Sapiencia Escadora R
+Mirada de dragón
+Pluma de Takami
+Pluma de Hayabusa
+Pluma de Kakuju
+Piercing de espada
+Piercing artillería
+Casco extraño
+Gorro extraño
+Casco de Ámbar LV1
+Gorro de Ámbar LV1
+Casco de Ámbar LV6
+Gorro de Ámbar LV6
+Casco de Alud LV1
+Gorro de Alud LV1
+Casco de Alud LV6
+Gorro de Alud LV6
+Casco de Pétreo LV1
+Gorro de Pétreo LV1
+Casco de Pétreo LV6
+Gorro de Pétreo LV6
+Casco de Maldita LV1
+Gorro de Maldita LV1
+Casco de Maldita LV6
+Gorro de Maldita LV6
+Casco de Toro LV1
+Gorro de Toro LV1
+Casco de Toro LV6
+Gorro de Toro LV6
+Casco de Argénteo LV1
+Gorro de Argénteo LV1
+Casco de Argénteo LV6
+Gorro de Argénteo LV6
+Casco de Vítreo LV1
+Gorro de Vítreo LV1
+Casco de Vítreo LV6
+Gorro de Vítreo LV6
+Casco de Cíclope LV1
+Gorro de Cíclope LV1
+Casco de Cíclope LV6
+Gorro de Cíclope LV6
+Casco de Maldito LV1
+Gorro de Maldito LV1
+Casco de Maldito LV6
+Gorro de Maldito LV6
+Casco de Tormenta LV1
+Gorro de Tormenta LV1
+Casco de Tormenta LV6
+Gorro de Tormenta LV6
+Casco de Guadaña LV1
+Gorro Tigrex Guadaña LV1
+Casco de Guadaña LV6
+Gorro Tigrex Guadaña LV6
+Casco de Inferno LV1
+Gorro de Inferno LV1
+Casco de Inferno LV6
+Gorro de Inferno LV6
+Malla Cabeza Gudetama
+Traje Cabeza Gudetama
+Yelmo halagüeño
+Yelmo halcyon
+Corona lúcida
+Corona etérea
+Malla Cabeza Gudetama S
+Traje Cabeza Gudetama S
+Gafas sombrías
+Sombrero de pirata J
+Pañuelo de pirata J
+Yelmo caball. estelar
+Gorro caball. estelar
+Gorro Dynaqlo
+Auriculares Dynaqlo
+Sombrero bucanero J
+Pañuelo bucanero J
+Pluma estrella azul
+Sombr. estrella azul
+Visor Climático
+Mira Climática
+Coleta del Traje Zero
+Cabellera del Traje Zero
+Cabeza de Ushio
+Pelo de Ushio
+Archicasco halagüeño
+Archicasco halcyon
+Mitra lúcida
+Mitra etérea
+Casco de luz estelar
+Gorro de luz estelar
+Sombrero del héroe
+Gorro del héroe
+Melena de campeón
+Cubrecabeza campeón
+Yelmo de ira
+Gorro de ira
+Yelmo de Anat
+Gorro de Anat
+Casco de Zodias
+Gorro de Zodias
+Melena áspera
+Melena aterradora
+Máscara Hiryu cielo
+Máscara Hiryu tierra
+Banda Polaris
+Cinta Polaris

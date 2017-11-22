@@ -1,0 +1,673 @@
+﻿Leder-Weste
+Ketten-Weste
+Bherna-Panzer
+Jagdpanzer
+Jagdweste
+Mafumofu-Jacke
+Yukumo-Dogi
+Loc-Lac-Tuch
+Jäger-Panzer
+Jäger-Weste
+Knochen-Panzer
+Knochen-Weste
+Chaos-Platte
+Chaos-Brigantine
+Jaggi-Panzer
+Jaggi-Weste
+Maccao-Panzer
+Maccao-Weste
+Velociprey-Panzer
+Velociprey-Weste
+Giaprey-Panzer
+Giaprey-Weste
+Genprey-Panzer
+Genprey-Weste
+Vespoid-Panzer
+Vespoid-Weste
+Hornetaur-Panzer
+Hornetaur-Weste
+Bnahabra-Anzug
+Bnahabra-Weste
+Mosswine-Weste
+Rhenoplos-Panzer
+Rhenoplos-Weste
+Bulldrome-Panzer
+Bulldrome-Weste
+Arzuros-Panzer
+Arzuros-Weste
+Cephalos-Panzer
+Cephalos-Weste
+Wagemut-Jacke
+Legierungs-Panzer
+Legierungs-Weste
+Kampf-Panzer
+Kampf-Weste
+Guss-Panzer
+Guss-Weste
+Hochmetall-Panzer
+Hochmetall-Weste
+Melahoa-Jacke
+Melahoa-Stengel
+Makluva-Hülle
+Makluva-Schuppe
+Bistro-Gewand
+Bistro-Jacke
+Todes-Thorax
+Todes-Pleuron
+Schmetterling-Thorax
+SchmetterlingPleuron
+Todesgestank-Muskel
+Todesgestank-Herz
+Eichelpanzer
+Eichelweste
+MosgharlRippenplatte
+MosgharlRippenschutz
+Edel-Rippenplatte
+Edel-Rippenschutz
+Skalda-Thorax
+Skalda-Pleuron
+Spio-Thorax
+Spio-Pleuron
+Droth-Panzer
+Droth-Weste
+Uroktor-Torso
+Uroktor-Weste
+Muufah-Gewand
+Muufah-Jacke
+Velociprey-Leib
+Velociprey-Gewand
+Genprey-Leib
+Genprey-Gewand
+Ioprey-Leib
+Ioprey-Kleidung
+Remobra-Gewand
+Remobra-Kleidung
+Ioprey-Panzer
+Ioprey-Weste
+Kut-Ku-Panzer
+Kut-Ku-Weste
+Lagombi-Panzer
+Lagombi-Weste
+Gypceros-Panzer
+Gypceros-Weste
+Tetsucabra-Panzer
+Tetsucabra-Weste
+Hermitaur-Panzer
+Hermitaur-Weste
+Volvidon-Panzer
+Volvidon-Weste
+Ludroth-Panzer
+Ludroth-Weste
+Malfestio-Panzer
+Malfestio-Weste
+Khezu-Panzer
+Khezu-Weste
+Rathian-Panzer
+Rathian-Weste
+Nibelsnarf-Panzer
+Nibelsnarf-Weste
+Blango-Panzer
+Blango-Weste
+Ceanataur-Panzer
+Ceanataur-Weste
+Najarala-Panzer
+Najarala-Weste
+Nargacuga-Panzer
+Nargacuga-Weste
+Gelehrtengewand
+Gelehrtenweste
+Vaik-Panzer
+Vaik-Weste
+Aelucanth-Thorax
+Aelucanth-Pleuron
+Rhopessa-Thorax
+Rhopessa-Pleuron
+Artian-Panzer
+Artian-Weste
+Garuga-Panzer
+Garuga-Weste
+Uragaan-Panzer
+Uragaan-Weste
+Rathalos-Panzer
+Rathalos-Weste
+Lagiacrus-Panzer
+Lagiacrus-Weste
+Zinogre-Panzer
+Zinogre-Weste
+Mizutsune-Panzer
+Mizutsune-Weste
+Astalos-Panzer
+Astalos-Weste
+Gammoth-Panzer
+Gammoth-Weste
+Glavenus-Panzer
+Glavenus-Weste
+Gore-Magala-Panzer
+Gore-Magala-Weste
+Regios-Panzer
+Regios-Weste
+Tigrex-Panzer
+Tigrex-Weste
+Kirin-Jacke
+Kirin-Cape
+Brachydios-Panzer
+Brachydios-Weste
+Erz-Panzer
+Erz-Weste
+Philia-Panzer
+Philia-Weste
+Kushala-Cista
+Kushala-Vise
+Mizuha-Muneate
+Fantasie-Muneate
+Kaiser-Panzer
+Kaiser-Weste
+Skelett-Brustbein
+Modriges Brustbein
+Schwarze Lederhaut
+Schwarze Haut
+Schwarzgurt-Panzer
+Schwarzgurt-Weste
+Gildenbarden-Bolero
+Gildenbarden-Weste
+Magd-Gewand
+Hausmagd-Weste
+Helfer-Gewand
+Heiler-Weste
+Dianthus-Jacke
+Campanile-Jacke
+Bademantel
+Gourmiau-Gewand
+Gourmiau-Weste
+Leder-Panzer S
+Leder-Weste S
+Ketten-Rüstung S
+Ketten-Weste S
+Bherna-Panzer S
+Bherna-Weste S
+Jagdpanzer S
+Jagdweste S
+Mafumofu-Gewand S
+Mafumofu-Jacke S
+Yukumo-Dogi Luft
+Yukumo-Dogi Land
+Loc-Lac-Tuch S
+Jäger-Panzer S
+Jäger-Weste S
+Jäger-Panzer R
+Jäger-Weste R
+Knochen-Panzer S
+Knochen-Weste S
+Chaos-Erzplatte
+Chaos-Erzbrigantine
+Melahoa-Jacke S
+Melahoa-Stängel S
+Melahoa-Jacke U
+Melahoa-Stengel U
+Makluva-Hülle S
+Makluva-Schuppe S
+Makluva-Hülle U
+Makluva-Schuppe U
+Bistro-Gewand S
+Bistro-Weste S
+Eichelpanzer S
+Eichelweste S
+MosgharlRippenplatte S
+MosgharlRippenschutzS
+Edel-Rippenplatte S
+Edel-Rippenschutz S
+Muufah-Gewand S
+Muufah-Jacke S
+Slagtoth-Überwurf
+Slagtoth-Umhang
+Velociprey-Leib S
+Velociprey-Gewand S
+Genprey-Leib S
+Genprey-Gewand S
+Ioprey-Leib S
+Ioprey-Kleidung S
+Remobra-Gewand S
+Remobra-Kleidung S
+Mosswine-Weste S
+Rhenoplos-Panzer S
+Rhenoplos-Weste S
+Jaggi-Panzer S
+Jaggi-Weste S
+Droth-Panzer S
+Droth-Weste S
+Uroktor-Torso S
+Uroktor-Weste S
+Maccao-Panzer S
+Maccao-Weste S
+Velociprey-Panzer S
+Velociprey-Weste S
+Giaprey-Panzer S
+Giaprey-Weste S
+Genprey-Panzer S
+Genprey-Weste S
+Genprey-Panzer EX
+Genprey-Weste EX
+Ioprey-Panzer S
+Ioprey-Weste S
+Ioprey-Panzer EX
+Ioprey-Weste EX
+Vespoid-Panzer S
+Vespoid-Weste S
+Vespoid-Panzer EX
+Vespoid-Weste EX
+Hornetaur-Panzer S
+Hornetaur-Weste S
+Hornetaur-Panzer EX
+Hornetaur-Weste EX
+Hornetaur-Panzer R
+Hornetaur-Weste R
+Bnahabra-Anzug S
+Bnahabra-Weste S
+Bulldrome-Panzer S
+Bulldrome-Weste S
+Arzuros-Panzer S
+Arzuros-Weste S
+Cephalos-Panzer S
+Cephalos-Weste S
+Cephalos-Panzer EX
+Cephalos-Weste EX
+Kut-Ku-Panzer S
+Kut-Ku-Weste S
+Kecha-Wacha-Panzer
+Kecha-Wacha-Weste
+Lagombi-Panzer S
+Lagombi-Weste S
+Gypceros-Panzer S
+Gypceros-Weste S
+Gypceros-Panzer R
+Gypceros-Weste R
+Tetsucabra-Panzer S
+Tetsucabra-Weste S
+Hermitaur-Panzer S
+Hermitaur-Weste S
+Hermitaur-Panzer EX
+Hermitaur-Weste EX
+Hermitaur-Panzer R
+Hermitaur-Weste R
+Volvidon-Panzer S
+Volvidon-Weste S
+Ludroth-Panzer S
+Ludroth-Weste S
+Ludroth-Panzer R
+Ludroth-Weste R
+Dozentengewand
+Dozentenjacke
+Legierungs-Panzer S
+Legierungs-Weste S
+Legierungs-Panzer R
+Legierungs-Weste R
+Kampf-Panzer S
+Kampf-Weste S
+Guss-Panzer S
+Guss-Weste S
+Guss-Panzer R
+Guss-Weste R
+Hochmetall-Panzer S
+Hochmetall-Weste S
+Hochmetall-Panzer U
+Hochmetall-Weste U
+Hummer-Panzer
+Hummer-Weste
+Todes-Thorax S
+Todes-Pleuron S
+SchmetterlingThoraxS
+SchmettrlingPleuronS
+TodesgestankMuskel S
+Todesgestank-Herz S
+Todesgestank-Muskel R
+Todesgestank-Herz R
+Vaik-Panzer S
+Vaik-Weste S
+Aelucanth-Thorax S
+Aelucanth-Pleuron S
+Rhopessa-Thorax S
+Rhopessa-Pleuron S
+Konditor-Anzug
+Konditor-Weste
+Skalda-Thorax S
+Skalda-Pleuron S
+Spio-Thorax S
+Spio-Pleuron S
+Malfestio-Panzer S
+Malfestio-Weste S
+Zamtrios-Panzer
+Zamtrios-Weste
+Khezu-Panzer S
+Khezu-Weste S
+Khezu-Panzer R
+Khezu-Weste R
+Rathian-Panzer S
+Rathian-Weste S
+Rathian-Panzer EX
+Rathian-Weste EX
+Rathian-Panzer R
+Rathian-Weste R
+Nibelsnarf-Panzer S
+Nibelsnarf-Weste S
+Plesioth-Panzer
+Plesioth-Weste
+Blango-Panzer S
+Blango-Weste S
+Blango-Panzer EX
+Blango-Weste EX
+Lava-Panzer
+Lava-Weste
+Lava-Panzer EX
+Lava-Weste EX
+Ceanataur-Panzer S
+Ceanataur-Weste S
+Ceanataur-Panzer EX
+Ceanataur-Weste EX
+Ceanataur-Panzer R
+Ceanataur-Weste R
+Najarala-Panzer S
+Najarala-Weste S
+Nargacuga-Panzer S
+Nargacuga-Weste S
+Garuga-Panzer S
+Garuga-Weste S
+Uragaan-Panzer S
+Uragaan-Weste S
+Schwarzgurt-Panzer S
+Schwarzgurt-Weste S
+Wächter-Gewand
+Wächter-Weste
+Wächter-Gewand U
+Wächter-Weste U
+Gelehrten-Bluse
+Gelehrten-Weste
+Matrosen-Anzug
+Matrosen-Weste
+Luxusbademantel
+Hokushin-Jacke
+Umi-Ozean-Jacke
+Wagemut-Panzer S
+Wagemut-Weste S
+Dober-Panzer
+Dober-Weste
+Damaskus-Panzer
+Damaskus-Weste
+Damaskus-Panzer R
+Damaskus-Weste R
+Artian-Panzer S
+Artian-Weste S
+Artian-Panzer R
+Artian-Weste R
+Seltas-Panzer
+Seltas-Weste
+Rathalos-Panzer S
+Rathalos-Weste S
+Rathalos-Panzer EX
+Rathalos-Weste EX
+Rathalos-Panzer R
+Rathalos-Weste R
+Lagiacrus-Panzer S
+Lagiacrus-Weste S
+Lagiacrus-Panzer R
+Lagiacrus-Weste R
+Zinogre-Panzer S
+Zinogre-Weste S
+Zinogre-Panzer EX
+Zinogre-Weste EX
+Mizutsune-Panzer S
+Mizutsune-Weste S
+Astalos-Panzer S
+Astalos-Weste S
+Gammoth-Panzer S
+Gammoth-Weste S
+Glavenus-Panzer S
+Glavenus-Weste S
+Agnaktor-Panzer
+Agnaktor-Weste
+Gore-Magala-Panzer S
+Gore-Magala-Weste S
+GoreMagala-Panzer EX
+Gore-Magala-Weste EX
+Gore-Magala-Panzer R
+Gore-Magala-Weste R
+Regios-Panzer S
+Regios-Weste S
+Duramboros-Panzer
+Duramboros-Weste
+Tigrex-Panzer S
+Tigrex-Weste S
+Tigrex-Panzer EX
+Tigrex-Weste EX
+Tigrex-Panzer R
+Tigrex-Weste R
+Kirin-Jacke S
+Kirin-Cape S
+Kirin-Jacke R
+Kirin-Cape R
+Brachydios-Panzer S
+Brachydios-Weste S
+Brachydios-Panzer EX
+Brachydios-Weste EX
+Goldene Haori
+Kuroko-Gewand
+Vangis-Panzer
+Vangis-Weste
+Gildenritter-Gewand
+Gildenritter-Weste
+Magd-Gewand S
+Hausmagd-Weste S
+Blaues Gilden-Gewand
+Blaue Gilden-Weste
+Blaues Gilden-Gewand
+Blaue Gilden-Weste
+Rotes Gilden-Gewand
+Rote Gilden-Weste
+Rotes Gilden-Gewand
+Rote Gilden-Weste
+Helfer-Gewand S
+Heiler-Weste S
+Helfer-Gewand U
+Heiler-Weste U
+GildenbardenBolero S
+Gildenbarden-Weste S
+Chakra-Halskette
+Dianthus-Jacke S
+Campanile-Jacke S
+Ass-Panzer
+Ass-Weste
+Amazonen-Panzer
+Amazonen-Weste
+Adlergewand
+Adlerjacke
+Gourmiau-Gewand S
+Gourmiau-Anzug S
+Gelehrtengewand S
+Gelehrtenweste S
+Ranger-Domaki
+Bogenschützen-Domaki
+ShinobiGewand Himmel
+Shinobi-Gewand Land
+Shinobi-Gewand Luft
+Shinobi-Gewand Meer
+Uralter Panzer
+Uralte Weste
+Meisterpanzer
+Meisterweste
+Schwarze Lederhaut S
+Schwarze Haut S
+Toka-Doate
+Mitsuaoi-Doate
+Rathian-Panzer EX S
+Rathian-Weste EX S
+Rathalos-Panzer EX S
+Rathalos-Weste EX S
+Tigrex-Panzer EX S
+Tigrex-Weste EX S
+Erz-Panzer S
+Erz-Weste S
+Philia-Panzer S
+Philia-Weste S
+Erz-Panzer EX
+Erz-Weste EX
+Philia-Panzer EX
+Philia-Weste EX
+Erz-Panzer R
+Erz-Weste R
+Philia-Panzer R
+Philia-Weste R
+Kushala-Cista S
+Kushala-Vise S
+Kushala-Cista EX
+Kushala-Vise EX
+Kushala-Cista R
+Kushala-Vise R
+Mizuha-Muneate S
+Fantasie-Muneate S
+Mizuha-Muneate EX
+Fantasie-Muneate EX
+Kaiser-Panzer S
+Kaiser-Weste S
+Kaiser-Panzer EX
+Kaiser-Weste EX
+SilbernerSonnenpanzr
+Silberne Sonnenweste
+SilbernSonnenpanzerEX
+SilberneSonnenwesteEX
+SilbernerSonnenpanzerR
+SilbernSonnenweste R
+Goldener Mondpanzer
+Goldene Mondweste
+GoldenerMondpanzerEX
+Goldene Mondweste EX
+Gotteszorn-Haori
+Geistmalmer-Gewand
+Gier-Panzer
+Gier-Weste
+Gier-Panzer R
+Gier-Weste R
+Akantor-Aegis
+Akantor-Platte
+Akantor-Aegis R
+Akantor-Platte R
+Ukanlos-Aegis
+Ukanlos-Platte
+Sturm-Gewand
+Firmament-Gewand
+Sturm-Gewand R
+Firmament-Gewand R
+Skelett-Brustbein R
+Modriges Brustbein R
+Astral-Gewand
+Astral-Weste
+Escadora-Geist
+Escadora-Seele
+Escadora-Geist R
+Escadora-Seele R
+Seltsamer Panzer
+Seltsame Weste
+Rothelm-Panzer LV1
+Rothelm-Weste LV1
+Rothelm-Panzer LV6
+Rothelm-Weste LV6
+Schneesturm-Panzer LV1
+Schneesturm-Weste LV1
+Schneesturm-Panzer LV6
+Schneesturm-Weste LV6
+Steinfaust-Panzer LV1
+Steinfaust-Weste LV1
+Steinfaust-Panzer LV6
+Steinfaust-Weste LV6
+Giftstachel-Panzer LV1
+Giftstachel-Weste LV1
+Giftstachel-Panzer LV6
+Giftstachel-Weste LV6
+Bohrhauer-Panzer LV1
+Bohrhauer-Weste LV1
+Bohrhauer-Panzer LV6
+Bohrhauer-Weste LV6
+Silberwind-Panzer LV1
+Silberwind-Weste LV1
+Silberwind-Panzer LV6
+Silberwind-Weste LV6
+Kristallbart-Panzer LV1
+Kristallbart-Weste LV1
+Kristallbart-Panzer LV6
+Kristallbart-Weste LV6
+NarbYianGarugaPanzer LV1
+NarbigYianGarugaWeste LV1
+NarbYianGarugaPanzer LV6
+NarbigYianGarugaWeste LV6
+Dunkelfeuer-Panzer LV1
+Dunkelfeuer-Weste LV1
+Dunkelfeuer-Panzer LV6
+Dunkelfeuer-Weste LV6
+Donnerschlag-Panzer LV1
+Donnerschlag-Weste LV1
+Donnerschlag-Panzer LV6
+Donnerschlag-Weste LV6
+Düsterklauen-Panzer LV1
+Düsterklauen-Weste LV1
+Düsterklauen-Panzer LV6
+Düsterklauen-Weste LV6
+Zornklingen-Panzer LV1
+Zornklingen-Weste LV1
+Zornklingen-Panzer LV6
+Zornklingen-Weste LV6
+Gudetama Body
+Gudetama Brustanzug
+Potenzial-Muneate
+Halcyon-Muneate
+Licht-Gewand
+Traum-Gewand
+Gudetama Body S
+Gudetama Brustanzug S
+X-Gammoth-Jacke
+X-Gammoth-Trikot
+X-Mizutsune-Jacke
+X-Mizutsune-Trikot
+X-Dino-Jacke
+X-Dino-Trikot
+X-Astalos-Jacke
+X-Astalos-Trikot
+Booyah-Jacke
+Booyah-Bomber
+Biker-Jacke
+Biker-Lederjacke
+Rider-Jacke
+Rider-Leder
+Piratenanzug J
+Piratenjacke J
+Sternenritter-Panzer
+Sternenritter-Weste
+Dynaqlo-Winterjacke
+Dynaqlo-Jacke
+Bukanieranzug J
+Bukanierjacke J
+Blauer-Stern-Gewand
+Blauer-Stern-Jacke
+Varia-Suit-Rüstung
+Varia-Suit-Barriere
+Zero-Suit-Leib
+Zero-Suit-Kleidung
+Potenzial-Muneate K
+Halcyon-Muneate K
+Licht-Gewand K
+Traum-Gewand K
+Sternlicht-Panzer
+Sternlicht-Weste
+Heroengewand
+Heroentunika
+Champion-Leib
+Muskelmann-Leib
+Panzer der Wut
+Weste der Wut
+Panzer der Anat
+Weste der Anat
+Zodias-Panzer
+Zodias-Weste
+Allmächtiger Dogi
+Allmächtige Tracht
+Hiryu-Gewand Luft
+Hiryu-Gewand Land
+Sternenlord-Tunika
+Sternenlord-Weste

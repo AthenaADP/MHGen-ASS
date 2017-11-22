@@ -1,0 +1,254 @@
+﻿#  MHX/Gen ASS Primary String Table
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+Tradotto da Ackeresu
+
+&File
+&Opzioni
+&Lingua
+&Aiuto
+&Carica
+
+#This string is used in the File menu to save application settings.
+&Salva
+
+#This string is used for saving custom charm/excavated gear lists.
+&Aggiorna
+
+&Esci
+
+#This options resets all settings to default
+&Ripristina Impostazioni
+
+#"Bad" skills are ones activated at -10 points or less.
+Permetti &Abilità Negative
+
+#This specifically refers to Arena reward helmets, such as the Barrage Piercing
+#and Sword Saint Piercing, which are difficult to obtain.
+Permetti &Armature Arena
+
+#Event armor (and Decorations) from DLC quests
+Permetti &Armature Evento
+
+#Japanese only armor/decorations
+Permetti &DLC Esclusivi Giapponesi
+
+#This setting will ignore gear of a lower tier than you
+Permetti &Armature di Basso Livello
+
+Mostra Punti &Richiesti per le Abilità
+
+Ordina le Abilità &Alfabeticamente
+Permetti &Elmi Artigliere
+&Dona
+&Sfrutta i slot avanzati per abilità extra
+&Cosa fanno le abilità?
+
+#This option opens a browser to my Facebook page
+Controlla per &Aggiornamenti
+
+&About
+&Talismani
+&Importa
+&Ricerca Rapida
+&Ricerca Avanzata
+&Annulla
+&Default
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&Nessuna
+
+#This string is used in the combobox that filters solutions by charm
+Nessun Talismano
+
+#This string is used in the combobox that sorts solutions by various criteria
+Nessuno
+
+&Cerca
+Seleziona &Niente
+Seleziona &il Migliore
+&Aggiungi nuovo
+&Resetta
+&Elimina
+Elimina &Tutti
+Muovi &Su
+Muovi &Giù
+&Regola
+&Chiudi
+&Trova Successivo
+
+Giap?
+Seleziona Abilità Giapponese
+Lunghezza %1
+
+Missioni Gilda
+Misisoni Villaggio
+Slot Massimi Arma
+Maschio
+Femmina
+Nessun Filtro Abilità Extra
+Ordina/Filtra Risultati
+
+#This string is used in the combobox that filters solutions by charm
+Qualunque Talismano
+
+Resistenza Drago
+Resistenza Fuoco
+Resistenza Gelo
+Resistenza Tuono
+Resistenza Acqua
+Difesa di Base
+Difesa Massima
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+Difficoltà
+
+Rarità
+Slot Avanzati
+
+#When sorting solutions, "Family" refers to how similar the armor pieces are:
+# Rathalos X + Rathalos X (great!)
+# Rathalos X + Rathalos S (good)
+# Rathalos X + Rathalos U (ok...)
+# Rathalos X + Basarios S (bad)
+Famiglia
+
+#Extra Skills are skills that a solution may have that the user did not search for
+Abilità Extra
+
+Talismani
+Non usare talismani
+Usa i miei talismani
+
+#When searching using charms that have no skills, but 1-3 slots.
+Usa talismani con slot
+
+#When searching using charms with at most one skill and possibly some slots
+Usa talismani con una abilità
+
+#When searching using charms with at most two skills and possible some slots (i.e. all possible charms)
+Usa talismani con due abilità
+
+Abilità
+Abilità
+Filtro Abilità
+Spadaccino
+Artigliere
+
+#Used in the Advanced Search dialog
+Seleziona Armatura
+
+#For importing charms from a savefile
+Importa Talismani
+
+#For importing charms from a savefile
+Caratteri
+
+Elimina Talismani Esistenti
+Sei sicuro?
+&Ordina
+&Ordina per abilità 1
+&Ordina per abilità 2
+Slot
+(niente)
+
+#When a solution has exactly one slot spare
+1 slot avanzato
+
+#When a solution has multiple slots spare, %1 is that number.
+%1 slot avanzati
+
+#The following three strings deliberately begin with a space in English
+ (o qualunque con 1 slot)
+
+#%1 is the number of slots in the armor
+ (o qualunque con %1 slot)
+
+#This line is appended to armors with Torso Inc
+ (o qualunque con Torso+)
+
+#This line is appended to decorations in the torso armor, if Torso Inc is in effect
+ (nel Torso)
+
+Soluzioni trovate:
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+Mostrando soltanto le prime %1 soluzioni:
+
+Salva il data dump
+Lista Talismani
+Il file è corrotto.
+Versione
+Trova
+
+#This string is shown if a charm or excavated item is loaded that is impossible to obtain legitimately
+Tu cheater, tu.
+
+#Used in some error popups
+Errore
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+da %1 a %2
+
+Difesa
+Tabella
+Risultati
+Talismano sconosciuto
+Elimina tutti i Talismani
+Impostazioni ASS
+&Risultati Massimi
+Mostra &Nome Decorazioni
+Mostra lista materiali
+Anteprima immagine zoom defaul
+
+#Showing min/max defence and elemental resists
+%1-%2 Dif, %3 Fuoco, %4 Acqua, %5 Gelo, %6 Tuono, %7 Drago
+
+#This string is used to show decorations as skills, e.g. "+5 Expert Jewel". %1 is the numeric value %2 is the skill name
+%1 %2 Decorazione
+
+#Item Type refers to weapon/helm/body armor/etc.
+Tipo Oggetto
+
+#Hunter Type means Blademaster or Gunner
+Tipo Cacciatore
+
+#Both Blademaster and Gunner (for helmets)
+Entrambi
+
+Arma
+Testa
+Corpo
+Braccia
+Vita
+Gambe
+
+#This string is for displaying potential extra skills
+(%1 possibile)
+
+#Strings for the skill description dialog
+Mostra
+Descrizione
+Abilità
+Alberi Abilità
+Armature con punti in questa abilità:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+%1☆
+Tutto
+
+#Format string for showing a skill with the number of skill points required
+%1 (%2)

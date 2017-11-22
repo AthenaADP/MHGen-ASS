@@ -1,0 +1,623 @@
+﻿Cintura di cuoio
+Cintura di cotta
+Cintura Bherna
+Cintura caccia
+Fiancale caccia
+Fiancale Mafumofu
+Obi Yukumo
+Kilt Loc Lac
+Falda cacciatore
+Fiancale cacciatore
+Falda d'osso
+Fiancale d'osso
+Cintura leggera
+Cintura di ferro
+Falda Jaggi
+Fiancale Jaggi
+Falda Maccao
+Fiancale Maccao
+Falda Velociprey
+Fiancale Velociprey
+Falda Giaprey
+Fiancale Giaprey
+Falda Genprey
+Fiancale Genprey
+Falda Vespoid
+Fiancale Vespoid
+Falda Hornetaur
+Fiancale Hornetaur
+Spira Bnahabra
+Fiancale Bnahabra
+Anca Mosswine
+Spira Rhenoplos
+Fiancale Rhenoplos
+Falda Bulldrome
+Fiancale Bulldrome
+Falda Arzuros
+Fiancale Arzuros
+Falda Cephalos
+Fiancale Cephalos
+Cintura ardita
+Spira in lega
+Fiancale in lega
+Falda da battaglia
+Fianc. da battaglia
+Spira lingotto
+Fiancale lingotto
+Falda Hi-Metal
+Fiancale Hi-Metal
+Foglie Melahoa
+Tronco Melahoa
+Spira Makluva
+Pinna Makluva
+Sarong Bistrò
+Grembiule Bistrò
+Elitre Necrologio
+Ali Necrologio
+Elitre farfalla
+Ali farfalla
+Budella puzza morte
+Pancia puzza morte
+Foglie Mosgharl
+Fronde Mosgharl
+Foglie Edel
+Fronde Edel
+Elitre Skalda
+Ali Skalda
+Elitre Spio
+Ali Spio
+Falda Droth
+Fiancale Droth
+Falda Uroktor
+Fiancale Uroktor
+Spira Moofah
+Fiancale Moofah
+Cintura Remobra
+Fascia Remobra
+Falda Ioprey
+Fiancale Ioprey
+Falda Kut-Ku
+Fiancale Kut-Ku
+Falda Lagombi
+Fiancale Lagombi
+Falda Gypceros
+Fiancale Gypceros
+Falda Tetsucabra
+Fiancale Tetsucabra
+Falda Hermitaur
+Fiancale Hermitaur
+Falda Volvidon
+Fiancale Volvidon
+Falda Ludroth
+Fiancale Ludroth
+Falda Malfestio
+Fiancale Malfestio
+Falda Khezu
+Fiancale Khezu
+Falda Rathian
+Fiancale Rathian
+Falda Nibelsnarf
+Manto Nibelsnarf
+Falda Blango
+Fiancale Blango
+Falda Ceanataur
+Fiancale Ceanataur
+Falda Najarala
+Fiancale Najarala
+Falda Nargacuga
+Fiancale Nargacuga
+Fascia sapiente
+Fiancale sapiente
+Falda Vaik
+Fiancale Vaik
+Elitre Aelucanth
+Ali Aelucanth
+Elitre Rhopessa
+Ali Rhopessa
+Falda Garuga
+Fiancale Garuga
+Falda Uragaan
+Fiancale Uragaan
+Falda Rathalos
+Fiancale Rathalos
+Falda Lagiacrus
+Fiancale Lagiacrus
+Falda Zinogre
+Fiancale Zinogre
+Falda Mizutsune
+Fiancale Mizutsune
+Falda Astalos
+Fiancale Astalos
+Falda Gammoth
+Fiancale Gammoth
+Falda Glavenus
+Fiancale Glavenus
+Falda Gore Magala
+Fiancale Gore Magala
+Falda Regios
+Fiancale Regios
+Falda Tigrex
+Fiancale Tigrex
+Cerchio Kirin
+Pantaloncini Kirin
+Falda Brachydios
+Fiancale Brachydios
+Falda dell'arco
+Fiancale dell'arco
+Falda storge
+Fiancale storge
+Bozzolo Kushala
+Cinta Kushala
+Fascia Mizuha
+Fiancale stravagante
+Falda Kaiser
+Fiancale Kaiser
+Ileo scheletrico
+Ileo decomposto
+Spina nera
+Squama nera
+Falda cintura nera
+Fianc. cintura nera
+Spira bardo
+Fiancale bardo
+Gonna damigella
+Frange french maid
+Gonna aiutante
+Frange guaritrice
+Gonna Dianthus
+Gonna Campanile
+Sarong Gourmiao
+Grembiule Gourmiao
+Falda di cuoio S
+Fiancale di cuoio S
+Falda di cotta S
+Fiancale di cotta S
+Cintura Bherna S
+Fiancale Bherna S
+Cintura caccia S
+Fiancale caccia S
+Spira Mafumofu S
+Fiancale Mafumofu S
+Obi Yukumo cielo
+Obi Yukumo terra
+Kilt Loc Lac S
+Falda cacciatore S
+Fianc. cacciatore S
+Falda cacciatore R
+Fianc. cacciatore R
+Falda d'osso S
+Fiancale d'osso S
+Cintura leggera S
+Cintura di ferro S
+Foglie Melahoa S
+Tronco Melahoa S
+Foglie Melahoa U
+Tronco Melahoa U
+Spira Makluva S
+Pinna Makluva S
+Spira Makluva U
+Pinna Makluva U
+Sarong Bistrò S
+Grembiule Bistrò S
+Foglie Mosgharl S
+Fronde Mosgharl S
+Foglie Edel S
+Fronde Edel S
+Spira Moofah S
+Fiancale Moofah S
+Cintura Remobra S
+Fascia Remobra S
+Anca Mosswine S
+Spira Rhenoplos S
+Fiancale Rhenoplos S
+Falda Jaggi S
+Fiancale Jaggi S
+Falda Droth S
+Fiancale Droth S
+Falda Uroktor S
+Fiancale Uroktor S
+Falda Maccao S
+Fiancale Maccao S
+Falda Velociprey S
+Fianc. Velociprey S
+Falda Giaprey S
+Fiancale Giaprey S
+Falda Genprey S
+Fiancale Genprey S
+Falda Genprey EX
+Fiancale Genprey EX
+Falda Ioprey S
+Fiancale Ioprey S
+Falda Ioprey EX
+Fiancale Ioprey EX
+Falda Vespoid S
+Fiancale Vespoid S
+Falda Vespoid EX
+Fiancale Vespoid EX
+Falda Hornet S
+Fiancale Hornet S
+Falda Hornet EX
+Fiancale Hornet EX
+Falda Hornet R
+Fiancale Hornet R
+Spira Bnahabra S
+Fiancale Bnahabra S
+Falda Bulldrome S
+Fiancale Bulldrome S
+Falda Arzuros S
+Fiancale Arzuros S
+Falda Cephalos S
+Fiancale Cephalos S
+Falda Cephalos EX
+Fiancale Cephalos EX
+Falda Kut-Ku S
+Fiancale Kut-Ku S
+Falda Kecha Wacha
+Fiancale Kecha Wacha
+Falda Lagombi S
+Fiancale Lagombi S
+Falda Gypceros S
+Fiancale Gypceros S
+Falda Gypceros R
+Fiancale Gypceros R
+Falda Tetsucabra S
+Fianc. Tetsucabra S
+Falda Hermitaur S
+Fiancale Hermitaur S
+Falda Hermitaur EX
+Fiancale Hermitaur EX
+Falda Hermitaur R
+Fiancale Hermitaur R
+Falda Volvidon S
+Fiancale Volvidon S
+Falda Ludroth S
+Fiancale Ludroth S
+Falda Ludroth R
+Fiancale Ludroth R
+Gonna sapienza
+Frange sapienza
+Spira in lega S
+Fiancale in lega S
+Spira in lega R
+Fiancale in lega R
+Falda da battaglia S
+Fianc. da battaglia S
+Spira lingotto S
+Fiancale lingotto S
+Spira lingotto R
+Fiancale lingotto R
+Falda Hi-Metal S
+Fiancale Hi-Metal S
+Falda Hi-Metal U
+Fiancale Hi-Metal U
+Campana aragosta
+Fiancale aragosta
+Elitre Necrologio S
+Ali Necrologio S
+Elitre farfalla S
+Ali farfalla S
+Bud. puzza morte S
+Panc. puzza morte S
+Bud. puzza morte R
+Panc. puzza morte R
+Falda Vaik S
+Fiancale Vaik S
+Elitre Aelucanth S
+Ali Aelucanth S
+Elitre Rhopessa S
+Ali Rhopessa S
+Sarong pasticciere
+Grembiule pasticciere
+Elitre Skalda S
+Ali Skalda S
+Elitre Spio S
+Ali Spio S
+Falda Malfestio S
+Fiancale Malfestio S
+Falda Zamtrios
+Fiancale Zamtrios
+Falda Khezu S
+Fiancale Khezu S
+Falda Khezu R
+Fiancale Khezu R
+Falda Rathian S
+Fiancale Rathian S
+Falda Rathian EX
+Fiancale Rathian EX
+Falda Rathian R
+Fiancale Rathian R
+Falda Nibelsnarf S
+Manto Nibelsnarf S
+Falda Blango S
+Fiancale Blango S
+Falda Blango EX
+Fiancale Blango EX
+Falda Lavasioth
+Fiancale Lavasioth
+Falda Lavasioth EX
+Fiancale Lavasioth EX
+Falda Ceanataur S
+Fiancale Ceanataur S
+Falda Ceanataur EX
+Fiancale Ceanataur EX
+Falda Ceanataur R
+Fiancale Ceanataur R
+Falda Najarala S
+Fiancale Najarala S
+Falda Narga S
+Fiancale Narga S
+Falda Garuga S
+Fiancale Garuga S
+Falda Uragaan S
+Fiancale Uragaan S
+Falda cintura nera S
+Fianc. cintura nera S
+Campana guardiano
+Fiancale guardiano
+Campana guardiano U
+Fiancale guardiano U
+Gonna Gilda
+Frange Gilda
+Gonna marinaretta
+Frange marinaretta
+Falda ardita S
+Fiancale ardito S
+Spira Dober
+Fiancale Dober
+Spira di Damasco
+Fiancale di Damasco
+Spira di Damasco R
+Fiancale di Damasco R
+Spira cromata
+Fiancale cromato
+Spira Artian S
+Fiancale Artian S
+Spira Artian R
+Fiancale Artian R
+Falda Seltas
+Fiancale Seltas
+Falda Rathalos S
+Fiancale Rathalos S
+Falda Rathalos EX
+Fiancale Rathalos EX
+Falda Rathalos R
+Fiancale Rathalos R
+Falda Lagiacrus S
+Fianc. Lagiacrus S
+Falda Lagiacrus R
+Fianc. Lagiacrus R
+Falda Zinogre S
+Fiancale Zinogre S
+Falda Zinogre EX
+Fiancale Zinogre EX
+Falda Mizutsune S
+Fiancale Mizutsune S
+Falda Astalos S
+Fiancale Astalos S
+Falda Gammoth S
+Fiancale Gammoth S
+Falda Glavenus S
+Fiancale Glavenus S
+Falda Agnaktor
+Fiancale Agnaktor
+Falda Gore Magala S
+Fianc. Gore Magala S
+Falda Gore Magala EX
+Fianc. G.Magala EX
+Falda Gore Magala R
+Fianc. Gore Magala R
+Falda Regios S
+Fiancale Regios S
+Falda Duramboros
+Fiancale Duramboros
+Falda Tigrex S
+Fiancale Tigrex S
+Falda Tigrex EX
+Fiancale Tigrex EX
+Falda Tigrex R
+Fiancale Tigrex R
+Cerchio Kirin S
+Pantaloncini Kirin S
+Cerchio Kirin R
+Pantaloncini Kirin R
+Falda Brachydios S
+Fianc. Brachydios S
+Falda Brachydios EX
+Fianc. Brachydios EX
+Obi d'oro
+Obi burattinaio
+Spira Vangis
+Fiancale Vangis
+Fiancale cavaliere
+Kilt cavaliere
+Gonna damigella S
+Frange french maid S
+Fianc. paladino blu
+Kilt paladino blu
+Fianc. paladino blu
+Kilt paladino blu
+Fianc. paladino ros.
+Kilt paladino ros.
+Fianc. paladino ros.
+Kilt paladino ros.
+Gonna aiutante S
+Frange guaritrice S
+Gonna aiutante U
+Frange guaritrice U
+Spira bardo S
+Fiancale bardo S
+Falda Chakra
+Sfarzo Dianthus
+Sfarzo Campanile
+Falda Grancaccia
+Fiancale Grancaccia
+Falda sorellanza
+Fiancale sorellanza
+Spira falco
+Fiancale falco
+Sarong Gourmiao S
+Grembiule Gourmiao S
+Fascia sapiente S
+Fiancale sapiente S
+Fascia ranger
+Cintura arciere
+Cint. Shinobi aria
+Cint. Shinobi terra
+Cint. Shinobi cielo
+Cint. Shinobi mare
+Spira antica
+Fiancale antico
+Falda del maestro
+Fiancale del maestro
+Spina nera S
+Squama nera S
+Koshiate Toka
+Koshiate Mitsuaoi
+Falda Rathian EX S
+Fiancale Rathian EX S
+Falda Rathalos EX S
+Fianc. Rathalos EX S
+Spira Tigrex EX S
+Fiancale Tigrex EX S
+Falda dell'arco S
+Fiancale dell'arco S
+Falda storge S
+Fiancale storge S
+Falda dell'arco EX
+Fiancale dell'arco EX
+Falda storge EX
+Fiancale storge EX
+Falda dell'arco R
+Fiancale dell'arco R
+Falda storge R
+Fiancale storge R
+Bozzolo Kushala S
+Cinta Kushala S
+Bozzolo Kushala EX
+Cinta Kushala EX
+Bozzolo Kushala R
+Cinta Kushala R
+Fascia Mizuha S
+Fianc. stravagante S
+Fascia Mizuha EX
+Fianc. stravagante EX
+Falda Kaiser S
+Fiancale Kaiser S
+Falda Kaiser EX
+Fiancale Kaiser EX
+Spira sole argentato
+Fian. sole argentato
+Spira sole arg. EX
+Fian. sole arg. EX
+Spira sole arg. R
+Fian. sole arg. R
+Spira luna dorata
+Fiancale luna dorata
+Spira luna dorata EX
+Fiancale luna dor. EX
+Obi ira divina
+Cintura psichica
+Falda vorace
+Fiancale vorace
+Falda vorace R
+Fiancale vorace R
+Cintura Akantor
+Fascia Akantor
+Cintura Akantor R
+Fascia Akantor R
+Cintura Ukanlos
+Fascia Ukanlos
+Obi tempesta
+Obi celeste
+Obi fantempesta R
+Obi alumceleste R
+Ileo arcischel. R
+Ileo arcidecomp. R
+Spira astrale
+Fiancale astrale
+Spira Escadora
+Fiancale Escadora
+Spira Escadora R
+Fiancale Escadora R
+Falda strana
+Fiancale strano
+Falda Sanguis LV1
+Fiancale Sanguis LV1
+Falda Sanguis LV6
+Fiancale Sanguis LV6
+Falda Nix LV1
+Fiancale Nix LV1
+Falda Nix LV6
+Fiancale Nix LV6
+Falda Marmor LV1
+Fiancale Marmor LV1
+Falda Marmor LV6
+Fiancale Marmor LV6
+Falda Imperatrix LV1
+Fiancale Imperatrix LV1
+Falda Imperatrix LV6
+Fiancale Imperatrix LV6
+Falda Vis LV1
+Fiancale Vis LV1
+Falda Vis LV6
+Fiancale Vis LV6
+Falda Ventus LV1
+Fiancale Ventus LV1
+Falda Ventus LV6
+Fiancale Ventus LV6
+Falda Adamas LV1
+Fiancale Adamas LV1
+Falda Adamas LV6
+Fiancale Adamas LV6
+Falda Caecus LV1
+Fiancale Caecus LV1
+Falda Caecus LV6
+Fiancale Caecus LV6
+Falda Rex LV1
+Fiancale Rex LV1
+Falda Rex LV6
+Fiancale Rex LV6
+Falda Fulgur LV1
+Fiancale Fulgur LV1
+Falda Fulgur LV6
+Fiancale Fulgur LV6
+Falda Furor LV1
+Fiancale Furor LV1
+Falda Furor LV6
+Fiancale Furor LV6
+Falda Ignis LV1
+Fiancale Ignis LV1
+Falda Ignis LV6
+Fiancale Ignis LV6
+Rubasca promettente
+Rubasca eccelsa
+Falda lucida
+Falda da sogno
+Cintura Bouya
+Fibbia Bouya
+Cintura Captain J
+Gonna Captain J
+Spira notte di stelle
+Fianc. notte di stelle
+Cintura Dynaqlo
+Borsa Dynaqlo
+Cintura Buccaneer J
+Gonna Buccaneer J
+Spira Blue Star
+Fiancale Blue Star
+Arcirub. promettente
+Arcirub. eccelsa
+Arcirubasca lucida
+Arcirubasca da sogno
+Spira delle stelle
+Fianc. delle stelle
+Cintura dell'eroe
+Borsello dell'eroe
+Cintura campione
+Cintura energumeno
+Spira Zodias
+Fiancale Zodias
+Cint. Hiryu cielo
+Cint. Hiryu terra
+Cintura Lord supremo
+Mantello Lord supremo

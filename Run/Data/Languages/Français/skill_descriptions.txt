@@ -1,0 +1,269 @@
+﻿Double les points de talent pour l'équipement du torse. 
+Protège contre le poison mortel et immunise complétement contre les poisons mineurs.
+Double les dégâts infligés par le poison.
+Empêche la paralysie.
+Double la durée de la paralysie.
+Empêche le sommeil.
+Double la durée du sommeil.
+Réduit de 50 % la probabilité d'être étourdi.
+Empêche d'être étourdi.
+Rend la récupération suite à un étourdissement plus difficile.
+Annule les effets des rugissements de certains grands monstres.
+Annule les effets des rugissements de tous les grands monstres.
+Réduit les effets de bourrasque de presque tous les monstres.
+Annule les effets de bourrasque de presque tous les monstres.
+Empêche de vaciller à cause des secousses créées par les grands monstres.
+Annule les effets d'entrave (bonhomme de neige, bulles, etc.).
+Annule les dégâts infligés par la chaleur et la lave.
+Augmente la quantité de vie perdue sous l'effet de la chaleur.
+Annule les dégâts subis par le froid.
+La jauge de stamina diminue plus vite à cause du froid.
+Vous donne un coup de fouet face au froid. Si vous buvez une boisson fraîche...
+Vous donne un coup de fouet face au chaud. Si vous buvez une boisson chaude...
+Empêche le vol d'objets.
+Annule les effets de Défense -.
+Réduit les risques d'être en proie à la furie et améliore la récupération.
+Augmente l'efficacité des bouses. Annule la puanteur et le fléau-explosion.
+Augmente l'efficacité des bouses. Annule puanteur/fléau-explosion et retarde les effets du virus.
+Empêche l'hémorragie.
+Double les dégâts infligés par l'hémorragie.
+Augmente légèrement l'attaque.
+Augmente l'attaque.
+Augmente grandement l'attaque.
+Diminue légèrement l'attaque.
+Diminue l'attaque.
+Diminue grandement l'attaque.
+Augmente légèrement la défense.
+Augmente la défense.
+Augmente grandement la défense.
+Diminue légèrement la défense.
+Diminue la défense.
+Diminue grandement la défense.
+Augmente de 20 la vie maximale.
+Augmente de 50 la vie maximale.
+Réduit de 10 la vie maximale.
+Réduit de 30 la vie maximale.
+Augmente la résistance au feu de 15.
+Augmente la résistance au feu de 20.
+Diminue la résistance au feu de 20.
+Augmente la résistance à l'eau de 15.
+Augmente la résistance à l'eau de 20.
+Diminue la résistance à l'eau de 20.
+Augmente la résistance à la foudre de 15.
+Augmente la résistance à la foudre de 20.
+Diminue la résistance à la foudre de 20.
+Augmente la résistance à la glace de 15.
+Augmente la résistance à la glace de 20.
+Diminue la résistance à la glace de 20.
+Augmente la résistance au dragon de 15.
+Augmente la résistance au dragon de 20.
+Diminue la résistance au dragon de 20.
+Annule tous les fléaux élémentaires (feu, eau, foudre, glace et dragon).
+Augmente la puissance des attaques de feu et des munitions incendiaires.
+Augmente nettement la puissance des attaques de feu et des munitions incendiaires.
+Réduit la puissance des attaques de feu et des munitions incendiaires.
+Augmente la puissance des attaques d'eau et des munitions aquatiques.
+Augmente nettement la puissance des attaques d'eau et des munitions aquatiques.
+Réduit la puissance des attaques d'eau et des munitions aquatiques.
+Augmente la puissance des attaques de foudre et des munitions de foudre.
+Augmente nettement la puissance des attaques de foudre et des munitions de foudre.
+Réduit la puissance des attaques de foudre et des munitions de foudre.
+Augmente la puissance des attaques de glace et des munitions de glace.
+Augmente nettement la puissance des attaques de glace et des munitions de glace.
+Réduit la puissance des attaques de glace et des munitions de glace.
+Augmente la puissance des attaques anti-dragon et des munitions anti-dragon.
+Augmente nettement la puissance des attaques et munitions anti-dragon.
+Réduit la puissance des attaques anti-dragon et des munitions anti-dragon.
+Augmente la puissance des attaques élémentaires.
+Réduit la puissance des attaques élémentaires.
+Augmente légèrement la puissance des afflictions.
+Augmente la puissance des afflictions.
+Réduit la puissance des afflictions.
+Vous aiguisez votre arme plus vite.
+Vous aiguisez votre arme moins vite.
+Augmente légèrement la longueur de la jauge de tranchant de votre arme.
+Augmente la longueur de la jauge de tranchant de votre arme.
+Votre arme perd de son tranchant deux fois moins vite.
+Votre arme perd de son tranchant deux fois plus vite.
+Empêche vos attaques d'être détournées.
+Vos attaques sont détournées plus facilement.
+Affûte une arme à l'aide d'un aiguisoir et augmente temporairement sa force.
+Améliore l'attaque en fonction de la perte de tranchant de votre arme.
+L'affinité est augmentée de 100 % lorsque vous attaquez en dégainant.
+Peut étourdir des proies avec des attaques dégainées d'armes tranchantes. Améliore l'attaque.
+Augmente la vitesse de rengainage des armes.
+Accélère légèrement le rechargement du fusarbalète et le chargement des fioles.
+Accélère le rechargement du fusarbalète et charge automatiquement les fioles.
+Accélère grandement le rechargement du fusarbalète et charge auto. les fioles.
+Ralentit légèrement le rechargement du fusarbalète et le chargement des fioles.
+Ralentit le rechargement du fusarbalète et le chargement des fioles.
+Ralentit beaucoup le rechargement du fusarbalète et le chargement des fioles.
+Réduit légèrement le recul du fusarbalète.
+Réduit le recul du fusarbalète.
+Réduit grandement le recul du fusarbalète.
+Augmente légèrement le recul du fusarbalète.
+Augmente le recul du fusarbalète.
+Augmente grandement le recul du fusarbalète.
+Réduit la déviation du projectile au moment du tir.
+Réduit grandement la déviation du projectile au moment du tir.
+Augmente la déviation du projectile au moment du tir.
+Augmente grandement la déviation du projectile au moment du tir.
+Augmente la puissance des munitions normales (Mn Normales) et des flèches rapides.
+Augmente la puissance des munitions et des flèches perçantes.
+Augmente la puissance des munitions de plomb et des flèches dispersées.
+Augmente la puissance des dum-dum et des flèches lourdes.
+Vous pouvez utiliser tous les niveaux de munition normale.
+Vous pouvez utiliser les balles perçantes.
+Vous pouvez utiliser tous les niveaux de balle perçante.
+Vous pouvez utiliser la grenaille.
+Vous pouvez utiliser tous les niveaux de grenaille.
+Vous pouvez utiliser des munitions antiblindage.
+Vous pouvez utiliser tous les niveaux d'antiblindage.
+Vous pouvez utiliser les munitions à fragmentation.
+Vous pouvez utiliser tous les niveaux de fragmentation.
+Vous pouvez utiliser les fioles de poison avec l'arc.
+Vous pouvez utiliser les fioles de paralysie avec l'arc.
+Vous pouvez utiliser les fioles de sommeil avec l'arc.
+Vous pouvez utiliser les fioles de force de niveau 1 avec l'arc.
+Vous pouvez utiliser les fioles de force de tout niveau avec l'arc.
+Vous pouvez utiliser les fioles élémentaires avec l'arc.
+Vous pouvez utiliser les fioles élémentaires de tout niveau avec l'arc.
+Vous pouvez utiliser les fioles de combat avec l'arc.
+Vous pouvez utiliser les fioles de faiblesse avec l'arc.
+Vous pouvez utiliser les fioles explosives avec l'arc.
+Donne 1 tir supplémentaire lorsque vous tirez en rafale.
+Prolonge la durée pendant laquelle certaines munitions et flèches peuvent infliger le maximum de dégâts.
+Augmente les munitions (lancecanon, fusarb.), charge (arc), et énergie (volto-hache).
+Renforce les munitions internes (fusarbalète) et les tirs de barrage/guerre (arc).
+Renvoie occasionnellement vers l'inventaire les munitions ou les fioles tirées.
+Augmente l'affinité de 10 %.
+Augmente l'affinité de 20 %.
+Augmente l'affinité de 30 %.
+Réduit l'affinité de 5 %.
+Réduit l'affinité de 10 %.
+Réduit l'affinité de 15 %.
+Augmente l'affinité pour les attaques portées aux parties du corps où elles sont efficaces.
+Augmente l'affinité après des attaques répétées.
+Augmente la puissance des afflictions (paralysie, poison, sommeil) des coups critiques.
+Augmente les dégâts élémentaires (feu, eau, foudre, glace, dragon) des coups critiques.
+Augmente les dégâts des coups critiques.
+Accélère la jauge (épée longue, v-hache, m-hache, lames dbl) ou la charge (arc, gde épée, mart.).
+Ralentit la jauge (épée longue, v-hache, m-hache, lames dbl) ou la charge (arc, gde épée, mart.).
+La stamina diminue moins vite durant les actions utilisant progressivement de la stamina.
+La stamina diminue plus vite durant les actions utilisant progressivement de la stamina.
+La stamina diminue moins en cas d'évasion, de blocage, etc.
+La stamina diminue beaucoup moins en cas d'évasion, de blocage, etc.
+La stamina diminue plus vite en cas d'évasion, de blocage, etc.
+La stamina diminue beaucoup plus vite en cas d'évasion, de blocage, etc.
+Augmente la vitesse de récupération de la stamina.
+Diminue la vitesse de récupération de la stamina.
+Prolonge légèrement la durée d'invincibilité en cas d'évasion.
+Prolonge la durée d'invincibilité en cas d'évasion.
+Diminue la durée d'invincibilité en cas d'évasion.
+Augmente la distance d'évasion.
+Les esquives vous couvrent de bulles augmentant vos chances d'éviter les attaques.
+Diminue la probabilité d'être repoussé en bloquant une attaque.
+Diminue grandement la probabilité d'être repoussé en bloquant une attaque.
+Augmente la probabilité d'être repoussé en bloquant une attaque.
+Vous pouvez maintenant bloquer les attaques imparables.
+Vous étourdissez plus facilement les monstres.
+Augmente votre capacité à épuiser les monstres.
+Rend les cornes et flûtes moins cassables et augmente la durée d'effet de leurs mélodies.
+Améliore un peu les balistes, fioles de choc, antiblindage, lancecanon, jauge chaleur, etc.
+Améliore les balistes, fioles de choc, munitions antiblindage, lancecanon, jauge chaleur, etc.
+Vous brisez ou coupez plus facilement les parties faibles des monstres.
+Augmente les dégâts des bombes et passe à 100 % les chances de combinaison des bombes.
+Vous donne de la force pendant une durée limitée dans certaines conditions.
+Vous donne beaucoup de force pendant une durée limitée dans certaines conditions.
+Augmente l'attaque et l'affinité si un grand monstre dans la même zone s'énerve.
+Augmente grandement l'attaque et l'affinité si un grand monstre dans la même zone s'énerve.
+Augmente l'attaque quand votre jauge de vie est pleine.
+Augmente la puissance des arts de chasse contre les grands monstres.
+Augmente grandement la défense quand la vie est inférieure à 40 % du maximum.
+Augmente grandement l'attaque et la défense quand la vie est inférieure à 40 % du maximum.
+Réduit le bonus de défense et l'attaque quand la vie est inférieure à 40 % du maximum.
+Augmente l'attaque et la défense chaque fois que vous tombez au combat.
+Augmente l'attaque lorsque la jauge de vie est dans le rouge.
+Augmente l'attaque lorsque vous êtes victime d'une affliction.
+Évite un seul évanouissement si vous subissez un coup fatal et qu'il vous reste un certain montant de vie.
+Réduit la probabilité d'être pris pour cible par les monstres.
+Augmente la probabilité d'être repéré par les monstres.
+Augmente l'attaque et la défense des Palicos.
+L'émote "Victoire !" rappelle les Palicos évanouis ou en récupération. Usage limité.
+Chevaucher un monstre et le renverser devient plus facile.
+Chevaucher un monstre et le renverser devient plus difficile.
+Augmente les dégâts infligés par les attaques sautées.
+Accélère le remplissage de la jauge d'arts.
+Augmente les infos affichées sur la carte quand de grands monstres sont marqués.
+Affiche toujours les grands monstres sur la carte, comme s'ils portaient un marqueur.
+Indique quand un grand monstre peut être capturé.
+Affiche la carte en permanence. Facilite la pêche et la cuisson au barbecue.
+Augmente la vitesse lors du transport d'objets et réduit le risque de les lâcher.
+Diminue parfois les dégâts subis.
+Augmente parfois les dégâts subis.
+Annule les dégâts des attaques ennemies mineures.
+Augmente les effets de la récupération de vie.
+Réduit les effets de la récupération de vie.
+Récupération plus rapide des dégâts temporaires (zone rouge de la jauge de vie).
+Récupération bien plus rapide des dégâts temporaires (zone rouge de la jauge de vie).
+Récupération moins rapide des dégâts temporaires (zone rouge de la jauge de vie).
+Récupération bien moins rapide des dégâts temporaires (zone rouge de la jauge de vie).
+Augmente la durée d'effet de certains objets.
+Réduit la durée d'effet de certains objets.
+Transfère une part des effets de certains objets aux amis dans la même zone.
+Transfère les effets de certains objets aux amis dans la même zone.
+La stamina maximale diminue deux fois moins vite.
+La stamina maximale ne diminue plus.
+La stamina maximale diminue plus vite.
+La stamina maximale diminue nettement plus vite.
+Les viandes qui augmentent la jauge de stamina sont plus efficaces.
+Tous les objets que vous mangez ou buvez augmentent la jauge de stamina.
+Augmente la vitesse de consommation de viande.
+Augmente la vitesse de consommation de viande et d'objets.
+Réduit la vitesse de consommation de viande.
+Permet occasionnellement de réutiliser des objets après les avoir mangés ou bus.
+Rend la viande crue mangeable. Steaks saignants ou à point : stamina illimitée momentanément
+Permet de manger des champignons pour en tirer certains bienfaits.
+Augmente la quantité de vie régénérée par la consommation d'herbes.
+Les chances de succès lorsque vous combinez des objets sont augmentées de 20 %.
+Les chances de succès lorsque vous combinez des objets sont augmentées de 45 %.
+Les chances de succès lorsque vous combinez des objets sont réduites de 10 %.
+Les chances de succès lorsque vous combinez des objets sont réduites de 20 %.
+Garantit des résultats maximaux avec les combinaisons qui créent plusieurs objets en même temps.
+Vous combinez les pièges à 100 %, et vous posez les pièges et les bombes plus rapidement.
+Augmente parfois le nombre d'utilisations des points de collecte.
+Augmente souvent le nombre d'utilisations des points de collecte.
+Réduit parfois le nombre d'utilisations des points de collecte.
+Vous permet de récolter deux miels ou miels royaux en même temps.
+Permet d'extraire deux charmes en même temps... Peut-êêêtre.
+Permet d'extraire deux charmes en même temps... Peut-être.
+Réduit la probabilité que les pioches, filinsectes, boomerangs, flûtes, cornes cassent.
+Réduit beaucoup la probabilité que les pioches, filinsectes, boomerangs, flûtes, cornes cassent.
+Augmente la probabilité que les pioches, filinsectes, boomerangs, flûtes, cornes cassent.
+Augmente beaucoup la probabilité que les pioches, filinsectes, boomerangs, flûtes, cornes cassent.
+Augmente parfois le nombre de récompenses reçues à la fin d'une quête.
+Augmente souvent le nombre de récompenses reçues à la fin d'une quête.
+Augmente très souvent le nombre de récompenses reçues à la fin d'une quête.
+Réduit parfois le nombre de récompenses reçues à la fin d'une quête.
+Réduit souvent le nombre de récompenses reçues à la fin d'une quête.
+Empêche de tomber à la renverse à cause des attaques lorsque vous dépecez.
+Augmente d'un le nombre de chances de dépeçage et empêche d'être touché en dépeçant.
+Augmente la probabilité d'obtenir plus de récompenses pour les captures.
+Augmente beaucoup la probabilité d'obtenir plus de récompenses pour les captures.
+Combine les effets de : "Feu +15" et "Ascète".
+Combine les effets de : "Lubie esprit" et "Foudre".
+Combine les effets de : "Glace +15" et "Gourmet".
+Combine les effets de : "Chasseur de miel" et "Eau +15".
+Combine les effets de : "Concentration" et "Ressentiment".
+Combine les effets de : "'Esquive" et "Vigueur +".
+Combine les effets de : "Samouraï", "Recul +2", et "Bénédiction".
+Combine les effets de : "Adrénaline +2" et "Goinfre".
+Combine les effets de : "Affliction +2" et "Soutien +2".
+Combine les effets de : "Chasse-charme" et "Spartiate".
+Combine les effets de : "Évasion +2" et "Œil critique +3".
+Combine les effets de : "Crâne de fer" et "Challenger +2".
+Combine les effets de : "Attaque +3" et "Vent +2".
+Combine les effets de : "Force latente +2" et "Athlète +2".
+Combine les effets de : "Bouche-oreilles" et "Carnassier +2".
+Combine les effets de : "Tranchant +2", "Maîtrise de soi", et "Aiguisage rapide".
+Combine les effets de : "Ténacité", "Marathonien", et "Vol de stamina".

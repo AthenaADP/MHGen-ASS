@@ -1,0 +1,254 @@
+﻿#  MHX/Gen ASS Primary String Table 
+#  
+#  Documentation Notes
+#
+#  - Lines beginning with # are comments and are ignored.
+#  - Empty lines are also ignored.
+#  - The name of this language as it appears in the drop-down menu is the name of the folder inside the Languages folder.
+#  - Menus and buttons may use an ampersand (&) symbol to denote a hotkey.
+#  - Tokens (%1, %2 etc.) are replaced by numbers; they can be rearranged into any order.
+#    Refer to the specific documentation below to see what the numbers are.
+#
+#  If you have any questions or require more strings/options/UI changes, please message AthenaADP on Facebook or reddit.
+#
+
+#The first line is for translator credit. This appears in the About dialog when this language is selected. A single hyphen means nothing is shown.
+Übersetzt von Genesis
+
+&Datei
+&Optionen
+&Sprache
+&Hilfe
+&Laden
+
+#This string is used in the File menu to save application settings.
+&Speichern
+
+#This string is used for saving custom charm/excavated gear lists.
+&Speichern
+
+&Verlassen
+
+#This options resets all settings to default
+&Einstellungen zurücksetzen
+
+#"Bad" skills are ones activated at -10 points or less.
+Erlaube &negative Fähigkeiten
+
+#This specifically refers to Arena reward helmets, such as the Barrage Piercing
+#and Sword Saint Piercing, which are difficult to obtain.
+Erlaube &Arena Ausrüstung
+
+#Event armor (and Decorations) from DLC quests
+Erlaube &Event Ausrüstung
+
+#Japanese only armor/decorations
+Erlaube &Japan-exklusive DLC Ausrüstung
+
+#This setting will ignore gear of a lower tier than you
+Erlaube &niederrangige Ausrüstung
+
+Zeige benötigte Fähigkeitspunkte &für Fähigkeiten
+
+Sortiere Fähigkeiten &alphabetisch
+Erlaube &Schützenhelme
+&Spenden
+&Freie Slots für weitere Fähigkeiten verwenden
+&Was machen die Fähigkeiten?
+
+#This option opens a browser to my Facebook page
+Auf &Updates prüfen
+
+&Über
+&Talismane
+&Importieren
+&Schnellsuche
+&Erweiterte Suche
+&Abbrechen
+&Standard
+
+#This string is used in the Advanced Search dialog to deselect all armors in a list.
+&Keine
+
+#This string is used in the combobox that filters solutions by charm
+Kein Talisman
+
+#This string is used in the combobox that sorts solutions by various criteria
+Unsortiert
+
+&Suche
+Wähle &Keine
+Wähle &Beste
+&Hinzufügen
+&Zurücksetzen
+Lö&schen
+Alle &löschen
+Nach &oben
+Nach &unten
+&Zusammenfassen
+&Schließen
+&Finde nächsten
+
+Jap?
+Japanische Fähigkeit auswählen
+Länge %1
+
+Gilden-Quests
+Dorf-Quests
+Max. Waffenslots
+Männlich
+Weiblich
+Kein Filtern nach Extrafähigkeiten
+Ergebnisse Sortieren/Filtern
+
+#This string is used in the combobox that filters solutions by charm
+Beliebiger Talisman
+
+Drachenabw.
+Feuerabw.
+Eisabw.
+Donnerabw.
+Wasserabw.
+Standard Verteidigung
+Max. Verteidigung
+
+#When sorting solutions, "Difficulty" refers to the number of rare items required, e.g. plates/rubies/dragongems/etc.
+Schwierigkeit
+
+Seltenheit
+Freie Slots
+
+#When sorting solutions, "Family" refers to how similar the armor pieces are:
+# Rathalos X + Rathalos X (great!)
+# Rathalos X + Rathalos S (good)
+# Rathalos X + Rathalos U (ok...)
+# Rathalos X + Basarios S (bad)
+Familie
+
+#Extra Skills are skills that a solution may have that the user did not search for
+Extra Fähigkeiten
+
+Talismane
+Keine Talismane benutzen
+Eigene Talismane benutzen
+
+#When searching using charms that have no skills, but 1-3 slots.
+Benutze nur Talismanslots
+
+#When searching using charms with at most one skill and possibly some slots
+Bis zu eine Fähigkeit
+
+#When searching using charms with at most two skills and possible some slots (i.e. all possible charms)
+Bis zu zwei Fähigkeiten
+
+Fähigkeit
+Fähigkeiten
+Fähigkeitenfilter
+Klingenmeister
+Schütze
+
+#Used in the Advanced Search dialog
+Ausrüstung wählen
+
+#For importing charms from a savefile
+Talismane importieren
+
+#For importing charms from a savefile
+Charaktere
+
+Vorhandene Talismane löschen
+Bist du sicher?
+&Sortiere
+&1. Fähigkeit
+&2. Fähigkeit
+Slots
+(keine)
+
+#When a solution has exactly one slot spare
+1 Slot frei
+
+#When a solution has multiple slots spare, %1 is that number.
+%1 Slots frei
+
+#The following three strings deliberately begin with a space in English
+ (oder irgendetwas mit 1 Slot)
+
+#%1 is the number of slots in the armor
+ (oder irgendetwas mit %1 Slots)
+
+#This line is appended to armors with Torso Inc
+ (oder irgendetwas mit Torso+)
+
+#This line is appended to decorations in the torso armor, if Torso Inc is in effect
+ (im Torso)
+
+Lösungen gefunden:
+
+#When there are too many solutions to display all of them, %1 is the limit (default 1000)
+Zeige nur die ersten %1 Lösungen:
+
+Speicherdatenauszug
+Talisman Liste
+Daten sind fehlerhaft.
+Version
+Finden
+
+#This string is shown if a charm or excavated item is loaded that is impossible to obtain legitimately
+Du Cheater!
+
+#Used in some error popups
+Fehler
+
+#For showing min (%1) and max (%2) defence, e.g. 10 to 100
+%1 bis %2
+
+Verteidigung
+Tabelle
+Ergebnisse
+Unbekannter Talisman
+Alle Talismane löschen
+ASS Einstellungen
+&Max. Ergebnisse
+Zeige &Dekorationsnamen
+Zeige Materiallisten
+Standard-Zoom für Vorschaubild
+
+#Showing min/max defence and elemental resists
+%1-%2 Vert, %3 Feu, %4 Was, %5 Eis, %6 Don, %7 Dra
+
+#This string is used to show decorations as skills, e.g. "+5 Expert Jewel". %1 is the numeric value %2 is the skill name
+%1 %2 Juwel
+
+#Item Type refers to weapon/helm/body armor/etc.
+Item Typ
+
+#Hunter Type means Blademaster or Gunner
+Jägertyp
+
+#Both Blademaster and Gunner (for helmets)
+Beides
+
+Waffe
+Kopf
+Brust
+Arme
+Hüfte
+Beine
+
+#This string is for displaying potential extra skills
+(%1 möglich)
+
+#Strings for the skill description dialog
+Zeige
+Beschreibung
+Fähigkeiten
+Fähigkeitenbäume
+Rüstungen mit Punkten dieser Fähigkeit:
+
+#Strings for displaying hunter rank, village quest progress etc.
+%1☆
+%1☆
+Alle
+
+#Format string for showing a skill with the number of skill points required
+%1 (%2)

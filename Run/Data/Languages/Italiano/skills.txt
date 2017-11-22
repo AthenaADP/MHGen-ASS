@@ -1,0 +1,417 @@
+﻿Veleno
+Paralisi
+Sonno
+Stordimento
+Udito
+Vento
+Antisismico
+Vincolo
+Calore
+Freddo
+Polare
+Tropicale
+Anti-ladro
+Difesa OK
+Antifrenesia
+Biologia
+Emorragia
+Attacco
+Difesa
+Vita
+Ignifugo
+Acquatico
+Isolante
+Antigelo
+Antidrago
+Res elem.
+Att. fuoco
+Att. acqua
+Att. tuono
+Att. gelo
+Att. drago
+Att. elem.
+Att. status
+Rasoio
+Artigiano
+Acutezza
+Scherma
+Metallurgia
+Levigazione
+Rapi-danno
+Punizione
+Rinfodero
+Ricarica
+Rinculo
+Precisione
+Normale
+Perforante
+Ventaglio
+Pesante
+P normali
+P perforanti
+P ventaglio
+P esplosivi
+P grappolo
+B veleno
+B paralisi
+B sonno
+B potenza
+B elemento
+B cortor.
+B fatica
+B scoppio
+Fuoco rap.
+Mirino
+Cartucciera
+Balistica
+Risparmio
+Affinità
+Cecchino
+Serie critica
+Crit. status
+Crit. elemen.
+Critico+
+Carica
+Resistenza
+Atleta
+Resistente
+Schivata
+Schivatore
+Bolla
+Guardia
+Blocco
+KO
+Sfinitore
+Maestro
+Artigliere
+Spaccone
+Bombarolo
+Rinforzo
+Spirito
+Illeso
+Chance
+Potenziale
+Superstite
+Rabbia
+Emergenza
+Coraggio
+Presenza
+Gregario
+Capitano
+Cavaliere
+Balzo
+Intuito
+Sibilla
+Cattura
+Ranger
+Portatore
+Protezione
+Eroismo
+Medicina
+Recupero
+Oggetti
+Ampia area
+Fame
+Ingordigia
+Cucina
+Dieta
+Predatore
+Micologia
+Botanica
+Combinatore
+Alchimista
+Trappola
+Raccolta
+Miele
+Idolatra
+Fatalità
+Fato
+Ricavo
+Premi
+Bherna
+Kokoto
+Pokke
+Yukumo
+Sanguis
+Nix
+Marmor
+Vis
+Imperatrix
+Adamas
+Ventus
+Caecus
+Rex
+Fulgur
+Furor
+Ignis
+Schermidore
+Torso+
+
+Annulla-veleno
+Veleno [x2]
+Annulla-paralisi
+Paralisi [x2]
+Annulla-sonno
+Sonno [x2]
+Stordimento 1/2
+Annulla-stordim.
+Stordimento [x2]
+Tappi orecchie
+Tappi orecchie+
+Vento +1
+Vento +2
+Antisismico
+Annulla-vincolo
+Annulla-calore
+Aumenta-calore
+Annulla-freddo
+Aumenta-freddo
+Caccia polare
+Caccia tropicale
+Anti-ladro
+Pelle di ferro
+Antivirus
+Bioricercatore
+Biologo
+Nega emorragia
+Doppia emorragia
+Attacco +1
+Attacco +2
+Attacco +3
+Attacco -1
+Attacco -2
+Attacco -3
+Difesa +1
+Difesa +2
+Difesa +3
+Difesa -1
+Difesa -2
+Difesa -3
+Vita +20
+Vita +50
+Vita -10
+Vita -30
+Fuoco +15
+Fuoco +20
+Fuoco -20
+Acqua +15
+Acqua +20
+Acqua -20
+Tuono +15
+Tuono +20
+Tuono -20
+Gelo +15
+Gelo +20
+Gelo -20
+Drago +15
+Drago +20
+Drago -20
+Annulla-elementi
+Att. fuoco +1
+Att. fuoco +2
+Att. fuoco -1
+Att. acqua +1
+Att. acqua +2
+Att. acqua -1
+Att. tuono +1
+Att. tuono +2
+Att. tuono -1
+Att. gelo +1
+Att. gelo +2
+Att. gelo -1
+Att. drago +1
+Att. drago +2
+Att. drago -1
+Att. elementale+
+Att. elementale-
+Att. status +1
+Att. status +2
+Att. status -1
+Affilatura+
+Affilatura-
+Acutezza +1
+Acutezza +2
+Lama affilata
+Lama smussata
+Preveggenza
+Prevedibilità
+Gran levigatura
+Contundente
+Critico rapido
+Stordattacco
+Rinfodero rapido
+Ricarica +1
+Ricarica +2
+Ricarica +3
+Ricarica -1
+Ricarica -2
+Ricarica -3
+Rid. rinculo +1
+Rid. rinculo +2
+Rid. rinculo +3
+Rid. rinculo -1
+Rid. rinculo -2
+Rid. rinculo -3
+Precisione +1
+Precisione +2
+Precisione -1
+Precisione -2
+Normale/Rapido+
+Perforante+
+Ventaglio+
+Pesante+
+P normali
+P perforanti lv1
+P perforanti
+P ventaglio lv1
+P ventaglio
+P esplosivi lv1
+P esplosivi
+P grappolo lv1
+P grappolo
+B veleno
+B paralisi
+B sonno
+B potenza (lv1)
+B potenza (tutti)
+B element. (lv1)
+B element. (tutti)
+B cortoraggio
+B fatica
+B scoppio
+Colpo extra
+Aumenta colpi
+Cartucciera+
+Colpi+
+Risparmio
+Affinità +1
+Affinità +2
+Affinità +3
+Affinità -1
+Affinità -2
+Affinità -3
+Punto debole
+Recidivo
+Critico stat.
+Critico elem.
+Aumenta critico
+Carica rapida
+Carica lenta
+Resistenza+
+Resistenza-
+Atleta +1
+Atleta +2
+Atleta -1
+Atleta -2
+Recupero res+
+Recupero res-
+Schivata +1
+Schivata +2
+Schivata -1
+Schivatore+
+Danza bollicine
+Guardia +1
+Guardia +2
+Guardia -1
+Blocco
+Storditore
+Ruba resistenza
+Maestro corno
+Artigliere +1
+Artigliere +2
+Spaccamostri
+Bombarolo
+Forza +1
+Forza +2
+Sfidante +1
+Sfidante +2
+Forma perfetta
+Asso
+Adrenalina +1
+Adrenalina +2
+Inquietudine
+Rafforzamento
+Risentimento
+Rianimazione
+Coraggio
+Furtivo
+Rumoroso
+Adunata compagno
+Incita compagno
+Gran cavaliere
+Mal di sella
+Volante
+Serafico
+Individua
+Autotracciamento
+Guru cattura
+Campeggiatore
+Super-Portatore
+Angelo custode
+Demone custode
+Talismano eroico
+Medicina+
+Medicina-
+Recupero +1
+Recupero +2
+Recupero -1
+Recupero -2
+Uso oggetti+
+Uso oggetti-
+Ampia area +1
+Ampia area +2
+Fame dimezzata
+Fame annullata
+Fame aumentata
+Doppia fame
+Mangiatanto
+Mangiatutto
+Pasto veloce +1
+Pasto veloce +2
+Pasto lento
+Razionatore
+Carnivoro
+Fungomante
+Erboristeria
+Combinazioni +20%
+Combinazioni +45%
+Combinazioni -10%
+Combinazioni -20%
+Alchimista
+Maestro trappole
+Raccolta +1
+Raccolta +2
+Raccolta -1
+Orso
+Amuleti +1
+Amuleti +2
+Proteggi-spirito
+Proteggi-divino
+Spacca-spettro
+Spacca-diavolo
+Fortuna
+Più fortuna
+Gran fortuna
+Sfortuna
+Gran sfortuna
+Esperto ricavo
+Celebrità ricavo
+Premi +1
+Premi +2
+Anima Bherna
+Anima Kokoto
+Anima Pokke
+Anima Yukumo
+Anima Sanguis
+Anima Nix
+Anima Marmor
+Anima Vis
+Anima Imperatrix
+Anima Adamas
+Anima Ventus
+Anima Caecus
+Anima Rex
+Anima Fulgur
+Anima Furor
+Anima Ignis
+Gran schermidore

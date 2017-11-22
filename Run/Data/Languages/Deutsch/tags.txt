@@ -1,0 +1,9 @@
+﻿Alle
+Sonstige
+Zugehörige
+Offensiv
+Defensiv
+Klingenmeister
+Schütze
+Sammeln
+Resistenz

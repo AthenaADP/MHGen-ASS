@@ -1,0 +1,650 @@
+﻿Gants en cuir
+Gants de mailles
+Avant-bras Bherna
+Avant-bras Fauconnier
+Gardes Fauconnier
+Mitaines Mafumofu
+Kote Yukumo
+Avt-bras de chasseur
+Gardes de chasseur
+Avant-bras d'os
+Gardes d'os
+Gantelets de trappeur
+Gants de trappeur
+Gantelets Maccao
+Gants Maccao
+Gantelets Jaggi
+Gants Jaggi
+Avant-bras Jaggi
+Gardes Jaggi
+Avant-bras Maccao
+Gardes Maccao
+Avant-bras Velociprey
+Gardes Velociprey
+Avant-bras Giaprey
+Gardes Giaprey
+Avant-bras Genprey
+Gardes Genprey
+Avant-bras Vespoid
+Gardes Vespoid
+Avant-bras Hornet
+Gardes Hornet
+Gants Bnahabra
+Manches Bnahabra
+Avant-bras Konchu
+Gardes Konchu
+Poings Mosswine
+Avant-bras Rhenoplos
+Gardes Rhenoplos
+Avant-bras Bulldrome
+Gardes Bulldrome
+Avant-bras Arzuros
+Gardes Arzuros
+Avant-bras Cephalos
+Gardes Cephalos
+Gants de bravoure
+Avant-bras alliage
+Gardes en alliage
+Avant-bras de combat
+Gardes de combat
+Avant-bras en lingot
+Gardes en lingot
+Avant-bras haut-métal
+Gardes haut-métal
+Branche Melahoa
+Pétale Melahoa
+Manches Makluva
+Ventouse Makluva
+Brachia Nécrologie
+Manus Nécrologie
+Brachia Papillon
+Manus Papillon
+Étreinte putride
+Poigne putride
+Tige Mosgharl
+Vrille Mosgharl
+Tige Edel
+Vrille Edel
+Brachia Skalda
+Manus Skalda
+Brachia Spio
+Manus Spio
+Griffes Moofah
+Manches Moofah
+Griffes Velociprey
+Gants Velociprey
+Griffes Genprey
+Gants Genprey
+Gants Ioprey
+Mains Ioprey
+Gants Remobra
+Mains Remobra
+Avant-bras Ioprey
+Gardes Ioprey
+Avant-bras Kut-Ku
+Gardes Kut-Ku
+Avant-bras Lagombi
+Gardes Lagombi
+Avant-bras Gypceros
+Gardes Gypceros
+Avant-bras Tetsucabra
+Gardes Tetsucabra
+Avant-bras Hermitaur
+Gardes Hermitaur
+Avant-bras Volvidon
+Gardes Volvidon
+Avant-bras Ludroth
+Gardes Ludroth
+Avant-bras Malfestio
+Gardes Malfestio
+Avant-bras Khezu
+Gardes Khezu
+Avant-bras Rathian
+Gardes Rathian
+Avant-bras Nibelsnarf
+Gardes Nibelsnarf
+Avant-bras Blango
+Gardes Blango
+Avant-bras Ceanataur
+Gardes Ceanataur
+Avant-bras Najarala
+Gardes Najarala
+Avant-bras Nargacuga
+Gardes Nargacuga
+Poignes du savoir
+Manchettes du savoir
+Avant-bras Vaik
+Gardes Vaik
+Brachia Aelucanth
+Manus Aelucanth
+Brachia Rhopessa
+Manus Rhopessa
+Avant-bras Artian
+Gardes Artian
+Avant-bras Garuga
+Gardes Garuga
+Avant-bras Uragaan
+Gardes Uragaan
+Avant-bras Rathalos
+Gardes Rathalos
+Avant-bras Lagiacrus
+Gardes Lagiacrus
+Avant-bras Zinogre
+Gardes Zinogre
+Avant-bras Mizutsune
+Gardes Mizutsune
+Avant-bras Astalos
+Gardes Astalos
+Avant-bras Gammoth
+Gardes Gammoth
+Avant-bras Glavenus
+Gardes Glavenus
+Avant-bras Gore
+Gardes Gore
+Avant-bras Regios
+Gardes Regios
+Avant-bras Tigrex
+Gardes Tigrex
+Bras-longs Kirin
+Gants Kirin
+Avant-bras Brachydios
+Gardes Brachydios
+Avant-bras Archange
+Gardes Archange
+Avant-bras Philia
+Gardes Philia
+Poigne Kushala
+Étreinte Kushala
+Osode Mizuha
+Osode fantasque
+Avant-bras Kaiser
+Gardes Kaiser
+Humérus squelette
+Humérus ancien
+Griffe noire
+Poing noir
+Avant-bras obi noir
+Gardes obi noir
+Avant-bras de barde
+Manches de barde
+Gants Soubrette
+Manches Gothic Lolita
+Manches Servante
+Manches Guérisseuse
+Rubans Dianthus
+Rubans Campanile
+Manches de bain
+Gants Gourmiaou
+Mitaines Gourmiaou
+Avant-bras en cuir S
+Gardes en cuir S
+Avant-bras en maille S
+Gardes en maille S
+Avant-bras Bherna S
+Gardes Bherna S
+Avant-bras Fauconnier S
+Gardes Fauconnier S
+Poignées Mafumofu S 
+Mitaines Mafumofu S
+Kote Yukumo Ciel
+Kote Yukumo Terre
+Avt-bras chasseur S
+Gardes de chasseur S
+Avant-bras chasseur R
+Gardes chasseur R
+Avant-bras d'os S
+Gardes d'os S
+Branche Melahoa S
+Pétale Melahoa S
+Branche Melahoa U
+Pétale Melahoa U
+Manches Makluva S
+Ventouse Makluva S
+Manches Makluva U
+Ventouse Makluva U
+Tige Mosgharl S
+Vrille Mosgharl S
+Tige Edel S
+Vrille Edel S
+Griffes Moofah S
+Manches Moofah S
+Griffes Velocip S 
+Gants Velociprey S
+Griffes Genprey S
+Gants Genprey S
+Gants Ioprey S
+Mains Ioprey S
+Gants Remobra S
+Mains Remobra S
+Gantelets de trappeur S
+Gants de trappeur S
+Gantelets Maccao S
+Gants Maccao S
+Gantelets Jaggi S
+Gants Jaggi S
+Gants Mosswine S
+Avant-bras Rhenoplos S
+Gardes Rhenoplos S
+Avant-bras Jaggi S
+Gardes Jaggi S
+Avant-bras Macc S
+Gardes Maccao S
+Avt-bras Velociprey S
+Gardes Velociprey S
+Avant-bras Giaprey S
+Gardes Giaprey S
+Avant-bras Genprey S
+Gardes Genprey S
+Avant-bras Genp EX
+Gardes Genprey EX
+Avant-bras Ioprey S
+Gardes Ioprey S
+Avant-bras Iop EX
+Gardes Ioprey EX
+Avant-bras Vespoid S
+Gardes Vespoid S
+Avant-bras Vesp EX
+Gardes Vespoid EX
+Avant-bras Hornet S
+Gardes Hornet S
+Avt-bras Hornet EX
+Gardes Hornet EX
+Avt-bras Hornet R
+Gardes Hornetaur R
+Gants Bnahabra S
+Manches Bnahabra S
+Avant-bras Konchu S
+Gardes Konchu S
+Avant-bras Bull S
+Gardes Bulldrome S
+Avant-bras Arzuros S
+Gardes Arzuros S
+Avt-bras Cephalos S
+Gardes Cephalos S
+Avant-bras Ceph EX
+Gardes Cephalos EX
+Avant-bras Kut-Ku S
+Gardes Kut-Ku S
+Avant-bras Kecha
+Gardes Kecha
+Avant-bras Lagombi S
+Gardes Lagombi S
+Avant-bras Gypceros S
+Gardes Gypceros S
+Avant-bras Gypceros R
+Gardes Gypceros R
+Avt-bras Tetsucabra S
+Gardes Tetsucabra S
+Avt-bras Hermitaur S
+Gardes Hermitaur S
+Avt-bras Hermit EX
+Gardes Hermit EX
+Avant-bras Herm R
+Gardes Hermitaur R
+Avt-bras Volvidon S
+Gardes Volvidon S
+Avant-bras Ludroth S
+Gardes Ludroth S
+Avant-bras Ludroth R
+Gardes Ludroth R
+Avant-bras d'érudite
+Gardes d'érudite
+Avant-bras alliage S
+Gardes en alliage S
+Avant-bras alliage R
+Gardes alliage R
+Avt-bras de combat S
+Gardes de combat S
+Avant-bras en lingot S
+Gardes en lingot S
+Avant-bras en lingot R
+Gardes en lingot R
+Avt-bras haut-métal S
+Gardes haut-métal S
+Avt-bras haut-métal U
+Gardes haut-métal U
+Avant-bras Homard
+Gardes Homard
+Brachia Nécrologie S
+Manus Nécrologie S
+Brachia Papillon S
+Manus Papillon S
+Étreinte putride S
+Poigne putride S
+Étreinte putride R
+Poigne putride R
+Avant-bras Vaik S
+Gardes Vaik S
+Brachia Aelucan S
+Manus Aelucanth S
+Brachia Rhopessa S
+Manus Rhopessa S
+Moufles de pâtissier
+Mitaines de pâtissier
+Brachia Skalda S
+Manus Skalda S
+Brachia Spio S
+Manus Spio S
+Avant-bras Malf S
+Gardes Malfestio S
+Avant-bras Zamtrios
+Gardes Zamtrios
+Avant-bras Khezu S
+Gardes Khezu S
+Avant-bras Khezu R
+Gardes Khezu R
+Avant-bras Rathian S
+Gardes Rathian S
+Avant-bras Rathian EX
+Gardes Rathian EX
+Avant-br Rathian R
+Gardes Rathian R
+Avt-bras Nibelsnarf S
+Gardes Nibelsnarf S
+Avant-bras Plesioth
+Gardes Plesioth
+Avant-bras Blango S
+Gardes Blango S
+Avant-bras Blan EX
+Gardes Blango EX
+Avant-bras Lavasioth
+Gardes Lavasioth
+Avant-bras Lava EX
+Gardes Lavasioth EX
+Avt-bras Ceanataur S
+Gardes Ceanataur S
+Avant-bras Ceanataur EX
+Gardes Ceanataur EX
+Avant-bras Ceanataur R
+Gardes Ceanataur R
+Avant-bras Najarala S
+Gardes Najarala S
+Avant-bras Narga S
+Gardes Narga S
+Avant-bras Garuga S
+Gardes Garuga S
+Avant-bras Uragaan S
+Gardes Uragaan S
+Avant-bras obi noir S
+Gardes obi noir S
+Avant-bras Gardien
+Gardes Gardien
+Avant-bras Gardien U
+Gardes Gardien U
+Gants de clerc
+Manches de clerc
+Gants de marin
+Manches de marin
+Manches bain luxe
+Manchette Hokushin
+Manchette Océan
+Avant-bras bravoure S
+Gardes de bravoure S
+Avant-bras Dober
+Gardes Dober
+Avant-bras Damascus
+Gardes Damascus
+Avant-bras Damascus R
+Gardes Damascus R
+Avant-bras Artian S
+Gardes Artian S
+Avant-bras Artian R
+Gardes Artian R
+Avant-bras Seltas
+Gardes Seltas
+Avant-bras Rathalos S
+Gardes Rathalos S
+Avant-bras Rathalos EX
+Gardes Rathalos EX
+Avant-bras Rathalos R
+Gardes Rathalos R
+Avt-bras Lagiacrus S
+Gardes Lagiacrus S
+Avant-bras Lagiacrus R
+Gardes Lagiacrus R
+Avant-bras Zinogre S
+Gardes Zinogre S
+Avant-bras Zinogre EX
+Gardes Zinogre EX
+Avant-bras Mizutsune S
+Gardes Mizutsune S
+Avant-bras Astalos S 
+Gardes Astalos S
+Avant-bras Gammoth S
+Gardes Gammoth S
+Avant-bras Glavenus S
+Gardes Glavenus S
+Avant-bras Agnaktor
+Gardes Agnaktor
+Avant-bras Gore S
+Gardes Gore S
+Avant-bras Gore EX
+Gardes Gore EX
+Avant-bras Gore R
+Gardes Gore R
+Avant-bras Regios S
+Gardes Regios S
+Avant-bras Duramboros
+Gardes Duramboros
+Avant-bras Tigrex S
+Gardes Tigrex S
+Avant-bras Tigrex EX
+Gardes Tigrex EX
+Avant-bras Tigrex R
+Gardes Tigrex R
+Bras-longs Kirin S
+Gants Kirin S
+Bras-longs Kirin R
+Gants Kirin R
+Avt-bras Brachydios S
+Gardes Brachydios S
+Avant-bras Brachydios EX
+Gardes Brachydi EX
+Kote d'or
+Kote Kuroko
+Avant-bras Vangis
+Gardes Vangis
+Gants Chevalier
+Manches Chevalier
+Gants Soubrette S
+Manches Gothic Lolita S
+Gants de Guilde (BL)
+Manches de Guilde (BL)
+Gants de Guilde (BL)
+Manches de Guilde (BL)
+Gants de Guilde (RG)
+Manches de Guilde (RG)
+Gants de Guilde (RG)
+Manches de Guilde (RG)
+Manches Servante S
+Manches Guérisseuse S
+Manches Servante U
+Manches Guérisseuse U
+Avant-bras de barde S
+Manches de barde S
+Bracelet Chakra
+Rubans Dianthus S
+Rubans Campanile S
+Avt-bras As de chasse
+Gardes As de chasse
+Avant-bras Amazone
+Gardes Amazone
+Avant-bras Faucon
+Gardes Faucon
+Gants Gourmiaou S
+Mitaines Gourmiaou S
+Poignes du savoir S
+Manchettes du savoir S
+Tekko de ranger
+Tekko d'archer
+Kote Shinobi Cieux
+Kote Shinobi Terre
+Kote Shinobi Vent
+Kote Shinobi Eau
+Spalière antique
+Gardes antiques
+Gantelets maître
+Gardes de maître
+Griffe noire S
+Poing noir S
+Kote Toka
+Kote Mitsuaoi
+Avt-bras Rath EX S
+Gardes Rathi EX S
+Avt-bras Ratha EX S
+Gardes Ratha EX S
+Avt-bras Tigr EX S
+Gardes Tigrex EX S
+Avant-bras Archange S
+Gardes Archange S
+Avant-bras Philia S
+Gardes Philia S
+Avt-bras Archan EX
+Gardes Archange EX
+Avant-bras Phil EX
+Gardes Philia EX
+Avt-bras Archan R
+Gardes Archange R
+Avant-bras Phil R
+Gardes Philia R
+Poigne Kushala S
+Étreinte Kushala S
+Poigne Kushala EX
+Étreinte Kushala EX
+Poigne Kushala R
+Étreinte Kushala R
+Osode Mizuha H
+Osode fantasque H
+Osode Mizuha EX
+Osode fantasque EX
+Avant-bras Kaiser S
+Gardes Kaiser S
+Avant-bras Kaiser EX
+Gardes Kaiser EX
+Avant-bras Solargent
+Gardes Solargent
+Avt-bras Solarg EX
+Gardes Solarg EX
+Avt-bras Solarg R
+Gardes Solargent R
+Avant-bras Lunedor
+Gardes Lunedor
+Avant-bras Lune EX
+Gardes Lunedor EX
+Kote Ire divine
+Kote Brise-esprit
+Avant-bras Voracité
+Gardes Voracité
+Avant-bras Vorac R
+Gardes Voracité R
+Déchireur Akantor
+Gantelet Akantor
+Déchireur Akantor R
+Gantelet Akantor R
+Déchireur Ukanlos
+Gantelet Ukanlos
+Tamoto Tempête
+Tamoto céleste
+Tamoto Tempête R
+Tamoto céleste R
+Humérus squelette R
+Humérus ancien R
+Avant-bras astraux
+Gardes astraux
+Armes Escadora
+Arma Escadora
+Armes Escadora R
+Arma Escadora R
+Bracelets Caravanier
+Avt-bras étranges
+Gardes étranges
+Avant-bras Crâne-ardent LV1
+Gardes Crâne-ardent LV1
+Avant-bras Crâne-ardent LV6
+Gardes Crâne-ardent LV6
+Avant-bras Maître-neige LV1
+Gardes Maître-neige LV1
+Avant-bras Maître-neige LV6
+Gardes Maître-neige LV6
+Avt-bras Poing-fer LV1
+Gardes Poing-fer LV1
+Avt-bras Poing-fer LV6
+Gardes Poing-fer LV6
+Avant-bras Reine-poison LV1
+Gardes Reine-poison LV1
+Avant-bras Reine-poison LV6
+Gardes Reine-poison LV6
+Avant-bras Brise-roc LV1
+Gardes Brise-roc LV1
+Avant-bras Brise-roc LV6
+Gardes Brise-roc LV6
+Avant-bras Vent-acier LV1
+Gardes Vent-acier LV1
+Avant-bras Vent-acier LV6
+Gardes Vent-acier LV6
+Avant-bras Roi-cristal LV1
+Gardes Roi-cristal LV1
+Avant-bras Roi-cristal LV6
+Gardes Roi-cristal LV6
+Avt-bras Œil-mort LV1
+Gardes Œil-mort LV1
+Avt-bras Œil-mort LV6
+Gardes Œil-mort LV6
+Avt-bras Roi-enfer LV1
+Gardes Roi-enfer LV1
+Avt-bras Roi-enfer LV6
+Gardes Roi-enfer LV6
+Avant-bras Feu-du-ciel LV1
+Gardes Feu-du-ciel LV1
+Avant-bras Feu-du-ciel LV6
+Gardes Feu-du-ciel LV6
+Avant-bras Griffe-sombre LV1
+Gardes Griffe-sombre LV1
+Avant-bras Griffe-sombre LV6
+Gardes Griffe-sombre LV6
+Avant-bras Lame-chaos LV1
+Gardes Lame-chaos LV1
+Avant-bras Lame-chaos LV6
+Gardes Lame-chaos LV6
+Avant-bras Gudegude
+Gardes Gudegude
+Kote cosmique
+Kote Halcyon
+Kote des étoiles
+Kote des rêves
+Avant-bras Gudegude S
+Gardes Gudegude S
+Gants du pirate J
+Manchettes du pirate J
+Avant-bras Star Knight
+Gardes Star Knight
+Mitaines Dynaqlo
+Gants Dynaqlo
+Gants du boucanier J
+Manchettes du boucanier J
+Avant-bras Étoile bleue
+Manches Étoile bleue
+Gardes Varia
+Bouclier Varia
+Gants Zéro
+Mains Zéro
+Kote cosmique H
+Kote Halcyon H
+Kote des étoiles H
+Kote des rêves H
+Avant-bras Star Rook
+Gardes Star Rook
+Brassards du Héros
+Gants du Héros
+Bandages du champion
+Bandages du colosse
+Avant-bras hérétiques
+Gardes hérétiques
+Avant-bras Anat
+Gardes Anat
+Avant-bras Zodias
+Gardes Zodias
+Kote Hiryu - Ciel
+Kote Hiryu - Terre
+Avant-bras du Guide
+Manches du Guide

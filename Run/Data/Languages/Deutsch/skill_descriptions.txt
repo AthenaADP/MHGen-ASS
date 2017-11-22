@@ -1,0 +1,269 @@
+﻿Verdoppelt die Fähigkeitenpunkte von Körperschutz.
+Schwächt die Effekte von Tödlichem Gift und hebt weniger wirksame Gifte komplett auf.
+Verdoppelt den durch Gift erlittenen Schaden.
+Verhindert Lähmung.
+Verdoppelt die Dauer der Lähmung.
+Verhindert Schlaf.
+Verdoppelt die Dauer von Schlaf.
+Verringert die Wahrscheinlichkeit einer Betäubung um 50%.
+Verhindert Betäubung.
+Macht es schwieriger, sich von einer Betäubung zu erholen.
+Hebt die Wirkung des Gebrülls mancher großer Monster auf.
+Hebt die Wirkung des Gebrülls aller großen Monster auf.
+Senkt den Winddruck fast gänzlich.
+Hebt den Winddruck von fast allen Monstern auf.
+Verhindert das Schwanken durch Beben, die von großen Monstern verursacht werden.
+Hebt die Wirkung von bindenden, einschränkenden Statuseffekten wie Schneemann und Blasen auf.
+Hebt den Schaden durch Lava und Hitze auf.
+Steigert den Gesundheitsverlust durch Hitze.
+Macht die gesamte Kälte unwirksam.
+Lässt deine maximale Ausdauer bei Kälte schneller absinken.
+Gibt Kraftbonus in kalten Gegenden. Wenn du ein Kaltgetränk trinkst...
+Gibt Kraftbonus in warmen Gegenden. Wenn du ein Heißgetränk trinkst...
+Verhindert den Diebstahl von Objekten.
+Hebt die Wirkung von "Verteidigung -" auf.
+Erschwert es, in Raserei zu verfallen und steigert Erholung.
+Steigert Wirksamkeit von Dungbomben und verhindert Gestank sowie Sprengschaden.
+Steigert Wirksamkeit von Dungbomben, verhindert Gestank und Sprengschaden, verzögert Virus.
+Verhindert eine Blutung.
+Verdoppelt den durch "Blutung" erlittenen Schaden.
+Erhöht Angriff leicht.
+Erhöht Angriff.
+Erhöht Angriff stark.
+Verringert Angriff leicht.
+Verringert Angriff.
+Verringert Angriff stark.
+Erhöht Verteidigung leicht.
+Erhöht Verteidigung.
+Erhöht Verteidigung stark.
+Verringert Verteidigung leicht.
+Verringert Verteidigung.
+Verringert Verteidigung stark.
+Erhöht die maximale Gesundheit um 20.
+Erhöht die maximale Gesundheit um 50.
+Verringert die maximale Gesundheit um 10.
+Verringert die maximale Gesundheit um 30.
+Erhöht Feuerabwehr um 15.
+Erhöht Feuerabwehr um 20.
+Verringert Feuerabwehr um 20.
+Erhöht Wasserabwehr um 15.
+Erhöht Wasserabwehr um 20.
+Verringert Wasserabwehr um 20.
+Erhöht Donnerabwehr um 15.
+Erhöht Donnerabwehr um 20.
+Verringert Donnerabwehr um 20.
+Erhöht Eisabwehr um 15.
+Erhöht Eisabwehr um 20.
+Verringert Eisabwehr um 20.
+Erhöht Drachenabwehr um 15.
+Erhöht Drachenabwehr um 20.
+Verringert Drachenabwehr um 20.
+Hebt alle Elementeffekte auf (Feuer-, Wasser-, Donner-, Eis- und Drachenbrand).
+Verstärkt die Kraft von Feuerangriffen und Flammen- schüssen (Flamme S).
+Verstärkt die Kraft von Feuerangriffen und Flammen- schüssen (Flamme S) stark.
+Senkt die Kraft von Feuerangriffen und Flammen- schüssen (Flamme S).
+Verstärkt die Kraft von Wasserangriffen und Wasser- schüssen (Wasser S).
+Verstärkt die Kraft von Wasserangriffen und Wasser- schüssen (Wasser S) stark.
+Senkt die Kraft von Wasserangriffen und Wasser- schüssen (Wasser S).
+Verstärkt die Kraft von Donnerangriffen und Donner- schüssen (Donner S).
+Verstärkt die Kraft von Donnerangriffen und Donner- schüssen (Donner S) stark.
+Senkt die Kraft von Donnerangriffen und Donner- schüssen (Donner S).
+Verstärkt die Kraft von Eisangriffen und Frost- schüssen (Frost S).
+Verstärkt die Kraft von Eisangriffen und Frost- schüssen (Frost S) stark.
+Senkt die Kraft von Eisangriffen und Frost- schüssen (Frost S).
+Verstärkt die Kraft von Drachenangriffen und Drachen- schüssen (Drachen S).
+Verstärkt die Kraft von Drachenangriffen und Drachen- schüssen (Drachen S) stark.
+Senkt die Kraft von Drachenangriffen und Drachen- schüssen (Drachen S).
+Erhöht die Kraft von Elementangriffen.
+Verringert die Kraft von Elementangriffen.
+Erhöht die Kraft von anormalen Angriffen leicht.
+Erhöht die Kraft von anormalen Angriffen.
+Verringert die Kraft von anormalen Angriffen.
+Beschleunigt die Waffenschärfung.
+Verlangsamt die Waffenschärfung.
+Steigert die Länge der Schärfe-Anzeige der Waffe leicht.
+Steigert die Länge der Schärfe-Anzeige der Waffe.
+Halbiert die Rate, mit der deine Waffe Schärfe verliert.
+Verdoppelt die Rate, mit der deine Waffe Schärfe verliert.
+Verhindert, dass deine Angriffe abgelenkt werden.
+Deine Angriffe werden leichter abgelenkt.
+Nutzt einen Wetzstein, um eine Waffe zu polieren und die Kraft kurzzeitig zu steigern.
+Steigert den Angriff basierend darauf, wie niedrig die Schärfe der Waffe ist.
+Erhöht die Affinität für alle Schnellangriffe um 100%.
+Steigert Angriff leicht, kann Monster mit Schnellangriff einer Schneidewaffe betäuben.
+Erhöht die Geschwindigkeit für das Wegstecken von Waffen.
+Beschleunigt Nachladen von Bogengewehr leicht. Beschleunigt Laden von Bogenbeschichtungen.
+Beschleunigt Nachladen von Bogengewehr. Lädt Bogenbeschichtungen automatisch.
+Beschleunigt Nachladen von Bogengewehr stark. Lädt Bogenbeschichtungen automatisch.
+Verlangsamt Nachladen von Bogengewehr und Laden von Bogenbeschichtungen leicht.
+Verlangsamt Nachladen von Bogengewehr und Laden von Bogenbeschichtungen.
+Verlangsamt Nachladen von Bogengewehr und Laden von Bogenbeschichtungen stark.
+Verringert den Bogengewehr- Rückstoß leicht.
+Verringert den Bogengewehr- Rückstoß.
+Verringert den Bogengewehr- Rückstoß stark.
+Verstärkt den Bogengewehr- Rückstoß leicht.
+Verstärkt den Bogengewehr- Rückstoß.
+Verstärkt den Bogengewehr- Rückstoß stark.
+Verringert die Abweichung beim Schießen.
+Verringert die Abweichung beim Schießen stark.
+Erhöht die Abweichung beim Schießen.
+Erhöht die Abweichung beim Schießen stark.
+Erhöht die Kraft von Normal- Schüssen (Normal S) und schnellen Pfeilen.
+Erhöht die Kraft von Perforieren- Schüssen (Perfor S) und Perforieren-Pfeilen.
+Erhöht die Kraft von Schrot- Schüssen (Schrot S) und Streupfeilen.
+Erhöht die Kraft von Schweren Schüssen (Schwer S) und Schweren Pfeilen.
+Ermöglicht das Laden aller Stufen von Normal-Schüssen (Normal S).
+Ermöglicht das Laden von Perfor.- Schüssen (Perfor S) der Stufe 1.
+Ermöglicht das Laden aller Stufen von Perforieren- Schüssen (Perfor S).
+Ermöglicht das Laden von Schrot- Schüssen (Schrot S) der Stufe 1.
+Ermöglicht das Laden aller Stufen von Schrot-Schüssen (Schrot S).
+Ermöglicht das Laden von Explosiv- Schüssen (Explosiv S) der Stufe 1.
+Ermöglicht das Laden aller Stufen von Explosiv-Schüssen (Explosiv S).
+Ermöglicht das Laden von Streu- Schüssen (Streu S) der Stufe 1.
+Ermöglicht das Laden aller Stufen von Streu-Schüssen (Streu S).
+Ermöglicht Giftbeschichtungen, wenn ein Bogen ausgerüstet wurde.
+Ermöglicht Lähmbeschichtungen, wenn ein Bogen ausgerüstet wurde.
+Ermöglicht Schlafbeschichtungen, wenn ein Bogen ausgerüstet wurde.
+Ermöglicht Kraftbeschichtungen der Stufe 1, wenn ein Bogen ausgerüstet ist.
+Ermöglicht Kraftbeschichtungen aller Stufen, wenn ein Bogen ausgerüstet ist.
+Ermöglicht den Einsatz von Elem-Phiole St1, wenn du einen Bogen führst.
+Ermöglicht Elementbeschichtungen aller Stufen, wenn ein Bogen ausgerüstet ist.
+Ermöglicht Nahkampfbeschichtungen, wenn ein Bogen ausgerüstet wurde.
+Ermöglicht Ermüdungsbeschichtungen, wenn ein Bogen ausgerüstet wurde.
+Ermöglicht Sprengbeschichtungen, wenn ein Bogen ausgerüstet wurde.
+Erlaubt einen zusätzlichen Schuss bei Schnellfeuer.
+Verlängert das Zeitfenster, in dem bestimmte Munition und Pfeile mit max. Kraft treffen.
+Steigert Bogengewehr-u. Gewehr- lanzen-Muni., Bogen-Ladestufen u. Energie für Energieklingen.
+Erhöht Kraft d. Internen Munition (Bogengewehr) sowie von Bogen- schuss und Kraftschuss (Bogen).
+Gibt bei Schuss gelegentlich Munition oder Phiolen ins Inventar zurück.
+Erhöht Affinität um 10 %.
+Erhöht Affinität um 20 %.
+Erhöht Affinität um 30 %.
+Verringert Affinität um 5 %.
+Verringert Affinität um 10 %.
+Verringert Affinität um 15 %.
+Erhöht Affinität für Schläge gegen Körperteile, gegen die Angriffe bes. effektiv sind.
+Erhöht Affinität nach wiederholten Angriffen.
+Steigert Stärke anormaler Angriffe (Lähmung, Gift, Schlaf) bei kritischen Treffern.
+Steigert den Elementschaden (Feuer, Wasser, Donner, Eis, Drache) bei krit. Treffern.
+Steigert Schaden kritischer Treffer.
+Beschl. L-schwert/E-klinge/M- Axt/D-klinge-Balken und Bogen/ G-schwert/Hammer-Ladeangr.
+Verlang. L-schwert/E-klinge/M- Axt/D-klinge-Balken und Bogen/ G-schwert/Hammer-Ladeangr.
+Verlangsamt Ausdauerverlust bei Aktionen, die ständig Ausdauer entziehen (z. B. Sprints).
+Beschleunigt Ausdauerverlust bei Aktionen, die ständig Ausdauer entziehen (z. B. Sprints).
+Verringert den Ausdauerverlust beim Ausweichen, Blocken usw.
+Verringert den Ausdauerverlust beim Ausweichen, Blocken usw. stark.
+Beschleunigt Ausdauerverlust beim Ausweichen, Blocken usw.
+Beschleunigt Ausdauerverlust beim Ausweichen, Blocken usw. stark.
+Erhöht die Geschwindigkeit, mit der sich deine Ausdauer erholt.
+Verringert die Geschwindigkeit, mit der sich deine Ausdauer erholt.
+Verlängert die Unverwundbarkeitsdauer beim Ausweichen leicht.
+Verlängert die Unverwundbarkeitsdauer beim Ausweichen.
+Verringert die Unverwundbarkeitsdauer beim Ausweichen.
+Erhöht die Ausweichentfernung.
+Durch Ausweichen wirst du mit Bläschen bedeckt, was deine Ausweichfähigkeit steigert.
+Macht es wahrscheinlicher, dass du beim Blocken deine Stellung hältst.
+Macht es viel wahrscheinlicher, dass du beim Blocken deine Stellung hältst.
+Macht es unwahrscheinlicher, dass du beim Blocken deine Stellung hältst.
+Macht vormals unblockbare Angriffe blockbar.
+Erleichtert die Betäubung von Monstern.
+Erhöht das Potenzial bestimmter Angriffe, Monster zu ermüden.
+Senkt Bruchwahrscheinlichkeit von Horn-/Flötenobjekten und erhöht Wirkzeit von Jagdhornmelodien.
+Verstärkt Ballisten, Explosiv S, Aufprall-Phiole, Geschosse etc. leicht. Zügelt den Hitzebalken.
+Verstärkt Ballisten, Explosiv S, Aufprall-Phiole, Geschosse etc. Zügelt den Hitzebalken.
+Erleichtert das Abbrechen oder Abtrennen von Monster-Körperteilen.
+Erhöht Bombenschaden; 100% Kombinier-Erfolgsrate für alle Bomben.
+Stärkt dich für einen begrenzten Zeitraum, wenn bestimmte Bedingungen erfüllt sind.
+Macht dich für einen begrenzten Zeitraum viel stärker, wenn bestimmte Bedingungen erfüllt sind.
+Erhöht Angriff und Affinität, wenn ein großes Monster im selben Bereich wütend wird.
+Erhöht Angriff und Affinität stark, wenn ein großes Monster im selben Bereich wütend wird.
+Erhöht Angriff, wenn dein Gesundheitsbalken gefüllt ist.
+Erhöht Kraft der Jagdtechniken gegen große Monster, wenn sich eine Gelegenheit bietet.
+Verteidigung steigt stark, wenn die Gesundheit unter 40% des Maximalwertes sinkt.
+Angriff und Verteidigung steigen stark, wenn die Gesundheit unter 40% des Maximalwertes sinkt.
+Senkt Verteidigungsboost und Angriff, wenn Gesundheit unter 40 % des Maximums fällt.
+Steigert deinen Angriff und deine Verteidigung jedes Mal, wenn du im Kampf fällst.
+Steigert Angriff, wenn dein Gesundheitsbalken im roten Bereich ist.
+Steigert Angriff, wenn du einen anormalen Status erleidest.
+Verhindert einmal Ohnmacht bei tödlichem Schlag, wenn ein gewisser Betrag Gesundheit übrig ist.
+Verringert die Wahrscheinlichkeit, zum Ziel von Monstern zu werden.
+Vergrößert die Wahrscheinlichkeit, zum Ziel von Monstern zu werden.
+Erhöht den Angriff und die Verteidigung von Kameraden.
+Ermöglicht, ohnmächtige / erholende Kameraden mit "Siegerfaust"-Geste zurückzurufen. Nicht wiederholbar.
+Erleichtert es, auf ein Monster aufzusteigen und es zu Fall zu bringen.
+Erschwert es, auf ein Monster aufzusteigen und es zu Fall zu bringen.
+Steigert Schaden durch Sprungangriffe.
+Erleichtert es, den Technikbalken schneller zu füllen.
+Zeigt mehr Informationen auf der Karte, wenn große Monster markiert sind.
+Große Monster werden immer wie markiert auf der Karte angezeigt.
+Verleiht Wissen über den Zeitpunkt, an dem ein großes Monster gefangen werden kann.
+Zeigt immer die Karte, auch wenn man keine hat. Praktisch beim Angeln und Grillen.
+Erhöht die Geschwindigkeit bei Transport von Gegenständen und senkt Gefahr von Fallenlassen.
+Verringert manchmal erlittenen Schaden.
+Erhöht manchmal den erlittenen Schaden.
+Hebt den Schaden von kleineren feindlichen Angriffen auf.
+Steigert die Heilung während der Erholung.
+Senkt die Heilung während der Erholung.
+Bietet schnellere Erholung von zeitweiligem Schaden (rot im Gesundheitsbalken).
+Viel schnellere Erholung von zeitweiligem Schaden (rot im Gesundheitsbalken).
+Langsamere Erholung von zeitweiligem Schaden (rot im Gesundheitsbalken).
+Viel langsamere Erholung von zeitweiligem Schaden (rot im Gesundheitsbalken).
+Verlängert die Wirkungszeit bestimmter Objekte.
+Verkürzt die Wirkungszeit bestimmter Objekte.
+Überträgt einen Teil der Wirkung einiger Objekte auf Freunde im gleichen Gebiet.
+Überträgt die Wirkung bestimmter Objekte auf Freunde im gleichen Gebiet.
+Halbiert maximalen Ausdauerverlust über Zeit.
+Hebt maximalen Ausdauerverlust über Zeit auf.
+Steigert maximalen Ausdauerverlust über Zeit.
+Steigert maximalen Ausdauerverlust über Zeit stark.
+Erhöht die Wirksamkeit von Fleisch, das die maximale Ausdauer erhöht.
+Verleiht allem, was du isst oder trinkst, das Potenzial, deine maximale Ausdauer zu erhöhen.
+Erhöht die Geschwindigkeit beim Fleischessen.
+Erhöht die Geschwindigkeit des Fleisch- und Objektkonsums.
+Verlangsamt das Fleischessen.
+Ermöglicht gelegentlich die erneute Verwendung gegessener und getrunkener Objekte.
+Rohes Fleisch wird essbar. Blutige/Gebratene Steaks geben zeitweise unbegrenzte Ausdauer.
+Ermöglicht den Verzehr von Pilzen, die im Gegenzug bestimmte Vorteile verleihen.
+Steigert die Gesundheit, die durch Verzehr von Kräutern wiederhergestellt wird.
+Erhöht deine Kombinier- Erfolgsrate um 20%.
+Erhöht deine Kombinier- Erfolgsrate um 45%.
+Verringert deine Kombinier- Erfolgsrate um 10%.
+Verringert deine Kombinier- Erfolgsrate um 20%.
+Kombinationen, die mehrere Objekte auf einmal erzeugen, bringen maximale Ergebnisse.
+Garantiert den Erfolg von Fallen kombinationen und beschleunigt die Fallen- und Bombenlegezeit.
+Manchmal können Objekte an Sammelpunkten häufiger gesammelt werden.
+Oft können Objekte an Sammelpunkten häufiger gesammelt werden.
+Manchmal können Objekte an Sammelpunkten seltener gesammelt werden.
+Ermöglicht das Sammeln von 2 Einheiten Honig oder Königshonig auf einmal.
+Du kannst zwei Amulette gleichzeitig ausgraben... aber nur vielleicht.
+Du kannst zwei Amulette gleichzeitig ausgraben... vielleicht.
+Senkt die Wahrscheinlichkeit, dass Spitzhacken, Käfernetze, Bumerangs, Flöten und Hörner brechen.
+Senkt Wahrscheinlichkeit, dass Spitzhacken, Käfernetze, Bumerangs, Flöten und Hörner brechen stark.
+Erhöht Wahrscheinlichkeit, dass Spitzhacken, Käfernetze, Bumerangs, Flöten und Hörner brechen.
+Erhöht Wahrscheinlichkeit, dass Spitzhacken, Käfernetze, Bumerangs, Flöten und Hörner brechen stark.
+Erhöht manchmal die Zahl der Belohnungsobjekte am Ende einer Quest.
+Erhöht oft die Zahl der Belohnungsobjekte am Ende einer Quest.
+Erhöht sehr oft die Zahl der Belohnungsobjekte am Ende einer Quest.
+Verringert manchmal die Zahl der Belohnungsobjekte am Ende einer Quest.
+Verringert oft die Zahl der Belohnungsobjekte am Ende einer Quest.
+Verhindert Rückschläge durch Angriffe beim Zerlegen.
+Erhöht die Zerlege-Chancen um 1 und verhindert Rückschläge beim Zerlegen.
+Erhöht manchmal die Zahl der Belohnungsobjekte fürs Fangen.
+Erhöht oft die Zahl der Belohnungsobjekte fürs Fangen.
+Kombiniert die Effekte von "Feuerabwehr +15" und "Halber Hunger".
+Kombiniert die Effekte von "Seelenlaune" und "Donnerabwehr +15".
+Kombiniert die Effekte von "Eisabwehr +15" und "Feinschmecker".
+Kombiniert die Effekte von "Honigjäger" und "Wasserabwehr +15".
+Kombiniert die Effekte von "Fokus" und "Verstimmung".
+Kombiniert die Effekte von "Asweichdst" und "Ausdauererhlg. +".
+Kombiniert die Effekte von "Scharfschwert", "Rückstoß- dämpfer +2" und "Göttl. Schutz".
+Kombiniert die Effekte von "Adrenalin +2" und "Allesfresser".
+Kombiniert die Effekte von "Statusangriff +2" und "Wirkbereich +2".
+Kombiniert die Effekte von "Amulettjäger" und "Hunger aufheben".
+Kombiniert die Effekte von "Ausweichen +2" und "Krit. Auge +3".
+Kombiniert die Effekte von "Betäuben aufheben" und "Herausforder. +2".
+Kombiniert die Effekte von "Angriff +3" und "Windsicher +2".
+Kombiniert die Effekte von "Latente Kraft +2" und "Konstitution +2".
+Kombiniert die Effekte von "Ohrstöpsel +" und "Schnellessen +2".
+Kombiniert die Effekte von "Schärfe +2", "Schuss-Booster" und "Schnell Schärfen".
+Kombiniert die Effekte von "Kräftigen", "Läufer" und "Ausdauerdieb".

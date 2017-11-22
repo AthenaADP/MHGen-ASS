@@ -1,0 +1,417 @@
+﻿Poison
+Paralysie
+Sommeil
+Volonté
+Ouïe
+Vent
+Anti-séisme
+Enlisement
+Chaleur
+Froid
+Sang froid
+Sang chaud
+Antivol
+Assurance
+Anti-furie
+Biologie
+Hémorragie
+Attaque
+Défense
+Vie
+Ignifuge
+Étanche
+Isolant
+Antigel
+Draconien
+Fléau
+Feu
+Eau
+Foudre
+Glace
+Dragon
+Élément
+Statut
+Aiguiseur
+Artisanat
+Tranchant
+Escrime
+Métallurgie
+Matraque
+Dégainage
+Punition
+Rengainage
+Fusilier
+Recul
+Sniper
+Normal G
+Perçant G
+Plomb G
+Lourd G
+Normal
+Perçant
+Grenaille
+Antiblind.
+Frag
+F Poison
+F Paralysie
+F Sommeil
+F Force
+F Élément
+F Combat
+F Faiblesse
+F Explosion
+Tir rapide
+Kyudo
+Munitions
+Cinétique
+Éco-munit.
+Expert
+Supplice
+Vendetta
+Châtiment
+Chamanisme
+Critiques +
+Charge
+Stamina
+Athlète
+Vigueur
+Évasion
+Esquive
+Savon
+Garde
+Paladin
+KO
+Fatigue
+Musique
+Artillerie
+Destruction
+Bombe
+Puissance
+Courage
+Invincible
+Hasard
+Potentiel
+Survie
+Fureur
+Vengeance
+Bravoure
+Ninja
+Moral
+Leader
+Cavalier
+Saut
+Méditation
+Lucidité
+Perception
+Chasse
+Convoyeur
+Protection
+Halo sacré
+Restaurer
+Facteur X
+Objets
+Soutien
+Appétit
+Gastronome
+Repas
+Frugal
+Carnivore
+Mycologie
+Botanique
+Inventeur
+Alchimiste
+Piège
+Collecte
+Miel
+Charme
+Lubie
+Destin
+Dépeçage
+Capture
+Bherna
+Kokoto
+Pokke
+Yukumo
+Crâne-ard.
+Maître-nei.
+Poing-fer
+Brise-roc
+Reine-poi.
+Roi-cristal
+Vent-acier
+Œil-mort
+Roi-enfer
+Feu-du-ciel
+Griffe-som.
+Lame-chaos
+Sournois
+Torse +
+
+Antidote
+Venin
+Anti-paralysie
+Super paralysie
+Insomnie
+Hypersomnie
+Crâne de pierre
+Crâne de fer
+Menton de verre
+Protège-tympans
+Bouche-oreilles
+Vent +1
+Vent +2
+Anti-séisme
+Dégagement
+Chaleur +
+Chaleur -
+Froid +
+Froid -
+Chasseur polaire
+Chasseur tropical
+Antivol
+Peau d'acier
+Antivirus
+Chercheur bio
+Docteur bio
+Compression
+Effusion
+Attaque +1
+Attaque +2
+Attaque +3
+Attaque -1
+Attaque -2
+Attaque -3
+Défense +1
+Défense +2
+Défense +3
+Défense -1
+Défense -2
+Défense -3
+Vie +20
+Vie +50
+Vie -10
+Vie -30
+Feu +15
+Feu +20
+Feu -20
+Eau +15
+Eau +20
+Eau -20
+Foudre +15
+Foudre +20
+Foudre -20
+Glace +15
+Glace +20
+Glace -20
+Dragon +15
+Dragon +20
+Dragon -20
+Anti-fléau
+Attaque Feu +1
+Attaque Feu +2
+Attaque Feu -
+Attaque Eau +1
+Attaque Eau +2
+Attaque Eau -
+Att. Foudre +1
+Att. Foudre +2
+Attaque Foudre -
+Attaque Glace +1
+Attaque Glace +2
+Attaque Glace -
+Att. Dragon +1
+Att. Dragon +2
+Attaque Dragon -
+Élémentaire +
+Élémentaire -
+Affliction +1
+Affliction +2
+Affliction -
+Aiguisage rapide
+Aiguisage lent
+Tranchant +1
+Tranchant +2
+Samouraï
+Barbare
+Œil de l'esprit
+Œil aveugle
+Affûtage
+Matraquage
+Dégainage éclair
+Batto-jutsu
+Lame éclair
+Rechargement +1
+Rechargement +2
+Rechargement +3
+Rechargement -1
+Rechargement -2
+Rechargement -3
+Recul +1
+Recul +2
+Recul +3
+Recul -1
+Recul -2
+Recul -3
+Sniper +1
+Sniper +2
+Sniper -1
+Sniper -2
+Normale/Rapide +
+Perçante/Perç.+
+Plomb/Dispers. +
+Lourd/Lourd +
+Expert munition
+Perçant NV1
+Expert perçant
+Grenaille NV1
+Expert grenaille
+Antiblindage NV1
+Expert antiblind.
+Frag NV 1
+Expert frag
+Fiole poison +
+Fiole paralysie +
+Fiole sommeil +
+Fiole force NV1
+Fiole force NV2
+Fiole élém NV1
+Fiole élém NV2
+Fiole combat +
+Fiole faiblesse +
+Fiole explosive +
+Franc-tireur
+Maîtrise de soi
+Munitions +
+Pluie de fer
+Éco-munition
+Œil critique +1
+Œil critique +2
+Œil critique +3
+Œil critique -1
+Œil critique -2
+Œil critique -3
+Point faible
+Orage de lames
+Attaque perfide
+Rage élémentaire
+Bonus critique
+Focus
+Distraction
+Marathonien
+Sprinter
+Athlète +1
+Athlète +2
+Athlète -1
+Athlète -2
+Vigueur +
+Vigueur -
+Évasion +1
+Évasion +2
+Évasion -
+Esquive +
+Danse de bulles
+Garde +1
+Garde +2
+Garde -1
+Paladin
+Roi du KO
+Vol de stamina
+Maestro
+Artilleur novice
+Artilleur expert
+Destructeur
+Bombardier
+Force latente +1
+Force latente +2
+Challenger +1
+Challenger +2
+Perfection
+Atout majeur
+Adrénaline +1
+Adrénaline +2
+Inquiétude
+Ténacité
+Berserker
+Corps et âme
+Bravoure
+Furtivité
+Provocation
+Esprit Palico
+Bonheur Palico
+Maître cavalier
+Lourdaud
+Voltige
+Maître de soi
+Détection
+Psychique
+Gourou
+Art de la chasse
+Transporteur
+Bénédiction
+Malédiction
+Bouclier saint
+Restauration +
+Restauration -
+Récupération +1
+Récupération +2
+Récupération -1
+Récupération -2
+Habile
+Maladroit
+Soutien +1
+Soutien +2
+Ascète
+Spartiate
+Glouton
+Gargantua
+Gourmet
+Goinfre
+Carnassier +1
+Carnassier +2
+Végétarien
+Satisfaction
+Cannibale
+Mycophile
+Phytothérapie
+Combinaison +20%
+Combinaison +45%
+Combinaison -10%
+Combinaison -20%
+Archimage
+Maître piégeur
+Collecte +1
+Collecte +2
+Collecte -1
+Chasseur de miel
+Collecte-charme
+Chasse-charme
+Lubie esprit
+Lubie divine
+Lubie du spectre
+Lubie du démon
+Chance
+Bonne fortune
+Grande fortune
+Malchance
+Mauvaise fortune
+Pro dépeceur
+Maître dépeceur
+Expert capture
+Maître capture
+Âme Bherna
+Âme Kokoto
+Âme Pokke
+Âme Yukumo
+Âme Crâne-ardent
+Âme Maître-neige
+Âme Poing-fer
+Âme Brise-roc
+Âme Reine-poison
+Âme Roi-cristal
+Âme Vent-acier
+Âme Œil-mort
+Âme Roi-enfer
+Âme Feu-du-ciel
+Âme Griffe-somb.
+Âme Lame-chaos
+Trompe-la-mort

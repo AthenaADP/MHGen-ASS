@@ -1,0 +1,676 @@
+﻿Leder-Kopfbedeckung
+Ketten-Kopfbedeckung
+Bherna-Turban
+Jagdhelm
+Jagdkappe
+Mafumofu-Kapuze
+Yukumo-Kasa
+Jäger-Helm
+Jäger-Kappe
+Knochen-Helm
+Knochen-Kappe
+Chaospilz
+Chaos-Diadem
+Jaggi-Helm
+Jaggi-Kappe
+Maccao-Helm
+Maccao-Kappe
+Velociprey-Helm
+Velociprey-Kappe
+Giaprey-Helm
+Giaprey-Kappe
+Genprey-Helm
+Genprey-Kappe
+Vespoid-Helm
+Vespoid-Kappe
+Hornetaur-Helm
+Hornetaur-Kappe
+Bnahabra-Hut
+Bnahabra-Haube
+Konchu-Helm
+Konchu-Kappe
+Mosswine-Maske
+Rhenoplos-Helm
+Rhenoplos-Kappe
+Bulldrome-Helm
+Bulldrome-Kappe
+Bullfango-Maske
+Arzuros-Helm
+Arzuros-Kappe
+Cephalos-Helm
+Cephalos-Kappe
+WagemutKopfbedeckung
+Legierungs-Helm
+Legierungs-Kappe
+Kampf-Helm
+Kampf-Kappe
+Guss-Helm
+Guss-Kappe
+Hochmetall-Helm
+Hochmetall-Kappe
+Melahoa-Hut
+Melahoa-Blüte
+Makluva-Kapuze
+Makluva-Kiemen
+Bistro-Haube
+Bistro-Kappe
+Todes-Vertex
+Todes-Clypeus
+Schmetterling-Vertex
+Schmetterling-Clypeus
+Todesgestank-Hirn
+Todesgestank-Seele
+Eichelhelm
+Eichelkappe
+Mosgharl-Visier
+Mosgharl-Krempe
+Edel-Visier
+Edel-Blüte
+Skalda-Vertex
+Skalda-Clypeus
+Spio-Vertex
+Spio-Clypeus
+Larinoth-Maske
+Gargwa-Maske
+Muufah-Kopf
+Muufah-Perücke
+Falsche Felyne
+Velociprey-Kopf
+Velociprey-Maske
+Genprey-Kopf
+Genprey-Maske
+Ioprey-Haupt
+Ioprey-Gesicht
+RemobraKopfbedeckung
+Remobra-Maske
+Ioprey-Helm
+Ioprey-Kappe
+Kut-Ku-Helm
+Kut-Ku-Kappe
+Lagombi-Helm
+Lagombi-Kappe
+Gypceros-Helm
+Gypceros-Kappe
+Tetsucabra-Helm
+Tetsucabra-Kappe
+Hermitaur-Helm
+Hermitaur-Kappe
+Volvidon-Helm
+Volvidon-Kappe
+Ludroth-Helm
+Ludroth-Kappe
+Malfestio-Helm
+Malfestio-Kappe
+Khezu-Helm
+Khezu-Kappe
+Rathian-Helm
+Rathian-Kappe
+Nibelsnarf-Helm
+Nibelsnarf-Kappe
+Blango-Helm
+Blango-Kappe
+Ceanataur-Helm
+Ceanataur-Kappe
+Najarala-Helm
+Najarala-Kappe
+Nargacuga-Helm
+Nargacuga-Kappe
+Gelehrtenkapuze
+Gelehrtenkappe
+Vaik-Helm
+Vaik-Kappe
+Schädel-Antlitz
+Totenschädel
+Aelucanth-Vertex
+Aelucanth-Clypeus
+Rhopessa-Vertex
+Rhopessa-Clypeus
+Garuga-Helm
+Garuga-Kappe
+Garuga-Maske
+Uragaan-Helm
+Uragaan-Kappe
+Rathalos-Helm
+Rathalos-Kappe
+Lagiacrus-Helm
+Lagiacrus-Kappe
+Zinogre-Helm
+Zinogre-Kappe
+Mizutsune-Helm
+Mizutsune-Maske
+Astalos-Helm
+Astalos-Kappe
+Gammoth-Helm
+Gammoth-Kappe
+Glavenus-Helm
+Glavenus-Kappe
+Gore-Magala-Helm
+Gore-Magala-Kappe
+Regios-Helm
+Regios-Kappe
+Tigrex-Helm
+Tigrex-Kappe
+Kirin-Horn
+Kirin-Kamm
+Brachydios-Helm
+Brachydios-Kappe
+Erz-Helm
+Erz-Kappe
+Philia-Helm
+Philia-Kappe
+Kushala-Blender
+Kushala-Knurrer
+Mizuha-Eboshi
+Fantasie-Eboshi
+Kaiser-Krone
+Kaiser-Maske
+Skelett-Schädel
+Modriger Schädel
+Schwarzer Kopf
+Schwarzes Gesicht
+Schwarzgurt-Helm
+Schwarzgurt-Kappe
+Gildenbarden-Lobos
+Gildenbarden-Hut
+Magd-Hut
+Hausmagd-Brille
+Helfer-Haube
+Heiler-Brille
+Dianthus-Kappe
+Campanile-Kappe
+Badehandtuch
+Gourmiau-Haube
+Gourmiau-Kappe
+Leder-Helm S
+Leder-Kappe S
+Ketten-Helm S
+Ketten-Kappe S
+Bherna-Turban S
+Bherna-Kappe S
+Jagdhelm S
+Jagdkappe S
+Mafumofu-Kapuze S
+Mafumofu-Kappe S
+Yukumo-Kasa Luft
+Yukumo-Kasa Land
+Jäger-Helm S
+Jäger-Kappe S
+Jäger-Helm R
+Jäger-Kappe R
+Knochen-Helm S
+Knochen-Kappe S
+Chaos-Erzknoten
+Chaos-Erzdiadem
+Melahoa-Hut S
+Melahoa-Blüte S
+Melahoa-Hut U
+Melahoa-Blüte U
+Makluva-Kapuze S
+Makluva-Kiemen S
+Makluva-Kapuze U
+Makluva-Kiemen U
+Bistro-Haube S
+Bistro-Kappe S
+Eichelhelm S
+Eichelkappe S
+Mosgharl-Visier S
+Mosgharl-Krempe S
+Edel-Visier S
+Edel-Blüte S
+Muufah-Kopf S
+Muufah-Perücke S
+Slagtoth-Kapuze
+Slagtoth-Kutte
+Larinoth-Maske S
+Gargwa-Maske S
+Falsche Felyne S
+Velociprey-Kopf S
+Velociprey-Maske S
+Genprey-Kopf S
+Genprey-Maske S
+Ioprey-Kopf S
+Ioprey-Maske S
+RemobraKopfbedeckngS
+Remobra-Maske S
+Mosswine-Maske S
+Rhenoplos-Helm S
+Rhenoplos-Kappe S
+Jaggi-Helm S
+Jaggi-Kappe S
+Maccao-Helm S
+Maccao-Kappe S
+Velociprey-Helm S
+Velociprey-Kappe S
+Giaprey-Helm S
+Giaprey-Kappe S
+Genprey-Helm S
+Genprey-Kappe S
+Genprey-Helm EX
+Genprey-Kappe EX
+Ioprey-Helm S
+Ioprey-Kappe S
+Ioprey-Helm EX
+Ioprey-Kappe EX
+Vespoid-Helm S
+Vespoid-Kappe S
+Vespoid-Helm EX
+Vespoid-Kappe EX
+Hornetaur-Helm S
+Hornetaur-Kappe S
+Hornetaur-Helm EX
+Hornetaur-Kappe EX
+Hornetaur-Helm R
+Hornetaur-Kappe R
+Bnahabra-Hut S
+Bnahabra-Haube S
+Konchu-Helm S
+Konchu-Kappe S
+Bulldrome-Helm S
+Bulldrome-Kappe S
+Bulldrome-Maske S
+Arzuros-Helm S
+Arzuros-Kappe S
+Cephalos-Helm S
+Cephalos-Kappe S
+Cephalos-Helm EX
+Cephalos-Kappe EX
+Kut-Ku-Helm S
+Kut-Ku-Kappe S
+Kecha-Wacha-Helm
+Kecha-Wacha-Kappe
+Lagombi-Helm S
+Lagombi-Kappe S
+Gypceros-Helm S
+Gypceros-Kappe S
+Gypceros-Helm R
+Gypceros-Kappe R
+Tetsucabra-Helm S
+Tetsucabra-Kappe S
+Hermitaur-Helm S
+Hermitaur-Kappe S
+Hermitaur-Helm EX
+Hermitaur-Kappe EX
+Hermitaur-Helm R
+Hermitaur-Kappe R
+Volvidon-Helm S
+Volvidon-Kappe S
+Ludroth-Helm S
+Ludroth-Kappe S
+Ludroth-Helm R
+Ludroth-Kappe R
+Dozentenkapuze
+Dozentenkappe
+Legierungs-Helm S
+Legierungs-Kappe S
+Legierungs-Helm R
+Legierungs-Kappe R
+Kampf-Helm S
+Kampf-Kappe S
+Guss-Helm S
+Guss-Kappe S
+Guss-Helm R
+Guss-Kappe R
+Hochmetall-Helm S
+Hochmetall-Kappe S
+Hochmetall-Helm U
+Hochmetall-Kappe U
+Hummer-Helm
+Hummer-Kappe
+Todes-Vertex S
+Todes-Clypeus S
+SchmetterlingVertexS
+SchmettrlingClypeusS
+Todesgestank-Hirn S
+Todesgestank-Seele S
+Todesgestank-Hirn R
+Todesgestank-Seele R
+Vaik-Helm S
+Vaik-Kappe S
+Aelucanth-Vertex S
+Aelucanth-Clypeus S
+Rhopessa-Vertex S
+Rhopessa-Clypeus S
+Konditor-Haube
+Konditor-Kappe
+Skalda-Vertex S
+Skalda-Clypeus S
+Spio-Vertex S
+Spio-Clypeus S
+Malfestio-Helm S
+Malfestio-Kappe S
+Zamtrios-Helm
+Zamtrios-Kappe
+Khezu-Helm S
+Khezu-Kappe S
+Khezu-Helm R
+Khezu-Kappe R
+Rathian-Helm S
+Rathian-Kappe S
+Rathian-Helm EX
+Rathian-Kappe EX
+Rathian-Helm R
+Rathian-Kappe R
+Nibelsnarf-Helm S
+Nibelsnarf-Kappe S
+Plesioth-Helm
+Plesioth-Kappe
+Blango-Helm S
+Blango-Kappe S
+Blango-Helm EX
+Blango-Kappe EX
+Lava-Helm
+Lava-Kappe
+Lava-Helm EX
+Lava-Kappe EX
+Ceanataur-Helm S
+Ceanataur-Kappe S
+Ceanataur-Helm EX
+Ceanataur-Kappe EX
+Ceanataur-Helm R
+Ceanataur-Kappe R
+Najarala-Helm S
+Najarala-Kappe S
+Nargacuga-Helm S
+Nargacuga-Kappe S
+Garuga-Helm S
+Garuga-Kappe S
+Garuga-Maske X
+Uragaan-Helm S
+Uragaan-Kappe S
+Schwarzgurt-Helm S
+Schwarzgurt-Kappe S
+Wächter-Helm
+Wächter-Maske
+Wächter-Helm U
+Wächter-Maske U
+Gelehrten-Barett
+Gelehrten-Kappe
+Matrosen-Hut
+Matrosen-Kappe
+Luxusbadetuch
+Hokushin-Haarband
+UmiOzeanKopfbedeckung
+Raffinierte Brille
+Wagemut-Helm S
+Wagemut-Kappe S
+Dober-Helm
+Dober-Kappe
+Damaskus-Helm
+Damaskus-Kappe
+Damaskus-Helm R
+Damaskus-Kappe R
+Schädel-Antlitz S
+Schädel-Maske S
+Artian-Helm S
+Artian-Kappe S
+Artian-Helm R
+Artian-Kappe R
+Seltas-Helm
+Seltas-Kappe
+Rathalos-Helm S
+Rathalos-Kappe S
+Rathalos-Helm EX
+Rathalos-Kappe EX
+Rathalos-Helm R
+Rathalos-Kappe R
+Lagiacrus-Helm S
+Lagiacrus-Kappe S
+Lagiacrus-Helm R
+Lagiacrus-Kappe R
+Zinogre-Helm S
+Zinogre-Kappe S
+Zinogre-Helm EX
+Zinogre-Kappe EX
+Mizutsune-Helm S
+Mizutsune-Maske S
+Astalos-Helm S
+Astalos-Kappe S
+Gammoth-Helm S
+Gammoth-Kappe S
+Glavenus-Helm S
+Glavenus-Kappe S
+Agnaktor-Helm
+Agnaktor-Kappe
+Gore-Magala-Helm S
+Gore-Magala-Kappe S
+Gore-Magala-Helm EX
+Gore-Magala-Kappe EX
+Gore-Magala-Helm R
+Gore-Magala-Kappe R
+Regios-Helm S
+Regios-Kappe S
+Duramboros-Helm
+Duramboros-Kappe
+Tigrex-Helm S
+Tigrex-Kappe S
+Tigrex-Helm EX
+Tigrex-Kappe EX
+Tigrex-Helm R
+Tigrex-Kappe R
+Kirin-Horn S
+Kirin-Kamm S
+Kirin-Horn R
+Kirin-Kamm R
+Brachydios-Helm S
+Brachydios-Kappe S
+Brachydios-Helm EX
+Brachydios-Kappe EX
+Goldenes Haarband
+Kuroko-Maske
+Vangis-Helm
+Vangis-Kappe
+Gildenritter-Feder
+Gildenritter-Maske
+Magd-Hut S
+Hausmagd-Brille S
+BlauerGildnDreispitz
+Blaue Gilden-Maske
+BlauerGildnDreispitz
+BlauesGildenPiercing
+RoterGildenDreispitz
+Rote Gilden-Maske
+RoterGildenDreispitz
+Rotes GildenPiercing
+Helfer-Haube S
+Heiler-Brille S
+Helfer-Haube U
+Heiler-Béret U
+Gildenbarden-Lobos S
+Gildenbarden-Hut S
+Chakra-Ohrring
+Dianthus-Kappe S
+Campanile-Kappe S
+Ass-Kopfbedeckung
+Ass-Maske
+AmazonenKopfbdeckng
+Amazonen-Maske
+Adlerhut
+Adlerkappe
+Gourmiau-Haube S
+Gourmiau-Kappe S
+Felyne-Haarband
+Gelehrtenkapuze S
+Gelehrtenkappe S
+Ranger-Kopfbedeckung
+Bogenschützen-Turban
+Shinobi-Maske Himmel
+Shinobi-Maske Land
+Shinobi-Maske Luft
+Shinobi-Maske Meer
+Uralter Helm
+Uralte Kappe
+Meisterohrschutz
+Meisterohrringe
+Schwarzer Kopf S
+Schwarzes Gesicht S
+Toka-Kabuto
+Mitsuaoi-Kabuto
+Rathian-Helm EX S
+Rathian-Kappe EX S
+Rathalos-Helm EX S
+Rathalos-Kappe EX S
+Tigrex-Helm EX S
+Tigrex-Kappe EX S
+Erz-Helm S
+Erz-Kappe S
+Philia-Helm S
+Philia-Kappe S
+Erz-Helm EX
+Erz-Kappe EX
+Philia-Helm EX
+Philia-Kappe EX
+Erz-Helm R
+Erz-Kappe R
+Philia-Helm R
+Philia-Kappe R
+Kushala-Blender S
+Kushala-Knurrer S
+Kushala-Blender EX
+Kushala-Knurrer EX
+Kushala-Blender R
+Kushala-Knurrer R
+Mizuha-Eboshi S
+Fantasie-Eboshi S
+Mizuha-Eboshi EX
+Fantasie-Eboshi EX
+Kaiser-Krone S
+Kaiser-Maske S
+Kaiser-Krone EX
+Kaiser-Maske EX
+Silberner Sonnenhelm
+Silberne Sonnenkappe
+SilbernerSonnenhelmEX
+SilberneSonnenkappeEX
+SilbernerSonnenhelm R
+SilbernSonnenkappe R
+Goldener Mondhelm
+Goldene Mondkappe
+Goldener Mondhelm EX
+Goldene Mondkappe EX
+Gotteszorn-Band
+Geistmalmer-Maske
+Gier-Helm
+Gier-Kappe
+Gier-Helm R
+Gier-Kappe R
+Akantor-Maske
+Akantor-Reißzähne
+Akantor-Maske R
+Akantor-Reißzähne R
+Ukanlos-Maske
+Ukanlos-Reißzähne
+Sturm-Kanmuri
+Firmament-Kanmuri
+Sturm-Kanmuri R
+Firmament-Kanmuri R
+Skelett-Schädel R
+Modriger Schädel R
+Astral-Helm
+Astral-Maske
+Escadora-Weisheit
+Escadora-Sagesse
+Escadora-Weisheit R
+Escadora-Sagesse R
+Drachenfürsts Blick
+Takami-Feder
+Hayabusa-Feder
+Kakuju-Feder
+SchwrtheiligPiercing
+Sperrfeuer-Piercing
+Seltsamer Helm
+Seltsame Kappe
+Rothelm-Helm LV1
+Rothelm-Kappe LV1
+Rothelm-Helm LV6
+Rothelm-Kappe LV6
+Schneesturm-Helm LV1
+Schneesturm-Kappe LV1
+Schneesturm-Helm LV6
+Schneesturm-Kappe LV6
+Steinfaust-Helm LV1
+Steinfaust-Kappe LV1
+Steinfaust-Helm LV6
+Steinfaust-Kappe LV6
+Giftstachel-Helm LV1
+Giftstachel-Kappe LV1
+Giftstachel-Helm LV6
+Giftstachel-Kappe LV6
+Bohrhauer-Helm LV1
+Bohrhauer-Kappe LV1
+Bohrhauer-Helm LV6
+Bohrhauer-Kappe LV6
+Silberwind-Helm LV1
+Silberwind-Kappe LV1
+Silberwind-Helm LV6
+Silberwind-Kappe LV6
+Kristallbart-Helm LV1
+Kristallbart-Kappe LV1
+Kristallbart-Helm LV6
+Kristallbart-Kappe LV6
+NarbigYianGarugaHelm LV1
+NarbigYianGarugaKappe LV1
+NarbigYianGarugaHelm LV6
+NarbigYianGarugaKappe LV6
+Dunkelfeuer-Helm LV1
+Dunkelfeuer-Kappe LV1
+Dunkelfeuer-Helm LV6
+Dunkelfeuer-Kappe LV6
+Donnerschlag-Helm LV1
+Donnerschlag-Kappe LV1
+Donnerschlag-Helm LV6
+Donnerschlag-Kappe LV6
+Düsterklauen-Helm LV1
+Düsterklauen-Kappe LV1
+Düsterklauen-Helm LV6
+Düsterklauen-Kappe LV6
+Zornklingen-Helm LV1
+Zornklingen-Kappe LV1
+Zornklingen-Helm LV6
+Zornklingen-Kappe LV6
+Gudetama Kopf
+Gudetama Kopfanzug
+Potenzial-Kabuto
+Halcyon-Kabuto
+Licht-Krone
+Traum-Krone
+Gudetama Kopf S
+Gudetama Kopfanzug S
+Schattenbrille
+Piratenhut J
+Piratenkappe J
+Sternenritter-Helm
+Sternenritter-Kappe
+Dynaqlo-Beanie
+Dynaqlo-Kopfhörer
+Bukanierhut J
+Bukanierkappe J
+Blauer-Stern-Lobos
+Blauer-Stern-Hut
+Varia-Suit-Visor
+Varia-Suit-Sucher
+Zero-Suit-Frisur
+Zero-Suit-Haarteil
+Ushios Schnitt
+Ushios Haar
+Potenzial-Kabuto K
+Halcyon-Kabuto K
+Licht-Krone K
+Traum-Krone K
+Sternlicht-Helm
+Sternlicht-Kappe
+Heroenhut
+Heroenkappe
+ChampionKopfbedeckung
+MuskelmannKopfbedckng
+Helm der Wut
+Kappe der Wut
+Helm der Anat
+Kappe der Anat
+Zodias-Helm
+Zodias-Kappe
+Stachelmähne
+Schreckensmähne
+Hiryu-Maske Luft
+Hiryu-Maske Land
+Sternenlord-Band
+Sternenlord-Haarband

@@ -1,0 +1,1678 @@
+﻿Libro combos 1
+Libro combos 2
+Libro combos 3
+Libro combos 4
+Libro combos 5
+Guía organizadora
+Guía chamarilero
+Prismáticos
+Poción
+Megapoción
+Nutrientes
+Meganutrientes
+Antídoto
+Inmunizador
+Zumo de poder
+Megazumo
+Droga demoníaca
+Megadroga demon.
+Píldora de poder
+Piel de armadura
+Piel de armadura+
+Píldora armadura
+Bebida fría
+Bebida caliente
+Limpiador
+Psicosuero
+Medicina herbal
+Poción máxima
+Poción antigua
+Bebida energética
+Polvo de vida
+Bebida de caza
+Catalizador
+Pólvora
+Cristales vida
+Tranquilizante
+Huevo de Yukumo
+Patatas Tanzia
+Amuleto de poder
+Garra de poder
+Amuleto armadura
+Garra armadura
+Asador barbacoa
+Carne cruda
+Carne envenenada
+Carne tóxica
+Carne drogada
+Filete poco hecho
+Filete al punto
+Carne quemada
+Carne fría
+Carne caliente
+Cecina Mosswine
+Carne superior
+Piedra de afilar
+Pico antiguo
+Pico de hierro
+Megapico
+Cazamarip. viejo
+Cazamariposas
+Megacazamarip.
+Bumerán
+Cuch. arrojadizo
+Cuch. envenenado
+Cuch. somnífero
+Cuch. paralizante
+Cuch. tranquiliz.
+Material bombas
+Bola de pintura
+Bomba de luz
+Bomba sónica
+Bomba tranquiliz.
+Desodorante
+Bomba de humo
+Bomba humo ven.
+Transportador
+Bomba boñiga
+Boñiga
+Herramienta trampas
+Telaraña
+Red
+Trampa escollo
+Trampa choque
+Tapa de barril
+Barril pequeño
+Barril grande
+Bomba barril peq.
+Bomba barril gr.
+Bomba barril gr.+
+Bomba de rebote
+Bomba rebote+
+(No Item)
+Aceite afinidad
+Aceite destructor
+Aceite resistencia
+Aceite precisión
+Baya hueca
+Cáscara de hueso
+D normal nv1
+D normal nv2
+D normal nv3
+D perfor. nv1
+D perfor. nv2
+D perfor. nv3
+D perdig. nv1
+D perdig. nv2
+D perdig. nv3
+D explos. nv1
+D explos. nv2
+D explos. nv3
+D grupo nv1
+D grupo nv2
+D grupo nv3
+D llama nv1
+D agua nv1
+D rayo nv1
+D cong. nv1
+D draco nv1
+D veneno nv1
+D veneno nv2
+D paraliz. nv1
+D paraliz. nv2
+D sueño nv1
+D sueño nv2
+D fatiga nv1
+D fatiga nv2
+D recup. nv1
+D recup. nv2
+D pintura
+D tranquiliz.
+D piedra
+D wyvern
+D cortante nv1
+D cortante nv2
+D nitro nv1
+D nitro nv2
+D demonio
+D demonio+
+D armadura
+D armadura+
+D supertiro nv1
+D supertiro nv2
+D pesado nv1
+D pesado nv2
+D aguijón
+D llama nv2
+D agua nv2
+D rayo nv2
+D cong. nv2
+D draco nv2
+D llama perf nv1
+D llama perf nv2
+D agua perf nv1
+D agua perf nv2
+D rayo perf nv1
+D rayo perf nv2
+D cong. perf nv1
+D cong. perf nv2
+D cañón nv1
+D cañón nv2
+D largo nv1
+D largo nv2
+D triexplosión
+D metralla
+D supersónico
+D nube veneno
+D destello
+D boñiga
+D curación
+D recup. grupo
+D armad. demon.
+Frasco vacío
+Rev. energía nv1
+Rev. energía nv2
+Rev. elemental nv1
+Rev. elemental nv2
+Revest. alcance
+Revest. veneno
+Revest. paralizan.
+Revest. sueño
+Revest. fatiga
+Revest. nitro
+Revest. pintura
+Extracto larvario
+Extracto paralarvario
+Jalea de energía
+Jalea pesada
+Jalea de rapidez
+Ambrosía de fuego
+Ambrosía de agua
+Ambrosía de rayo
+Ambrosía de hielo
+Ambrosía de draco
+Jalea de energía+
+Jalea pesada+
+Jalea de rapidez+
+Jalea de energía++
+Jalea pesada++
+Jalea de rapidez++
+Ambr. de fuego+
+Ambrosía de agua+
+Ambrosía de rayo+
+Ambrosía de hielo+
+Ambr. de draco+
+Ambr. de extinción
+Ambr. de sequía
+Ambrosía resistora
+Ambr. anticong.
+Ambr. antisierpe
+Ambrosía inversa
+Gusano
+Megamosca pesca
+Rana
+Cebo pez sushi
+Cebo reventón
+Cebo pez dorado
+Cuerno atrayente
+Flauta de salud
+Flauta antídoto
+Flauta demonio
+Flauta armadura
+Basura
+Miel
+Hierba
+Hierba antídoto
+Hierba de fuego
+Hiedra
+Hierba somnífera
+Planta de savia
+Vid Felyne
+Raíz nocturna
+Pimiento picante
+Hierba de nieve
+Seta picante
+Baya congelada
+Cactus real
+Hibisco
+Maíz grueso
+Flor astral
+Diente león prismático
+Seta azul
+Nitroseta
+Paraliseta
+Hongo
+Seta depresiva
+Seta excitante
+Hongo dragón
+Seta del caos
+Parachampi
+Taburete
+Baya pintura
+Semilla de poder
+Semilla armadura
+Curibaya
+Baya antidragón
+Nuez frágil
+Baya aguja
+Baya adherente
+Baya bomba
+Supercalabazón
+Bellota gigante
+Bellota puntiaguda
+Madera Yukumo
+Madera noble Yukumo
+Piedra
+Hierro
+Cristal de tierra
+Machalita
+Piedra disco
+Cristal de hielo
+Mineral bealite
+Cristal ligero
+Dragonita
+Piedra de fuego
+Roca de lava
+Carbalita
+Cristal nova
+Fucium
+Piedra de lava
+Mineral arco iris
+Joya de Suiko
+Joya de Akito
+Joya campo batalla
+Joya lapislázuli
+Piedra armadura
+Esfera armadura
+Esfera armadura+
+Esf. armad. avanzada
+Esfera armadura dura
+Esf. armadura pesada
+Amuleto misterioso
+Amuleto brillante
+Amuleto gastado
+Piedra oxidada
+Piedra antigua
+Pesc. poco hecho
+Pescado tostado
+Pescado gourmet
+Caballa cuchillo
+Pez sushi
+Pez somnífero
+Atún pincho
+Pez arpón
+Pez estruendoso
+Pez frágil
+Arrowana reventona
+Arrowana bomba
+Atún glotón
+Atún gastrónomo
+Pez primitivo
+Pececito dorado
+Cansanchoa
+Cortacuello azul
+Gran caracola
+Besugo acorazado
+Piel Sharq
+Carpa primavera
+Rana con cola
+Cáscara insecto
+Bicho divino
+Bicho amargo
+Bicho luminoso
+Bicho eléctrico
+Pestimontes
+Larva serpiente
+Bicho obrero
+Escarabajo brillante
+Hercudrome
+Lumiarañas
+Escarabajo rey
+Escarabajo raro
+Grillo flor
+Gran mosca cornuda
+Escaraposa
+Gran mariquita
+Kumori tóxico
+Gran Kumori tóxico
+Bicho dragoenergét.
+Hueso monstruo peq.
+Hueso monstruo med.
+Hueso monstruo gran.
+Hueso misterioso
+Cráneo desconocido
+Hueso monstruo+
+Hueso afilado
+Hueso escudo
+Hueso drag. anciano
+Hueso ave fino
+Hueso bruto
+Hueso descomunal
+Hueso robusto
+Hueso de dragón
+Hueso irregular
+Hueso irreg. robusto
+Colmillo de wyvern
+Garra de wyvern
+Garra afilada
+Colmillo afilado
+Gema wyvern pájaro
+Piedra de wyvern
+Sangre drag. anciano
+Sangre dragón pura
+Huevo de acero
+Huevo de plata
+Huevo de oro
+Hacha oxidada
+Vesícula lanzagritos
+Vesícula veneno
+Vesícula tóxica
+Vesícula paralizante
+Vesícula neural
+Vesícula somnífera
+Vesícula de coma
+Vesícula flamígera
+Vesícula infernal
+Vesícula eléctrica
+Vesícula rayo
+Vesícula congelante
+Vesícula acuosa
+Vesícula torrencial
+Extracto de poder
+Extracto pálido
+Híper extracto
+Híper colmillo
+Híper colmillo+
+Híper garra
+Híper garra+
+Hueso Híper monstruo
+Híper cuerno+
+Híper vesícula flam.
+Híper piroescama
+Híper vesícula acuosa
+Híper fluido
+Híper vesícula eléctrica
+Híper cap. cargado
+Híper electropiel
+Híper bloque hielo
+Híper escama dragoen.
+Híper toxina
+Híper paratoxina
+Híper ves. somnífera
+Híper narcotoxina
+Híper catalizador
+Rubí piel Felyne
+Piel de Larinoth
+Pluma de Gargwa
+Cuerno de Moofah
+Bola lana Moofah
+Cuerno de Kelbi
+Piel cálida
+Piel alta calidad
+Cuerno Anteka
+Caparazón Rhenoplos
+Coraza Rhenoplos
+Cuero cabell. Rheno
+Piel de Slagtoth+
+Fluido de monstruo
+Caldo de monstruo
+Caparazón Bnahabra
+Coraza de Bnahabra
+Ala de Bnahabra
+Mandíbula Altaroth
+Estómago de Altaroth
+Vesícula preciosa
+Caparazón Vespoid
+Coraza de Vespoid
+Ala de Vespoid
+Ala interior Vespoid
+Caparazón Hornetaur
+Coraza de Hornetaur
+Ala de Hornetaur
+Ala intrn. Hornetaur
+Cabeza Hornetaur
+Caparazón de Konchu
+Coraza de Konchu
+Cuero de Remobra
+Cuero de Remobra+
+Piel a rayas
+Cabeza de Remobra
+Colmillo wyv. pájaro
+Escama de Maccao
+Escama de Maccao+
+Piel de Maccao
+Escama Gran Maccao
+Escama Gran Maccao+
+Piel de gran Maccao
+Piel Gran Maccao+
+Cresta de campeón
+Púa cola de Maccao
+Escama de Jaggi
+Escama de Jaggi+
+Piel de Jaggi
+Escama de Velociprey
+Escama Velociprey+
+Piel de Velociprey
+Piel de Velociprey+
+Piel de Velocidrome
+Piel de Velocidrome+
+Garra de Velocidrome
+Garra Velocidrome+
+Cabeza Velocidrome
+Colmillo de Genprey
+Escama de Genprey
+Escama de Genprey+
+Piel de Genprey
+Piel de Genprey+
+Piel de Gendrome
+Piel de Gendrome+
+Colmillo de Gendrome
+Colmillo Gendrome+
+Cráneo de Gendrome
+Colmillo de Ioprey
+Escama de Ioprey
+Escama de Ioprey+
+Piel de Ioprey
+Piel de Ioprey+
+Piel de Iodrome
+Piel de Iodrome+
+Esc. violeta Iodrome
+Esc. violeta Iodrome+
+Cráneo de Iodrome
+Escama de Giaprey
+Escama de Giaprey+
+Piel de Giaprey
+Piel de Giaprey+
+Piel de Arzuros
+Piel de Arzuros+
+Caparazón Arzuros
+Coraza Arzuros
+Brazal Arzuros
+Brazal Arzuros+
+Piel de Ámbar
+Piel de Ámbar+
+Caparazón de Ámbar
+Coraza de Ámbar
+Melena de Ámbar
+Melena de Ámbar+
+Piel de Lagombi
+Piel de Lagombi+
+Oreja de Lagombi
+Oreja de Lagombi+
+Peto de Lagombi
+Peto de Lagombi+
+Garra de Lagombi
+Garra de Lagombi+
+Piel de Alud
+Piel de Alud+
+Peto de Alud
+Peto de Alud+
+Caparazón Volvidon
+Coraza de Volvidon
+Garra Volvidon
+Garra Volvidon+
+Trenza Volvidon
+Escama de Kut-Ku
+Escama de Kut-Ku+
+Caparazón de Kut-Ku
+Coraza de Kut-Ku
+Oreja de Kut-Ku
+Oreja larga Kut-Ku
+Pico gigante
+Pico espléndido
+Membrana de Kut-Ku
+Híper escama Kut-Ku
+Piel elástica
+Piel elástica+
+Membrana Gypceros
+Ala de Gypceros
+Cabeza de Gypceros
+Híper piel de Gypceros
+Pluma celeste
+Pluma celeste+
+Membrana Malfestio
+Ala de Malfestio
+Espolón de Malfestio
+Espolón de Malfestio+
+Oreja de Malfestio
+Pluma cola Malfestio
+Pluma dorada Malfestio
+Híper pluma celeste
+Escama de Garuga
+Escama Garuga+
+Caparazón de Garuga
+Coraza de Garuga
+Oreja de Garuga
+Oreja larga Garuga
+Pico afilado
+Pico rejuvenecido
+Ala de Garuga
+Cola de Garuga
+Crin de Garuga
+Híper escama Garuga
+Escama de Cíclope
+Escama de Cíclope+
+Caparazón Cíclope
+Coraza de Cíclope
+Piel Mosswine
+Piel Bullfango
+Piel de Bullfango+
+Cabeza Bullfango
+Piel de Bulldrome
+Piel de Bulldrome+
+Colmillo Bulldrome
+Colmillo Bulldrome+
+Piel de Blango
+Piel de Blango+
+Piel de Blangonga
+Piel de Blangonga+
+Colmillo Blangonga
+Colmillo Blangonga+
+Pelo de Blangonga
+Cola de Blangonga
+Híper piel Blangonga
+Piel de Kecha+
+Hueso grande Kecha
+Garra de Kecha
+Oreja de Kecha+
+Cola de Kecha
+Híper piel de Kecha
+Caparazón lang peq.
+Caparazón lang gr.
+Escama Cephalos
+Escama de Cephalos+
+Aleta Cephalos
+Aleta de Cephalos+
+Colmillo de Cephalos
+Colmillo Cephalos+
+Escama Plesioth+
+Aleta de Plesioth+
+Colmillo Plesio+
+Cincha Plesioth
+Cabeza de Plesioth
+Híper escama Plesioth
+Escama de Lavasioth+
+Coraza de Lavasioth
+Colmillo Lavasioth+
+Aleta de Lavasioth+
+Híper esc. Lavasioth
+Piel hidra
+Piel hidra+
+Esponja inmadura
+Piel de esponja
+Piel esponja+
+Escama Lud. Real
+Escama Lud. Real+
+Garra Ludroth Real
+Garra Lud. Real+
+Cresta Lud. Real
+Cresta Lud. Real+
+Cola Lud. Real
+Híper esc. Lud. Real
+Caparazón de Nibels
+Coraza de Nibels
+Piel de Nibelsnarf
+Piel Nibelsnarf+
+Garra Nibelsnarf
+Garra Nibels+
+Cuero cab. Nibels
+Fluido intenso
+Fluido brillante
+Híper cap. Nibelsnarf
+Piel Lagiacrus
+Piel Lagiacrus+
+Escama Lagiacrus
+Escama de Lagiacrus+
+Caparazón de choque
+Caparazón choque+
+Cuerno Lagiacrus
+Cuerno de Lagiacrus+
+Cola Lagiacrus
+Garra Lagiacrus
+Garra Lagiacrus+
+Placa Lagiacrus
+Zafiro de Lagiacrus
+Híper piel Lagiacrus
+Escama Uroktor
+Escama Uroktor+
+Escama Agnaktor
+Coraza de Agnaktor
+Piel Agnaktor+
+Garra Agnaktor+
+Aleta de Agnaktor+
+Pico Agnaktor
+Cola Agnaktor
+Pleura hervida+
+Híper cap. Agnaktor
+Escama de Tetsu
+Escama de Tetsu+
+Caparazón de Tetsu
+Coraza de Tetsu
+Garra de Tetsucabra
+Garra Tetsucabra+
+Mandíbula Tetsucabra
+Mandíbula Tetsucab.+
+Cráneo señorial
+Aceite de prado
+Aceite de prado+
+Híper esc. Tetsucabra
+Escama Tetsu Toro
+Escama Tetsu Toro+
+Caparazón Tetsu Toro
+Coraza Tetsu Toro
+Colmillo Tetsu Toro
+Colmillo Tetsu Toro+
+Escama piel de Sharq
+Piel carnosa+
+Piel de Zamtrios+
+Escama de Zamtrios+
+Aleta de Zamtrios+
+Diente de Zamtrios
+Cola de Zamtrios
+Híper piel Zamtrios
+Caparazón Najarala
+Coraza de Najarala
+Piel de Najarala
+Piel de Najarala+
+Tuétano de Najarala
+Médula de Najarala
+Eco de Najarala
+Eco de Najarala+
+Colmillo de Najarala
+Pico aterrador
+Híper cap. Najarala
+Perla negra
+Cráneo de wyvern
+Cuerno carm. podrido
+Capz. Hermit. peq.
+Caparazón Hermitaur
+Coraza de Hermitaur
+Garra de Hermitaur
+Garra de Hermitaur+
+Híper esc. Hermitaur
+Caparazón H. Pétreo
+Coraza H. Pétreo
+Garra H. Pétreo
+Garra H. Pétreo+
+Capz. Ceanataur peq.
+Caparazón Ceanataur
+Coraza de Ceanataur
+Pata de Ceanataur
+Pata de Ceanataur+
+Garra de Ceanataur
+Garra de Ceanataur+
+Híper cap. Ceanataur
+Coraza de Seltas
+Ala interior Seltas
+Cuerno de Seltas+
+Coraza de S. Reina
+Tórax de S. Reina+
+Garra de S. Reina+
+Mandíbula S. Reina
+Media luna S. Reina
+Extracto de S. Reina
+Híper cap. S. Reina
+Escama Uragaan
+Escama Uragaan+
+Caparazón Uragaan
+Coraza Uragaan
+Mandíbula Uragaan
+Peto de Uragaan
+Tuétano de Uragaan
+Rubí Uragaan
+Híper escama Uragaan
+Escama Urag. Vítreo
+Escama Urag. Vítreo+
+Mandíbula U. Vítreo
+Fauces Urag. Vítreo
+Roca del tesoro
+Caparazón de Brach
+Coraza de Brach
+Brazal de Brach
+Brazal de Brach+
+Cráneo de Brach
+Cráneo de Brach+
+Baba misteriosa
+Martillo Brach
+Pata de Brachydios
+Cola Brachydios
+Tuétano de Brach
+Gema de Brachydios
+Híper capar. Brach
+Coraza Duram
+Escumusgo duro
+Giba Duramboros
+Cajacola Duram+
+Cuerno Duram+
+Sacro Duramboros
+Híper capar. Duram
+Piel flácida
+Piel Khezu curtida
+Hueso pálido
+Carne de Khezu
+Híper piel Khezu
+Escama de Nargacuga
+Escama de Narga+
+Pelo de Narga negro
+Piel Nargacuga+
+Cola Nargacuga
+Colaclavo Narga
+Ala cuchilla de Narga
+Cuchilla Narga
+Colmillo Nargacuga
+Colmillo Narga+
+Tuétano Nargacuga
+Médula Nargacuga
+Híper escama Narga
+Escama N. Argénteo
+Escama N. Argénteo+
+Pelo negro Argénteo
+Pelo negro Argénteo+
+Escama de Rathian
+Escama de Rathian+
+Caparazón de Rathian
+Coraza de Rathian
+Membrana de Rathian
+Púa de Rathian
+Púa de Rathian+
+Placa de Rathian
+Rubí de Rathian
+Híper escama Rathian
+Escama R. Maldita
+Escama R. Maldita+
+Caparazón R. Maldita
+Coraza R. Maldita
+Escama Rathian Dor.
+Coraza Rathian Dor.
+Púa Rathian Dorada+
+Híper esc. Rathian D.
+Escama de Rathalos
+Escama de Rathalos+
+Caparazón Rathalos
+Coraza de Rathalos
+Membrana Rathalos
+Ala de Rathalos
+Cola de Rathalos
+Placa de Rathalos
+Rubí de Rathalos
+Híper escama Rathalos
+Escama R. Maldito
+Escama R. Maldito+
+Caparazón R. Maldito
+Coraza Rath Maldito
+Escama Rath Plat.+
+Coraza Rathalos Plat.
+Cola Rathalos Plat.
+Híper esc. Rath Plat.
+Garra de Rath
+Tuétano de Rath
+Médula de Rath
+Elixir de Rath
+Caparazón de Zinogre
+Coraza de Zinogre
+Electropiel Zinogre
+Electropelo Zinogre
+Cuerno de Zinogre
+Cuerno de Zinogre+
+Garra de Zinogre
+Garra de Zinogre+
+Cola de Zinogre
+Capar. eléc. Zinogre
+Capar. eléc. Zinogre+
+Placa de Zinogre
+Jaspe de Zinogre
+Híper capar. Zinogre
+Capar. Z. Tormenta
+Coraza Z. Tormenta
+Electropiel Tormenta
+Electropelo Tormenta
+Cuerno Z. Tormenta
+Cuerno Z. Tormenta+
+Escama de Astalos
+Escama de Astalos+
+Caparazón Astalos
+Caparazón Astalos+
+Membrana Astalos
+Membrana Astalos+
+Espolón de Astalos
+Espolón de Astalos+
+Cresta de Astalos
+Cresta de Astalos+
+Cola de tijera Astalos
+Electroescama
+Electroescama+
+Placa de Astalos
+Electrogema Astalos
+Híper escama Astalos
+Piel de Gammoth
+Piel de Gammoth+
+Caparazón Gammoth
+Coraza de Gammoth
+Colmillo de Gammoth
+Colmillo Gammoth+
+Espina troncal
+Pelo Gammoth rojo
+Bloque de nieve
+Bloque nieve grande
+Cráneo de Gammoth
+Orbe hielo Gammoth
+Híper pelo de Gammoth
+Escama de Mizutsune
+Escama de Mizutsune+
+Pelo violeta Mizuts.
+Pelo violeta Mizuts.+
+Garra de Mizutsune
+Garra de Mizutsune+
+Aleta de Mizutsune
+Aleta de Mizutsune+
+Cola de Mizutsune
+Espuma burbujas
+Espuma burbujas+
+Placa de Mizutsune
+Orbe agua Mizutsune
+Híper esc. Mizutsune
+Escama de Glavenus
+Escama de Glavenus+
+Caparazón Glavenus
+Coraza de Glavenus
+Colmillo Glavenus
+Colmillo Glavenus+
+Pirocapar. Glavenus
+Pirocapar. Glavenus+
+Cola de Glavenus
+Trozo cola Glavenus
+Bolsa flamígera
+Bolsa solar
+Placa de Glavenus
+Orbe fuego Glavenus
+Híper esc. Glavenus
+Escama G. Inferno
+Escama G. Inferno+
+Caparazón G. Inferno
+Coraza G. Inferno
+Polvo Glav. Inferno
+Escama de Tigrex
+Escama de Tigrex+
+Caparazón de Tigrex
+Coraza de Tigrex
+Cola de Tigrex
+Garra de Tigrex
+Garra de Tigrex+
+Colmillo de Tigrex
+Colmillo de Tigrex+
+Cráneo de Tigrex
+Fauces de Tigrex
+Híper escama Tigrex
+Escama T. Guadaña
+Escama T. Guadaña+
+Caparazón T. Guadaña
+Coraza T. Guadaña
+Espolón T. Guadaña
+Espolón T. Guadaña+
+Filoescama Seregios
+Esclascama Seregios
+Esquirla de filo
+Filo de Seregios
+Garra de Seregios
+Cortador Seregios
+Empaladora Seregios
+Cercenador Seregios
+Fisurador Seregios
+Espolón de Seregios
+Arañadora Seregios
+Disidente Seregios
+Híper escama Seregios
+Escama Gore Magala
+Escama Gore Magala+
+Caparazón G. Magala
+Coraza Gore Magala
+Ala de Gore Magala
+Ala Gore Magala+
+Talón Gore Magala
+Espolón Gore Magala
+Cola Gore Magala
+Placa Gore Magala
+Nictogema G. Magala
+Sensor Gore Magala
+Sensor Gore Magala+
+Escama impura
+Híper esc. G. Magala
+Escama Shag. Magala
+Escama Shag. Magala+
+Caparazón S. Magala
+Coraza Shag. Magala
+Ala Shagaru Magala
+Ala Shagaru Magala+
+Talón Shagaru Magala
+Caricia Shag. Magala
+Cola Shagaru Magala
+Placa Shag. Magala
+Fosgema Shag. Magala
+Cuerno Shag. Magala
+Cuerno Shag. Magala+
+Escama pura
+Cuerno de Rajang
+Colmillo de Rajang+
+Piel Rajang negro
+Garra de Rajang+
+Cola de Rajang
+Piel Rajang dorado
+Melena de Rajang
+Nervio de Rajang
+Cuerno de oro
+Híper pelo Rajang
+Escama de Deviljho
+Piel de Deviljho
+Colmillo de Deviljho
+Garra de Deviljho
+Cuero cabell. Devil
+Cola de Deviljho
+Saliva de Deviljho
+Sangre negra
+Piel manchada
+Gema de Deviljho
+Híper esc. Deviljho
+Cuerno rayo Kirin
+Piel de Kirin
+Piel de Kirin+
+Crin de Kirin
+Cola de Kirin rayo
+Cuerno Kirin celeste
+Caparazón de Daora
+Coraza de Daora
+Escama de Daora
+Escama dragón Daora+
+Membrana de Daora
+Cuerno de Daora
+Cuerno de Daora+
+Cola de Daora
+Garra de Daora
+Garra afilada Daora
+Gema de Daora
+Piel Chameleos
+Piel de Chameleos+
+Cuerno Chameleos
+Púa de Chameleos
+Garra Chameleos
+Garra Chameleos+
+Membrana Chameleos
+Cola de Chameleos
+Gema de Chameleos
+Caparazón Teostra
+Coraza de Teostra
+Crin de Teostra
+Cola de Teostra
+Cuerno Teostra
+Cuerno de Teostra+
+Escama dragón fuego
+Escama dragón fuego+
+Garra dragón fuego
+Garra de Teostra+
+Membrana drag. fuego
+Polvo de Teostra
+Gema de Teostra
+Cristal de wyvern
+Escama de Akantor+
+Coraza de Akantor
+Cola de Akantor
+Zarpa de Akantor
+Colmillo de Akantor
+Púa de Akantor
+Gema de Akantor
+Coraza de Ukanlos
+Subescama Ukanlos
+Cola de Ukanlos
+Garra excav. Ukanlos
+Mandíb. pala Ukanlos
+Aleta de Ukanlos+
+Gema de Ukanlos
+Placa Alatreon
+Placa de Alatreon
+Garra Alatreon
+Membrana de Alatreon
+Cola Alatreon
+Cortacielos roto
+Cortacielos
+Gema celeste
+Coraza de Amatsu
+Membrana de Amatsu
+Cuerno de Amatsu
+Garra de Amatsu+
+Cola de Amatsu
+Pleura de Amatsu
+Vesícula de Amatsu
+Gema celestial
+Carcasa Nakarkos
+Carcasa Nakarkos+
+Caparazón Nakarkos
+Caparazón Nakarkos+
+Cráneo de Nakarkos
+Vértebra Nakarkos
+Piel de Nakarkos
+Brazal br. Nakarkos
+Colmillo Nakarkos
+Jibión de Nakarkos
+Orbe almas Nakarkos
+Mucosidad radiante
+Mucosidad radiante+
+Mapa
+Medicamento
+Medicamento+
+Ración
+Asador portátil
+Minipiedra afilada
+Tram. choque apy.
+Bomba luz apy.
+Bomb. sónica apy.
+Poción máx apy.
+Polvo vida apy.
+Tram. escollo apy.
+Bom. barr. gr. apy.
+Bebida caza apy.
+Munición balista
+Mun. balista desgast.
+Ciñebalista único
+Bomba antidragón
+Ticket zarpa
+Metal oxidado
+Metal ancestral
+Tela siniestra
+Tela oscura siniestra
+Artef. extravagantes
+Artefactos opulentos
+Estatua rota
+Estatua rota grande
+Trozo oscuro
+Piedra oscura
+Hervidor Felyne
+Harina arroz Yukumo
+Juego de muñecas
+Códice de arma
+Códice Ballesta
+Vale
+Vale gourmet
+Mención de honor
+Mención de honor G
+Galardón
+Galardón G
+Sello huella
+Ticket de Bherna
+Ticket de Kokoto
+Ticket Pokke
+Ticket de Yukumo
+Ticket de Wycademia
+Ticket camarada
+Ticket de zepelín
+Ticket del chef
+Ticket de comercio
+Ticket baño pies
+Ticket gremial bron.
+Ticket cinturón neg.
+Ticket experto
+Ticket de leyenda
+Ticket AV
+Ticket lujo AV
+Ticket bronce AV
+Ticket plata AV
+Ticket oro AV
+Ticket Rathalos EX
+Ticket Rathalos EX S
+Ticket Lavasioth EX
+Ticket Tigrex EX
+Ticket Tigrex EX S
+Ticket Zinogre EX
+Ticket Brachydios EX
+Ticket G. Magala EX
+Ticket S. Magala EX
+Ticket K. Daora EX
+Ticket Chameleos EX
+Ticket Teostra EX
+Ticket Rathian D. EX
+Ticket Rathalos P. EX
+Híper cazador I
+Híper cazador II
+Híper cazador III
+Cazador Ámbar I
+Cazador Ámbar II
+Cazador Ámbar III
+Cazador Ámbar IV
+Cazador Ámbar V
+Cazador Ámbar VI
+Cazador Ámbar VII
+Cazador Ámbar VIII
+Cazador Ámbar IX
+Cazador Ámbar X
+Cazador Alud I
+Cazador Alud II
+Cazador Alud III
+Cazador Alud IV
+Cazador Alud V
+Cazador Alud VI
+Cazador Alud VII
+Cazador Alud VIII
+Cazador Alud IX
+Cazador Alud X
+Cazador Pétreo I
+Cazador Pétreo II
+Cazador Pétreo III
+Cazador Pétreo IV
+Cazador Pétreo V
+Cazador Pétreo VI
+Cazador Pétreo VII
+Cazador Pétreo VIII
+Cazador Pétreo IX
+Cazador Pétreo X
+Cazador Maldita I
+Cazador Maldita II
+Cazador Maldita III
+Cazador Maldita IV
+Cazador Maldita V
+Cazador Maldita VI
+Cazador Maldita VII
+Cazador Maldita VIII
+Cazador Maldita IX
+Cazador Maldita X
+Cazador Toro I
+Cazador Toro II
+Cazador Toro III
+Cazador Toro IV
+Cazador Toro V
+Cazador Toro VI
+Cazador Toro VII
+Cazador Toro VIII
+Cazador Toro IX
+Cazador Toro X
+Cazador Argénteo I
+Cazador Argénteo II
+Cazador Argénteo III
+Cazador Argénteo IV
+Cazador Argénteo V
+Cazador Argénteo VI
+Cazador Argénteo VII
+Cazador Argénteo VIII
+Cazador Argénteo IX
+Cazador Argénteo X
+Cazador Vítreo I
+Cazador Vítreo II
+Cazador Vítreo III
+Cazador Vítreo IV
+Cazador Vítreo V
+Cazador Vítreo VI
+Cazador Vítreo VII
+Cazador Vítreo VIII
+Cazador Vítreo IX
+Cazador Vítreo X
+Cazador Cíclope I
+Cazador Cíclope II
+Cazador Cíclope III
+Cazador Cíclope IV
+Cazador Cíclope V
+Cazador Cíclope VI
+Cazador Cíclope VII
+Cazador Cíclope VIII
+Cazador Cíclope IX
+Cazador Cíclope X
+Cazador Maldito I
+Cazador Maldito II
+Cazador Maldito III
+Cazador Maldito IV
+Cazador Maldito V
+Cazador Maldito VI
+Cazador Maldito VII
+Cazador Maldito VIII
+Cazador Maldito IX
+Cazador Maldito X
+Cazador Tormenta I
+Cazador Tormenta II
+Cazador Tormenta III
+Cazador Tormenta IV
+Cazador Tormenta V
+Cazador Tormenta VI
+Cazador Tormenta VII
+Cazador Tormenta VIII
+Cazador Tormenta IX
+Cazador Tormenta X
+Cazador Guadaña I
+Cazador Guadaña II
+Cazador Guadaña III
+Cazador Guadaña IV
+Cazador Guadaña V
+Cazador Guadaña VI
+Cazador Guadaña VII
+Cazador Guadaña VIII
+Cazador Guadaña IX
+Cazador Guadaña X
+Cazador Inferno I
+Cazador Inferno II
+Cazador Inferno III
+Cazador Inferno IV
+Cazador Inferno V
+Cazador Inferno VI
+Cazador Inferno VII
+Cazador Inferno VIII
+Cazador Inferno IX
+Cazador Inferno X
+Jalea real
+Seta especial
+Seta selecta
+Seta madura
+Gran seta
+Seta abismal
+Brote imperial
+Baya tropical
+Hierbas de montaña
+Helecho único
+Helecho selecto
+Pez dorado
+Pez de plata
+Pez brocado
+Pez brocado real
+Sashimi especial
+Rinoceronte real
+Rinoceronte divino
+Grillo plateado
+Grillo dorado
+Polilla inmortal
+Polilla inm. grande
+Pieza aurirroca
+Trozo aurirroca
+Pieza Ónix
+Trozo Ónix
+Pieza ámbar dragón
+Trozo ámbar dragón
+Hueso de cristal
+Hematita
+Hematita intensa
+Carbón
+Carbón volátil
+Hueso fosilizado
+Escama drag. podrida
+Hígado blanco
+Aceite Slagtoth
+Bolsa secreta
+Bellota redonda
+Estómago selecto
+Estómago de luz
+Tripas de monstruo
+Hígado de nadador
+Lengua de Popo
+Hígado de Apceros
+Baya vieja
+Raíz de nenúfar
+Tubérculo de nenúfar
+Pelo de Moofah
+Huevo de Gargwa
+Huevo oro Gargwa
+Huevo de wyvern
+Miner. piedra carbón
+Mineral cuarzo
+Piedra pólvora
+Huevo de carnívoro
+Fragmento de meteoro
+Fósil eterno
+Bandera del gremio
+Guano de Gargwa
+Boñiga territorial
+Boñiga territorial+
+Esencia de zángano
+Esencia de reina
+Lágrimas de sapo
+Lágrimas de sapo G
+Sesos de carapaceon
+Sesos carapaceon+
+Perla de cangrejo
+Perla de cangrejo+
+Lágrimas de wyvern
+Lágrima de wyvern G
+Lágrimas de bestia
+Lágrima de bestia G
+Tesoro de dragón
+Tesoro drag. antiguo
+Piedra de cólera
+Cristal de cólera
+Cristal colérico vil
+Larva de Khezu
+Moneda de Khezu
+Moneda de Najarala
+Moneda de Rathalos
+Moneda de Kecha
+Moneda Plesioth
+Moneda Brachydios
+Moneda Gypceros
+Moneda Drome
+Resto humilde
+Resto humilde+
+Resto excelente
+Resto excelente+
+Resto de mineral
+Resto de mineral+
+Resto de insecto
+Resto de insecto+
+Trozo de hueso
+Trozo de hueso+
+Trozo de madera
+Trozo de madera+
+Resto de pelo
+Resto de pelo+
+Resto Rhenoplos
+Resto Rhenoplos+
+Resto Slagtoth+
+Resto Bnahabra
+Resto Bnahabra+
+Resto Gran Jaggi
+Resto Gran Jaggi+
+Resto Maccao
+Resto Maccao+
+Resto Velociprey
+Resto Velociprey+
+Resto Genprey
+Resto Genprey+
+Resto Ioprey
+Resto Ioprey+
+Resto Arzuros
+Resto Arzuros+
+Resto Ámbar
+Resto sup. de Ámbar
+Resto Lagombi
+Resto Lagombi+
+Resto Alud
+Resto sup. de Alud
+Resto Volvidon
+Resto Volvidon+
+Resto Kut-Ku
+Resto Kut-Ku+
+Híper resto Kut-Ku
+Resto Gypceros
+Resto Gypceros+
+Híper resto Gypceros
+Resto Malfestio
+Resto Malfestio+
+Híper resto Malfestio
+Resto Garuga
+Resto Garuga+
+Híper resto Garuga
+Resto Cíclope
+Resto sup. de Cíclope
+Resto Bulldrome
+Resto Bulldrome+
+Resto Blangonga
+Resto Blangonga+
+Híper resto Blangonga
+Resto Kecha+
+Híper resto Kecha
+Resto Cephalos
+Resto Cephalos+
+Resto Plesioth+
+Híper resto Plesioth
+Resto Lavasioth+
+Híper resto Lavasioth
+Resto Lud. Real
+Resto Lud. Real+
+Híper resto Lud. Real
+Resto Nibelsnarf
+Resto Nibelsnarf+
+Híper resto Nibelsnarf
+Resto Lagiacrus
+Resto Lagiacrus+
+Híper resto Lagiacrus
+Resto Agnaktor+
+Híper resto Agnaktor
+Resto Tetsucabra
+Resto Tetsucabra+
+Híper resto Tetsucabra
+Resto Toro
+Resto sup. de Toro
+Resto Zamtrios+
+Híper resto Zamtrios
+Resto Najarala
+Resto Najarala+
+Híper resto Najarala
+Resto Hermitaur
+Resto Hermitaur+
+Híper resto Hermitaur
+Resto Pétreo
+Resto sup. de Pétreo
+Resto Shogun
+Resto Shogun+
+Híper resto Shogun
+Resto S. Reina+
+Híper resto S. Reina
+Resto Uragaan
+Resto Uragaan+
+Híper resto Uragaan
+Resto Vítreo
+Resto sup. de Vítreo
+Resto Brach
+Resto Brach+
+Híper resto Brach
+Resto Duram+
+Híper resto Duram
+Resto Khezu
+Resto Khezu+
+Híper resto Khezu
+Resto Nargacuga
+Resto Nargacuga+
+Híper resto Nargacuga
+Resto Argénteo
+Resto sup. de Argénteo
+Resto Rathian
+Resto Rathian+
+Híper resto Rathian
+Resto Maldita
+Resto sup. de Maldita
+Resto Rathalos
+Resto Rathalos+
+Híper resto Rathalos
+Resto Maldito
+Resto sup. de Maldito
+Resto Zinogre
+Resto Zinogre+
+Híper resto Zinogre
+Resto Tormenta
+Resto sup. de Tormenta
+Resto Astalos
+Resto Astalos+
+Híper resto Astalos
+Resto Gammoth
+Resto Gammoth+
+Híper resto Gammoth
+Resto Mizutsune
+Resto Mizutsune+
+Híper resto Mizutsune
+Resto Glavenus
+Resto Glavenus+
+Híper resto Glavenus
+Resto Inferno
+Resto sup. de Inferno
+Resto Tigrex
+Resto Tigrex+
+Híper resto Tigrex
+Resto Guadaña
+Resto sup. de Guadaña
+Resto Seregios
+Resto Seregios+
+Híper resto Seregios
+Resto G. Magala
+Resto G. Magala+
+Híper resto G. Magala
+Resto S. Magala
+Resto S. Magala+
+Resto Rajang+
+Híper resto Rajang
+Resto Deviljho+
+Híper resto Deviljho
+Resto Kirin
+Resto Kirin+
+Resto K. Daora
+Resto K. Daora+
+Resto Chameleos
+Resto Chameleos+
+Resto Teostra
+Resto Teostra+
+Resto Akantor+
+Resto Ukanlos+
+Resto Alatreon+
+Resto Amatsu+
+Trozo de cáscara
+Trozo de cáscara+
+Resto Nakarkos+
+Híper resto
+Híper resto+
+Resto irregular
+Resto sup. irregular
+Obj. Rathian
+Obj. Rath Dorada
+Obj. Maldita
+Obj. Rathalos
+Obj. Rathalos Plat.
+Obj. Maldito
+Obj. Khezu
+Obj. Yian Kut-Ku
+Obj. Gypceros
+Obj. Plesioth
+Obj. Kirin
+Obj. Velocidrome
+Obj. Gendrome
+Obj. Iodrome
+Obj. Cephadrome
+Obj. Yian Garuga
+Obj. Cíclope
+Obj. Daimyo Herm.
+Obj. Herm. Pétreo
+Obj. Shogun Cean.
+Obj. Blangonga
+Obj. Rajang
+Obj. Raj. Colérico
+Obj. Kushala Daora
+Obj. Chameleos
+Obj. Teostra
+Obj. Bulldrome
+Obj. Tigrex
+Obj. Tigr. Guadaña
+Obj. Akantor
+Obj. Lavasioth
+Obj. Nargacuga
+Obj. Narg Argénteo
+Obj. Ukanlos
+Obj. Deviljho
+Obj. Deviljho Col.
+Obj. Uragaan
+Obj. Urag. Vítreo
+Obj. Lagiacrus
+Obj. Ludroth Real
+Obj. Agnaktor
+Obj. Alatreon
+Obj. Duramboros
+Obj. Nibelsnarf
+Obj. Zinogre
+Obj. Tormenta
+Obj. Amatsu
+Obj. Arzuros
+Obj. Arzuros Ámbar
+Obj. Lagombi
+Obj. Alud
+Obj. Volvidon
+Obj. Brachydios
+Obj. Kecha Wacha
+Obj. Tetsucabra
+Obj. Toro
+Obj. Zamtrios
+Obj. Najarala
+Obj. Seltas Reina
+Obj. Gore Magala
+Obj. Shagaru Mag.
+Obj. Seltas
+Obj. Seregios
+Obj. Malfestio
+Obj. Glavenus
+Obj. Glavenus Inf.
+Obj. Astalos
+Obj. Mizutsune
+Obj. Gammoth
+Obj. Nakarkos
+Obj. Gran Maccao
+Obj. Aptonoth
+Obj. Apceros
+Obj. Kelbi
+Obj. Mosswine
+Obj. Hornetaur
+Obj. Vespoid
+Obj. Velociprey
+Obj. Genprey
+Obj. Ioprey
+Obj. Cephalos
+Obj. Bullfango
+Obj. Popo
+Obj. Giaprey
+Obj. Anteka
+Obj. Remobra
+Obj. Hermitaur
+Obj. Ceanataur
+Obj. Blango
+Obj. Rhenoplos
+Obj. Bnahabra
+Obj. Altaroth
+Obj. Jaggi
+Obj. Jaggia
+Obj. Ludroth
+Obj. Uroktor
+Obj. Slagtoth
+Obj. Gargwa
+Obj. Zamite
+Obj. Konchu
+Obj. Maccao
+Obj. Larinoth
+Obj. Moofah
+Bellota Akin
+Bellota Akin grande
+Guía entr.
+Código entr.
+Zumo de tomate
+Emblema Fairy Tail
+Moneda de pirata J F
+Cartón
+Moneda de Uniqlo
+Pase Univ. Studios
+Moneda de los Crows
+Club de bicicletas
+Entrada a la Arena
+Moneda de gatabuelo
+Ticket CoroCoro
+Moneda de Ushio
+Moneda de Magi
+Polvo est. Pluto
+Giro del destino
+Ticket de pirata J
+Ticket Famitsu
+Ticket Dengeki
+Moneda de Uniqlo S
+Pase extraordinario
+Pase oro Un. Studios
+Pase maravilloso
+Batuta de los vientos
+Tarjeta embarque Arwing
+Superchampiñón
+Paleta de colores
+Trifuerza
+Moneda de Samus
+Gracia de diosa
+Abrazo de diosa
+Moneda SF
+Esfera roja
+Ceratanium
+Sello de héroe
+Diario de cachorros
+Diario de Sunsnug
+Boletín club de fans
+Formulario club de fans
+Invitación fan
+Ticket de marioneta
+Gran piedra
+Carta de mensajero
+Pergamino celestial
+Huevo Gudegude
+Monedas Macross Δ
+Coraza de Arthur
+Option
+Escudo de sellos
+Híper Objeto
